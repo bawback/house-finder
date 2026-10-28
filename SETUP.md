@@ -41,3 +41,27 @@
 5. `/prefs` را بزنید و معیارها را ببینید. `/help` همهٔ دستورها را نشان می‌دهد.
 
 از این به بعد ربات هر ۳۰ دقیقه اجرا می‌شود. GitHub گاهی ۵ تا ۱۵ دقیقه هم دیرتر اجرا می‌کند.
+
+## ۶. اجرای منظم هر ۳۰ دقیقه با cron-job.org (رایگان)
+زمان‌بندی خود GitHub برای ریپوهای کم‌فعالیت گاهی چند ساعت عقب می‌افتد. با این روش، یک سایت رایگان هر ۳۰ دقیقه به GitHub می‌گوید ربات را اجرا کند.
+
+**الف. ساختن توکن محدود در GitHub**
+1. به [github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new) بروید.
+2. **Token name**: `cron-job`. **Expiration**: یک سال (366 days).
+3. **Repository access**: گزینهٔ **Only select repositories** و بعد `house-finder`.
+4. **Permissions ← Repository permissions ← Actions**: روی **Read and write** بگذارید. به بقیه دست نزنید.
+5. **Generate token** را بزنید و توکن (که با `github_pat_` شروع می‌شود) را کپی کنید. این توکن را فقط در cron-job.org وارد کنید.
+
+**ب. ساختن کار زمان‌بندی‌شده در cron-job.org**
+1. در [cron-job.org](https://cron-job.org) حساب رایگان بسازید و **Create cronjob** را بزنید.
+2. **URL**:
+   `https://api.github.com/repos/bawback/house-finder/actions/workflows/house-finder.yml/dispatches`
+3. **Execution schedule**: **Every 30 minutes**.
+4. در تب **Advanced**:
+   - **Request method**: `POST`
+   - **Headers** (سه تا):
+     - `Accept` = `application/vnd.github+json`
+     - `Authorization` = `Bearer ` و بعد توکن (بعد از Bearer یک فاصله بگذارید)
+     - `X-GitHub-Api-Version` = `2022-11-28`
+   - **Request body**: `{"ref":"main"}`
+5. ذخیره کنید و **Test run** را بزنید. جواب باید **204** باشد و در تب Actions گیت‌هاب یک اجرای جدید ببینید.
