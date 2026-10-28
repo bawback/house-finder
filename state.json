@@ -79,15 +79,14 @@
    "phone": ""
   },
   "exclude_sale_agreed": true,
-  "min_ber": "B3",
+  "min_ber": "C1",
   "parking_min": 1,
   "prefer_new_build": true,
   "property_types": [
    "detached",
    "semi-detached",
    "end-of-terrace",
-   "terraced",
-   "apartment"
+   "terraced"
   ]
  },
  "seen": {
