@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 6,
+ "last_email_uid": 7,
  "paused": false,
  "prefs": {
   "apartment_max_price": 500000,
@@ -91,8 +91,32 @@
   ]
  },
  "seen": {
+  "https://www.myhome.ie/residential/brochure/25-abbots-grove-avenue-knocklyon-dublin-16/5038549": 1793220257,
   "https://www.myhome.ie/residential/brochure/46-cloch-choirneal-balrothery-county-dublin/5038466": 1793219754
  },
- "sent": {},
- "telegram_offset": 593474597
+ "sent": {
+  "98b8529ce9": {
+   "_sent_at": 1793220257,
+   "address": "25 Abbots Grove Avenue, Knocklyon, Dublin 16, Knocklyon, Dublin 16",
+   "agent_email": null,
+   "agent_name": null,
+   "agent_phone": null,
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "A2",
+   "description": "25 Abbots Grove Avenue, Knocklyon, Dublin 16, 3 Bed, asking price €545,000, brought to market by Sherry FitzGerald Templeogue, Residential - 5038549 (rated A2)",
+   "details_fetched": true,
+   "floor_area_m2": 106.0,
+   "image": "https://photos-a.propertyimages.ie/media/9/4/5/5038549/26e8a6a9-aebb-4839-ac0b-1052c271ce35_x.jpg",
+   "new_build": false,
+   "parking": 2,
+   "price": 545000,
+   "property_type": "terraced",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/25-abbots-grove-avenue-knocklyon-dublin-16/5038549",
+   "viewings": []
+  }
+ },
+ "telegram_offset": 593474599
 }
