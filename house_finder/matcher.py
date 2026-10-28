@@ -81,6 +81,10 @@ def evaluate(listing: Listing, prefs: dict) -> Verdict:
     area = matches_area(listing.address, prefs.get("areas") or [])
     if area is None:
         reject("area not in list")
+    avoid = prefs.get("avoid_areas") or []
+    bad = matches_area(listing.address, avoid) if avoid else None
+    if bad:
+        reject(f"avoided area {bad}")
 
     ptype = listing.property_type
     if ptype and types and ptype not in types:

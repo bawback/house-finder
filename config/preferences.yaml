@@ -6,14 +6,14 @@ budget:
   htb_max: 500000          # Help to Buy price limit (new builds, first-time buyers)
 
 # Order = priority. Allowed values: detached, semi-detached, terraced, end-of-terrace, apartment
-property_types: [detached, semi-detached, end-of-terrace, terraced, apartment]
+property_types: [detached, semi-detached, end-of-terrace, terraced]
 
 bedrooms: {min: 2, ideal: 3, max: 4}
 bathrooms: {min: 2, ideal: 3}
 apartment_min_bedrooms: 2
 apartment_max_price: 500000
 
-min_ber: B3                # A1 (best) .. G. "Green" labels are A1-B3.
+min_ber: C1                # A1 (best) .. G. "Green" labels are A1-B3.
 parking_min: 1
 exclude_sale_agreed: true
 prefer_new_build: true
@@ -75,6 +75,61 @@ areas:
   - Leixlip
   - Dunboyne
   - Ratoath
+
+# A listing whose address names any of these is never sent, even inside a wanted area
+# (for example Little Bray, or Ballybrack next to Killiney). Based on areas that crime
+# statistics and the Pobal deprivation index consistently rank as disadvantaged.
+avoid_areas:
+  # Pockets next to the wanted southside areas
+  - Ballybrack
+  - Loughlinstown
+  - Sallynoggin
+  - Little Bray
+  - Fassaroe
+  - Oldcourt
+  - Ballywaltrim
+  # Pockets next to the wanted northside and west areas
+  - Kilbarrack
+  - Coolock
+  - Darndale
+  - Priorswood
+  - Moatview
+  - Blanchardstown
+  - Mulhuddart
+  - Corduff
+  - Tyrrelstown
+  - Hartstown
+  - Huntstown
+  # Wider Dublin
+  - Tallaght
+  - Jobstown
+  - Fettercairn
+  - Killinarden
+  - Clondalkin
+  - Neilstown
+  - Rowlagh
+  - Quarryvale
+  - Ballyfermot
+  - Cherry Orchard
+  - Finglas
+  - Ballymun
+  - Cabra
+  - Crumlin
+  - Drimnagh
+  - Dolphin's Barn
+  - Inchicore
+  - Bluebell
+  - Sheriff Street
+  - Summerhill
+  - Ballybough
+  - Gardiner Street
+  - Dorset Street
+  - Dublin 1
+  - Dublin 10
+  - Dublin 11
+  - Dublin 17
+  - Dublin 22
+  - Dublin 24
 
 # Your details, used when the bot writes a viewing request for you.
 contact:

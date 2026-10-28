@@ -79,6 +79,18 @@ def handle_command(text: str, state: State, send_email: EmailSender = None) -> s
             before = len(p.get("areas") or [])
             p["areas"] = [a for a in p.get("areas") or [] if a.lower() != arg.lower()]
             return f"✅ حذف شد: {esc(arg)}" if len(p["areas"]) < before else f"❌ پیدا نشد: {esc(arg)}"
+        if cmd == "/avoid":
+            if not arg:
+                avoid = p.get("avoid_areas") or []
+                return "<b>محله‌های ممنوع</b>\n" + (esc("، ".join(avoid)) if avoid else "هیچ")
+            p.setdefault("avoid_areas", [])
+            if arg.lower() not in (a.lower() for a in p["avoid_areas"]):
+                p["avoid_areas"].append(arg)
+            return f"🚫 به محله‌های ممنوع اضافه شد: {esc(arg)}"
+        if cmd == "/unavoid":
+            before = len(p.get("avoid_areas") or [])
+            p["avoid_areas"] = [a for a in p.get("avoid_areas") or [] if a.lower() != arg.lower()]
+            return f"✅ از محله‌های ممنوع حذف شد: {esc(arg)}" if len(p["avoid_areas"]) < before else f"❌ پیدا نشد: {esc(arg)}"
         if cmd == "/contact":
             fields = [x.strip() for x in arg.split("|")]
             if len(fields) != 3:

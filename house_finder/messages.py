@@ -72,10 +72,11 @@ HELP = """<b>دستورها</b>
 /ber B3 حداقل برچسب انرژی
 /parking 1 حداقل پارکینگ
 /types detached semi-detached end-of-terrace terraced apartment
-   (ترتیب = اولویت)
+   (ترتیب = اولویت؛ apartment را هم می‌شود اضافه کرد)
 /areas فهرست محله‌ها
 /addarea Howth اضافه کردن محله
 /removearea Bray حذف محله
+/avoid فهرست محله‌های ممنوع، /avoid Tallaght اضافه، /unavoid Tallaght حذف
 /contact Babak Smith | 0871234567 | me@email.com
    مشخصات شما برای درخواست بازدید
 /viewing کد ـ متن درخواست بازدید برای یک آگهی
@@ -98,6 +99,6 @@ def prefs_summary(p: dict, paused: bool) -> str:
         f"⚡ BER: حداقل {p.get('min_ber')}",
         f"🚗 پارکینگ: حداقل {p.get('parking_min')}",
         f"🏢 آپارتمان: حداقل {p.get('apartment_min_bedrooms')} خواب، تا {fmt_price(p.get('apartment_max_price'))}",
-        f"📍 {len(p.get('areas') or [])} محله (/areas)",
+        f"📍 {len(p.get('areas') or [])} محله (/areas)، {len(p.get('avoid_areas') or [])} محلهٔ ممنوع (/avoid)",
         f"👤 تماس: {esc(c.get('name') or '-')} {esc(c.get('phone') or '')} {esc(c.get('email') or '')}",
     ])

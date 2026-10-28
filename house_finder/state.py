@@ -21,6 +21,7 @@ class State:
     def __init__(self, path: Path, data: dict | None = None):
         self.path = Path(path)
         self.data = data or {}
+        self._defaults_merged = False
         self.data.setdefault("telegram_offset", 0)
         self.data.setdefault("chats", [])
         self.data.setdefault("prefs", None)
@@ -57,6 +58,11 @@ class State:
     def prefs(self) -> dict:
         if self.data["prefs"] is None:
             self.data["prefs"] = load_default_prefs()
+        elif not self._defaults_merged:
+            # Settings added to preferences.yaml after the bot first ran.
+            for key, value in load_default_prefs().items():
+                self.data["prefs"].setdefault(key, value)
+        self._defaults_merged = True
         return self.data["prefs"]
 
     def reset_prefs(self) -> None:

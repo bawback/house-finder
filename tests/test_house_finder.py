@@ -107,7 +107,7 @@ def test_good_listing_matches(prefs):
     (dict(price=750000), "budget"),
     (dict(bedrooms=1), "bedrooms"),
     (dict(bathrooms=1), "bathrooms"),
-    (dict(ber="C1"), "BER"),
+    (dict(ber="D1"), "BER"),
     (dict(sale_agreed=True), "sale agreed"),
     (dict(address="5 Main St, Tallaght, Dublin 24"), "area"),
     (dict(property_type="apartment", bedrooms=1), "apartment"),
@@ -217,3 +217,31 @@ def test_pairing_and_private(state):
     assert state.prefs["budget"]["max"] == 700000
     assert state.data["telegram_offset"] == 5
     assert ("private" in tg.sent[0][1] or "خصوصی" in tg.sent[0][1])
+
+
+def test_avoided_areas(prefs):
+    assert not evaluate(good_listing(address="12 Old Court, Little Bray, Co. Wicklow"), prefs).ok
+    assert not evaluate(good_listing(address="5 Beech Park, Ballybrack, Co. Dublin"), prefs).ok
+    assert evaluate(good_listing(address="5 Main St, Bray, Co. Wicklow"), prefs).ok
+    assert evaluate(good_listing(address="Castleknock, Dublin 15"), prefs).ok
+
+
+def test_houses_only_by_default(prefs):
+    v = evaluate(good_listing(property_type="apartment"), prefs)
+    assert not v.ok
+    assert evaluate(good_listing(ber="C1"), prefs).ok
+    assert not evaluate(good_listing(ber="C2"), prefs).ok
+
+
+def test_avoid_commands(state):
+    handle_command("/avoid Shankill", state)
+    assert "Shankill" in state.prefs["avoid_areas"]
+    handle_command("/unavoid tallaght", state)
+    assert "Tallaght" not in state.prefs["avoid_areas"]
+
+
+def test_old_saved_prefs_get_new_settings(tmp_path):
+    old = load_default_prefs()
+    del old["avoid_areas"]
+    s = State(tmp_path / "s.json", {"prefs": old})
+    assert "Tallaght" in s.prefs["avoid_areas"]
