@@ -1,0 +1,83 @@
+# Starting preferences. Changes made from Telegram are saved in the bot's state
+# (the "state" branch) and override these values.
+
+budget:
+  max: 700000
+  htb_max: 500000          # Help to Buy price limit (new builds, first-time buyers)
+
+# Order = priority. Allowed values: detached, semi-detached, terraced, end-of-terrace, apartment
+property_types: [detached, semi-detached, end-of-terrace, terraced, apartment]
+
+bedrooms: {min: 2, ideal: 3, max: 4}
+bathrooms: {min: 2, ideal: 3}
+apartment_min_bedrooms: 2
+apartment_max_price: 500000
+
+min_ber: B3                # A1 (best) .. G. "Green" labels are A1-B3.
+parking_min: 1
+exclude_sale_agreed: true
+prefer_new_build: true
+
+# A listing must mention at least one of these in its address.
+# Leave empty to accept any area (your saved searches already filter by area).
+areas:
+  # South Dublin, ~30 min
+  - Blackrock
+  - Monkstown
+  - Booterstown
+  - Mount Merrion
+  - Stillorgan
+  - Dalkey
+  - Killiney
+  - Glenageary
+  - Sandycove
+  - Dun Laoghaire
+  - Dún Laoghaire
+  - Foxrock
+  - Cabinteely
+  - Carrickmines
+  - Leopardstown
+  - Sandyford
+  - Dundrum
+  - Churchtown
+  - Ballinteer
+  - Rathfarnham
+  - Knocklyon
+  - Templeogue
+  - Terenure
+  - Rathgar
+  - Ranelagh
+  - Milltown
+  - Clonskeagh
+  - Goatstown
+  - Dublin 4
+  - Dublin 6
+  - Dublin 14
+  - Dublin 16
+  - Dublin 18
+  # South, 45-60 min
+  - Greystones
+  - Delgany
+  - Kilcoole
+  - Enniskerry
+  - Kilmacanogue
+  - Old Conna
+  - Bray
+  # North and west
+  - Malahide
+  - Portmarnock
+  - Howth
+  - Sutton
+  - Clontarf
+  - Castleknock
+  - Maynooth
+  - Celbridge
+  - Leixlip
+  - Dunboyne
+  - Ratoath
+
+# Your details, used when the bot writes a viewing request for you.
+contact:
+  name: ""
+  phone: ""
+  email: ""

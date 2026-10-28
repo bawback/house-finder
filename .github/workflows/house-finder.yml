@@ -1,0 +1,60 @@
+name: house-finder
+
+on:
+  schedule:
+    # Every 30 minutes, off the hour mark (GitHub delays jobs that start exactly on the hour).
+    # A private repo gets 2,000 free minutes a month; each run takes about one minute.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: house-finder
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # The bot's memory (seen listings, your Telegram changes) lives on the "state" branch,
+      # so it never clutters main.
+      - name: Check out state branch
+        run: |
+          git config user.name "house-finder bot"
+          git config user.email "house-finder-bot@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin state >/dev/null; then
+            git fetch --depth 1 origin state:state
+            git worktree add data state
+          else
+            git worktree add --orphan -b state data
+          fi
+
+      - name: Run
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          PAIR_CODE: ${{ secrets.PAIR_CODE }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python -m house_finder --state data/state.json
+
+      - name: Save state
+        if: always()
+        working-directory: data
+        run: |
+          [ -f state.json ] || exit 0
+          git add state.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Update bot state"
+          git push -q origin state
