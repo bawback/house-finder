@@ -109,6 +109,24 @@ def gather(state: State, http: requests.Session, gmail: str, gmail_pw: str, full
     return [l for url, l in found.items() if not state.is_seen(url)]
 
 
+def save_samples(state: State, http: requests.Session) -> None:
+    """Save raw copies of a few pages to debug/ on the state branch, to check the parsers."""
+    out = state.path.parent / "debug"
+    out.mkdir(parents=True, exist_ok=True)
+    urls = {"myhome-search": "https://www.myhome.ie/residential/dublin-14/house-for-sale",
+            "daft-search": searches_for(state.prefs)[0].url}
+    for i, url in enumerate(list(state.data["pending"])[:3]):
+        urls[f"listing-{i}"] = url
+    for name, url in urls.items():
+        try:
+            r = http.get(url, timeout=25)
+            body = f"<!-- {url} HTTP {r.status_code} -->\n" + r.text[:800_000]
+        except requests.RequestException as e:
+            body = f"<!-- {url} failed: {e} -->"
+        (out / f"{name}.html").write_text(body, encoding="utf-8")
+        time.sleep(PAGE_DELAY_SECONDS)
+
+
 def run(state_path: Path, dry_run: bool = False, force_full_sweep: bool = False) -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     gmail = os.environ.get("GMAIL_ADDRESS", "")
@@ -128,6 +146,9 @@ def run(state_path: Path, dry_run: bool = False, force_full_sweep: bool = False)
             log.exception("reading Telegram updates failed")
     else:
         log.warning("TELEGRAM_BOT_TOKEN not set")
+
+    if state.data.pop("save_samples", False):
+        save_samples(state, http)
 
     requested = state.data.pop("full_sweep_requested", False)
     due = time.time() - state.data.get("last_full_sweep", 0) > FULL_SWEEP_EVERY_HOURS * 3600
