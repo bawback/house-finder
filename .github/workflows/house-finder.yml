@@ -59,4 +59,10 @@ jobs:
           git add -A
           git diff --cached --quiet && exit 0
           git commit -q -m "Update bot state"
-          git push -q origin state
+          # If the branch moved during the run, put this run's state on top so nothing is lost.
+          if ! git push -q origin state; then
+            git fetch -q --depth 1 origin state
+            git reset -q --soft FETCH_HEAD
+            git commit -q -m "Update bot state"
+            git push -q origin state
+          fi
