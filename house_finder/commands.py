@@ -97,6 +97,9 @@ def handle_command(text: str, state: State, send_email: EmailSender = None) -> s
                 return "❌ این‌طور بنویسید: /contact نام | تلفن | ایمیل"
             p["contact"] = dict(zip(("name", "phone", "email"), fields))
             return "✅ مشخصات تماس ذخیره شد."
+        if cmd == "/all":
+            state.data["full_sweep_requested"] = True
+            return "🔎 در اجرای بعدی همهٔ آگهی‌های فعلی Daft و MyHome بررسی می‌شوند و موارد مناسب فرستاده می‌شوند."
         if cmd == "/pause":
             state.data["paused"] = True
             return "⏸️ ارسال آگهی متوقف شد. برای ادامه /resume"

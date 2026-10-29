@@ -29,6 +29,7 @@ class State:
         self.data.setdefault("sent", {})        # listing id -> listing dict (for viewing requests)
         self.data.setdefault("paused", False)
         self.data.setdefault("last_email_uid", 0)
+        self.data.setdefault("pending", {})     # matches waiting to be sent (url -> listing dict)
 
     @classmethod
     def load(cls, path: Path) -> "State":

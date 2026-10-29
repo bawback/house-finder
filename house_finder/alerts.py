@@ -15,7 +15,7 @@ log = logging.getLogger(__name__)
 
 
 LISTING_PATTERNS = {
-    "daft": re.compile(r"^https://www\.daft\.ie/(?:for-sale|new-home|new-homes-for-sale)/[^/?#]+/\d+"),
+    "daft": re.compile(r"^https://www\.daft\.ie/(?:for-sale|new-home-for-sale|new-home|new-homes-for-sale)/[^/?#]+/\d+"),
     "myhome": re.compile(r"^https://www\.myhome\.ie/(?:residential|newhomes)/brochure/[^/?#]+/\d+"),
     "propertyie": re.compile(r"^https://www\.property\.ie/property-for-sale/[^?#]+?/\d+[^/?#]*/?"),
 }

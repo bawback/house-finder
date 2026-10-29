@@ -11,18 +11,25 @@ Every 30 minutes a GitHub Actions job:
 1. Reads Telegram commands sent to the bot (preference changes, viewing requests).
 2. Reads new listing-alert emails (Daft.ie, MyHome.ie, Property.ie, or any email that links to them)
    from the bot's Gmail inbox over IMAP.
-3. Opens each new listing page once, a few seconds apart, and extracts price, beds, baths, type, BER,
+3. Reads the newest page of each Daft search. Once a day (or after `/all`) it reads every page of
+   the Daft and MyHome searches, so all current listings are covered, not only new ones.
+4. Skips listings whose search card already rules them out, then opens each remaining listing page once, a few seconds apart, and extracts price, beds, baths, type, BER,
    parking, garden hints, viewing times and agent contact.
-4. Filters and scores it against the preferences, and posts matches to the paired Telegram chat.
+5. Filters and scores it against the preferences, and posts matches to the paired Telegram chat,
+   best first, at most 40 per run (the rest follow in the next runs).
 
 The bot's memory (seen listings, preferences changed from Telegram, paired chats) is a JSON file
 on the `state` branch. Starting preferences are in [config/preferences.yaml](config/preferences.yaml).
 
-### Why email alerts instead of scraping search pages
+### Staying within the sites' robots.txt
 
-Daft.ie and MyHome.ie block automated access to their search pages in robots.txt. The sites' own
-instant email alerts are the permitted way to hear about new listings quickly; the bot then only
-opens individual listing pages, which robots.txt allows.
+- Daft.ie's robots.txt blocks the old `/searchsale.daft` search, `/api`, and some parameters
+  (`offset=`, `sort_by=`, `from_search`); the bot uses only `/property-for-sale/<county>/houses`
+  with filter and `page` parameters.
+- MyHome.ie's robots.txt blocks every query string on `/residential/` except a bare `?page=N`, so
+  the bot reads `/residential/<area>/house-for-sale?page=N` and filters locally.
+- Pages are read one at a time, a few seconds apart. Search pages that could not be parsed are
+  saved under `debug/` on the `state` branch, and per-search counts go in `sweep_stats` in `state.json`.
 
 ### Viewings
 

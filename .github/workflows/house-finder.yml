@@ -2,9 +2,11 @@ name: house-finder
 
 on:
   schedule:
-    # Every 30 minutes, off the hour mark (GitHub delays jobs that start exactly on the hour).
-    # A private repo gets 2,000 free minutes a month; each run takes about one minute.
-    - cron: "7,37 * * * *"
+    # cron-job.org triggers the real 30-minute runs (see SETUP.md); GitHub often delays or
+    # skips scheduled runs on quiet repos, so this is only a backup.
+    # A private repo gets 2,000 free minutes a month; a normal run takes about one minute and
+    # the once-a-day full search of Daft and MyHome takes a few more.
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -17,7 +19,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -54,7 +56,7 @@ jobs:
         working-directory: data
         run: |
           [ -f state.json ] || exit 0
-          git add state.json
+          git add -A
           git diff --cached --quiet && exit 0
           git commit -q -m "Update bot state"
           git push -q origin state

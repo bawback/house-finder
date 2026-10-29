@@ -43,7 +43,7 @@ def listing_message(l: Listing, v: Verdict) -> str:
     if agent:
         lines.append(f"📞 {esc(agent)}")
     if not l.details_fetched:
-        lines.append("ℹ️ جزئیات صفحه خوانده نشد، اطلاعات از ایمیل هشدار است.")
+        lines.append("ℹ️ صفحهٔ آگهی باز نشد، بعضی جزئیات ممکن است کامل نباشد.")
     lines.append(f'🔗 <a href="{esc(l.url)}">مشاهده در {SOURCE_NAME.get(l.source, l.source)}</a>')
     return "\n".join(lines)
 
@@ -80,6 +80,7 @@ HELP = """<b>دستورها</b>
 /contact Babak Smith | 0871234567 | me@email.com
    مشخصات شما برای درخواست بازدید
 /viewing کد ـ متن درخواست بازدید برای یک آگهی
+/all بررسی دوبارهٔ همهٔ آگهی‌های فعلی (هر روز خودکار هم انجام می‌شود)
 /pause و /resume توقف و ادامهٔ ارسال
 /reset بازگشت به تنظیمات اولیه
 
