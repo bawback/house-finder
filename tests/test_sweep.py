@@ -52,7 +52,8 @@ def test_searches_use_allowed_url_forms():
     assert myhome[0].page_url(2).endswith("/house-for-sale?page=2")    # only bare ?page= is allowed
     assert "?" not in myhome[0].url
     quick = searches_for(prefs, newest_first=True)
-    assert all(x.source == "daft" and "sort=publishDateDesc" in x.url for x in quick)
+    assert all("sort=publishDateDesc" in x.url for x in quick if x.source == "daft")
+    assert "https://www.myhome.ie/residential/dublin/property-for-sale-in-dublin-south-county" in [x.url for x in s]
 
 
 class FakeResponse:
@@ -116,3 +117,35 @@ def test_full_run_sends_best_first_and_keeps_rest_pending(tmp_path, monkeypatch)
     main_mod.run(path, dry_run=True)
     st = State.load(path)
     assert st.data["pending"] == {} and len(st.data["sent"]) == 3
+
+
+def test_blocked_site_is_skipped_for_rest_of_run(monkeypatch):
+    monkeypatch.setattr("house_finder.sweep.PAGE_DELAY_SECONDS", 0)
+    a = Search("daft-dublin", "daft", "https://www.daft.ie/a")
+    b = Search("daft-wicklow", "daft", "https://www.daft.ie/b")
+    http = FakeHttp({a.url: ("Security Check", 403)})
+    _, stats = run_searches([a, b], http)
+    assert stats["daft-dublin"]["error"] == "HTTP 403" and http.calls == [a.url]
+    assert stats["daft-wicklow"]["error"].startswith("skipped")
+
+
+FIXTURES = __import__("pathlib").Path(__file__).parent / "fixtures"
+
+
+def test_real_myhome_search_page():
+    ls = parse_search_page((FIXTURES / "myhome_search.html").read_text(), "myhome")
+    assert len(ls) == 20
+    first = ls[0]
+    assert first.address == "39 Ailesbury Grove, Dundrum, Dublin 16"
+    assert (first.price, first.bedrooms, first.bathrooms, first.property_type) == (995000, 3, 2, "semi-detached")
+    assert first.agent_email and first.viewings and first.viewings[0].startswith("Open viewing")
+
+
+def test_real_myhome_listing_page():
+    from house_finder.parse import parse_listing_page
+    l = Listing(url="https://www.myhome.ie/residential/brochure/1-cairnbrook-way-cairnbrook-dublin-18/5028649", source="myhome")
+    parse_listing_page(l, (FIXTURES / "myhome_listing.html").read_text())
+    assert (l.price, l.bedrooms, l.bathrooms, l.ber, l.property_type) == (595000, 3, 3, "C1", "terraced")
+    assert l.agent_phone == "01 493 8969" and l.agent_email == "mel@mkproperty.ie"
+    assert l.viewings == ["Open viewing Sat Oct 31, 12pm - 12.25pm"]
+    assert "three-bedroom" in l.description

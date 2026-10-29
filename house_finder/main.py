@@ -102,7 +102,9 @@ def gather(state: State, http: requests.Session, gmail: str, gmail_pw: str, full
             listings, stats = run_searches(searches_for(state.prefs, newest_first=True), http, max_pages=1)
         state.data["sweep_stats"] = stats
         for l in listings:
-            found.setdefault(l.url, l)
+            # Fresh search data beats a leftover that was never opened.
+            if l.url not in found or not found[l.url].details_fetched:
+                found[l.url] = l
     except Exception:
         log.exception("search pages failed")
 

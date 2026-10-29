@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 
 from .alerts import classify
 from .models import BER_ORDER, Listing
-from .parse import BATHS_RE, BEDS_RE, normalise_type, parse_price
+from .parse import BATHS_RE, BEDS_RE, ber_from_grade, myhome_viewings, ng_state, normalise_type, parse_price
 
 log = logging.getLogger(__name__)
 
@@ -28,9 +28,13 @@ PAGE_DELAY_SECONDS = 2
 MAX_PAGES_PER_SEARCH = 40
 
 DAFT_COUNTIES = ["dublin", "wicklow", "kildare", "meath"]
-MYHOME_AREAS = ["dublin-4", "dublin-6", "dublin-6w", "dublin-14", "dublin-16", "dublin-18",
-                "dublin-3", "dublin-13", "dublin-15", "south-county-dublin", "north-county-dublin",
-                "wicklow", "kildare", "meath"]
+# Paths under /residential/. "dublin/property-for-sale-in-..." covers places without a postal
+# district, such as Blackrock, Dalkey or Malahide; it includes apartments, filtered out here.
+MYHOME_AREAS = ["dublin-4/house-for-sale", "dublin-6/house-for-sale", "dublin-6w/house-for-sale",
+                "dublin-14/house-for-sale", "dublin-16/house-for-sale", "dublin-18/house-for-sale",
+                "dublin-3/house-for-sale", "dublin-13/house-for-sale", "dublin-15/house-for-sale",
+                "dublin/property-for-sale-in-dublin-south-county", "dublin/property-for-sale-in-dublin-north-county",
+                "wicklow/house-for-sale", "kildare/house-for-sale", "meath/house-for-sale"]
 
 
 @dataclass
@@ -59,9 +63,11 @@ def searches_for(prefs: dict, newest_first: bool = False) -> list[Search]:
     for county in prefs.get("sweep", {}).get("daft_counties", DAFT_COUNTIES):
         path = f"https://www.daft.ie/property-for-sale/{county}" + (f"/{kind}" if kind else "")
         out.append(Search(f"daft-{county}", "daft", f"{path}?{urlencode(params)}"))
-    if not newest_first:
-        for area in prefs.get("sweep", {}).get("myhome_areas", MYHOME_AREAS):
-            out.append(Search(f"myhome-{area}", "myhome", f"https://www.myhome.ie/residential/{area}/house-for-sale"))
+    # MyHome lists the most recently added or refreshed first, so page 1 is the newest.
+    for area in prefs.get("sweep", {}).get("myhome_areas", MYHOME_AREAS):
+        place, kind_path = area.split("/", 1)
+        name = kind_path.replace("property-for-sale-in-", "") if "-in-" in kind_path else place
+        out.append(Search(f"myhome-{name}", "myhome", f"https://www.myhome.ie/residential/{area}"))
     return out
 
 
@@ -167,11 +173,45 @@ BER_VALUE = re.compile(r"\b(A1|A2|A3|B1|B2|B3|C1|C2|C3|D1|D2|E1|E2|F|G)\b", re.I
 BER_IN_CARD = re.compile(r"\bBER\s*:?\s*(A1|A2|A3|B1|B2|B3|C1|C2|C3|D1|D2|E1|E2|F|G)\b", re.I)
 
 
+def _myhome_listing(r: dict) -> Listing | None:
+    hit = classify("https://www.myhome.ie" + (r.get("SeoUrl") or r.get("BrochureUrl") or ""))
+    if not hit:
+        return None
+    l = Listing(url=hit[1], source="myhome", address=r.get("DisplayAddress") or "")
+    l.price = parse_price(r.get("PriceAsString"))
+    l.bedrooms = r.get("NumberOfBeds") if isinstance(r.get("NumberOfBeds"), int) else None
+    l.bathrooms = r.get("NumberOfBathrooms") if isinstance(r.get("NumberOfBathrooms"), int) else None
+    l.ber = ber_from_grade(r.get("BerRating"))
+    l.property_type = normalise_type(r.get("PropertyType"))
+    l.sale_agreed = bool(r.get("IsSaleAgreed")) or str(r.get("PropertyStatus", "")).lower() not in ("forsale", "")
+    l.new_build = bool(r.get("IsNew")) and "new" in str(r.get("PropertyClass", "")).lower()
+    l.image = r.get("MainPhoto") or r.get("MainPhotoWeb")
+    l.viewings = myhome_viewings(r.get("OpenViewings"))
+    neg = r.get("Negotiator") or {}
+    l.agent_name = r.get("GroupName") or neg.get("Name")
+    l.agent_phone = neg.get("Phone") or r.get("GroupPhoneNumber") or None
+    l.agent_email = neg.get("Email") or r.get("GroupEmail") or None
+    try:
+        l.floor_area_m2 = float(r.get("SizeStringMeters")) or None
+    except (TypeError, ValueError):
+        pass
+    return l
+
+
+def _myhome_ng_state(html: str) -> list[Listing] | None:
+    data = ng_state(html)
+    if not data:
+        return None
+    for key, value in data.items():
+        if key.startswith("SEARCH_RESOLVER") and isinstance(value, dict) and isinstance(value.get("SearchResults"), list):
+            return [l for l in map(_myhome_listing, value["SearchResults"]) if l]
+    return None
+
+
 def parse_search_page(html: str, source: str) -> list[Listing]:
-    if source == "daft":
-        listings = _daft_next_data(html)
-        if listings:
-            return listings
+    structured = _daft_next_data(html) if source == "daft" else _myhome_ng_state(html)
+    if structured:
+        return structured
     return _cards(html, source)
 
 
@@ -183,8 +223,12 @@ def run_searches(searches: list[Search], http: requests.Session, max_pages: int 
     listings: dict[str, Listing] = {}
     stats: dict[str, dict] = {}
     first = True
+    blocked: set[str] = set()
     for s in searches:
         st = stats[s.name] = {"pages": 0, "listings": 0, "error": None}
+        if s.source in blocked:
+            st["error"] = "skipped: site blocked an earlier search this run"
+            continue
         for page in range(1, max_pages + 1):
             if not first:
                 time.sleep(PAGE_DELAY_SECONDS)
@@ -197,6 +241,8 @@ def run_searches(searches: list[Search], http: requests.Session, max_pages: int 
                 break
             if r.status_code != 200:
                 st["error"] = f"HTTP {r.status_code}"
+                if r.status_code in (403, 429):
+                    blocked.add(s.source)
                 break
             found = parse_search_page(r.text, s.source)
             if debug_dir and page == 1 and not found:

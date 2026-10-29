@@ -25,7 +25,8 @@ on the `state` branch. Starting preferences are in [config/preferences.yaml](con
 
 - Daft.ie's robots.txt blocks the old `/searchsale.daft` search, `/api`, and some parameters
   (`offset=`, `sort_by=`, `from_search`); the bot uses only `/property-for-sale/<county>/houses`
-  with filter and `page` parameters.
+  with filter and `page` parameters. Daft currently answers GitHub's servers with a security
+  check (HTTP 403), so Daft listings arrive only through alert emails for now.
 - MyHome.ie's robots.txt blocks every query string on `/residential/` except a bare `?page=N`, so
   the bot reads `/residential/<area>/house-for-sale?page=N` and filters locally.
 - Pages are read one at a time, a few seconds apart. Search pages that could not be parsed are

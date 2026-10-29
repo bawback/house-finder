@@ -120,6 +120,72 @@ def _area_to_m2(value, unit) -> float | None:
     return round(v * 0.092903, 1) if "ft" in unit else v
 
 
+def ng_state(html: str) -> dict | None:
+    """MyHome pages carry their data as Angular state JSON."""
+    m = re.search(r'<script id="ng-state" type="application/json">(.*?)</script>', html, re.S)
+    if not m:
+        return None
+    try:
+        return json.loads(m.group(1))
+    except json.JSONDecodeError:
+        return None
+
+
+def ber_from_grade(value) -> str | None:
+    """MyHome sometimes gives only the letter ("B"); treat it as the best rating of that letter
+    so it is not wrongly rejected. The listing page later gives the exact rating."""
+    v = str(value or "").upper().strip()
+    if v in BER_ORDER:
+        return v
+    return {"A": "A1", "B": "B1", "C": "C1", "D": "D1", "E": "E1"}.get(v)
+
+
+def myhome_viewings(items) -> list[str]:
+    out = []
+    for v in items or []:
+        text = v.get("FormattedString") or " - ".join(x for x in (v.get("StartDateFormatted"), v.get("EndDateFormatted")) if x)
+        if text:
+            out.append(("Open viewing " if v.get("OpenViewingType") == "OnViewing" else "") + text)
+    return out
+
+
+def _apply_myhome(listing: Listing, html: str) -> None:
+    data = ng_state(html)
+    if not data:
+        return
+    br = next((v["Brochure"] for k, v in data.items() if k.startswith("BROCHURE") and isinstance(v, dict) and v.get("Brochure")), None)
+    if not br:
+        return
+    p = br.get("Property") or {}
+    listing.address = p.get("DisplayAddress") or listing.address
+    price = p.get("Price")
+    listing.price = (price.get("MinPrice") if isinstance(price, dict) else parse_price(price)) or parse_price(p.get("PriceAsString")) or listing.price
+    m = re.search(r"\d", str(p.get("BedsString") or ""))
+    listing.bedrooms = int(m.group(0)) if m else listing.bedrooms
+    listing.bathrooms = _int(p.get("Bathrooms")) or listing.bathrooms
+    listing.ber = ber_from_grade(p.get("BerRating")) or listing.ber
+    listing.property_type = normalise_type(p.get("PropertyType")) or listing.property_type
+    listing.new_build = bool(p.get("IsNewBuild")) or listing.new_build
+    try:
+        listing.floor_area_m2 = float(p.get("SizeStringMeters")) or listing.floor_area_m2
+    except (TypeError, ValueError):
+        pass
+    listing.image = p.get("MainPhoto") or listing.image
+    listing.viewings = myhome_viewings(p.get("OpenViewings")) or listing.viewings
+    parts = [BeautifulSoup(c.get("Content") or "", "html.parser").get_text(" ", strip=True)
+             for c in p.get("BrochureContent") or [] if c.get("ContentType") in ("Description", "Features", "Accommodation")]
+    listing.description = " ".join(parts) or listing.description
+    features = {f.get("Name", "").lower() for f in p.get("PropertyFeatureTypes") or []}
+    if "parking" in features and listing.parking is None:
+        listing.parking = 1
+    neg, group = br.get("Negotiator") or {}, br.get("Group") or {}
+    listing.agent_name = group.get("Name") or neg.get("Name") or listing.agent_name
+    listing.agent_phone = neg.get("Phone") or group.get("DisplayPhone") or listing.agent_phone
+    listing.agent_email = neg.get("Email") or group.get("Email") or listing.agent_email
+    if p.get("PropertyStatusId") not in (None, 2) or "sale agreed" in str(p.get("PropertyStatus", "")).lower():
+        listing.sale_agreed = True
+
+
 def _apply_jsonld(listing: Listing, soup: BeautifulSoup) -> None:
     for tag in soup.find_all("script", type="application/ld+json"):
         try:
@@ -199,6 +265,8 @@ def parse_listing_page(listing: Listing, html: str) -> Listing:
     soup = BeautifulSoup(html, "html.parser")
     if listing.source == "daft":
         _apply_daft(listing, soup)
+    if listing.source == "myhome":
+        _apply_myhome(listing, html)
     _apply_jsonld(listing, soup)
     if not listing.image:
         og = soup.find("meta", property="og:image")
