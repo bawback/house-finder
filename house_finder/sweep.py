@@ -36,6 +36,9 @@ MYHOME_AREAS = ["dublin-4/house-for-sale", "dublin-6/house-for-sale", "dublin-6w
                 "dublin/property-for-sale-in-dublin-south-county", "dublin/property-for-sale-in-dublin-north-county",
                 "wicklow/house-for-sale", "kildare/house-for-sale", "meath/house-for-sale"]
 
+MYHOME_QUICK_AREAS = ["dublin/property-for-sale", "wicklow/house-for-sale",
+                      "kildare/house-for-sale", "meath/house-for-sale"]
+
 
 @dataclass
 class Search:
@@ -63,8 +66,10 @@ def searches_for(prefs: dict, newest_first: bool = False) -> list[Search]:
     for county in prefs.get("sweep", {}).get("daft_counties", DAFT_COUNTIES):
         path = f"https://www.daft.ie/property-for-sale/{county}" + (f"/{kind}" if kind else "")
         out.append(Search(f"daft-{county}", "daft", f"{path}?{urlencode(params)}"))
-    # MyHome lists the most recently added or refreshed first, so page 1 is the newest.
-    for area in prefs.get("sweep", {}).get("myhome_areas", MYHOME_AREAS):
+    # MyHome lists the most recently added or refreshed first, so page 1 is the newest. The quick
+    # check between full searches uses a few wide searches to keep each run short.
+    areas = MYHOME_QUICK_AREAS if newest_first else prefs.get("sweep", {}).get("myhome_areas", MYHOME_AREAS)
+    for area in areas:
         place, kind_path = area.split("/", 1)
         name = kind_path.replace("property-for-sale-in-", "") if "-in-" in kind_path else place
         out.append(Search(f"myhome-{name}", "myhome", f"https://www.myhome.ie/residential/{area}"))
