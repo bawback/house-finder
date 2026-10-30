@@ -268,6 +268,7 @@
   "https://www.myhome.ie/residential/brochure/10-knocklyon-park-knocklyon-dublin-16/5038718": 1793307524,
   "https://www.myhome.ie/residential/brochure/10-la-touche-park-greystones-co-wicklow/5029538": 1793307204,
   "https://www.myhome.ie/residential/brochure/10-limelawn-rise-clonsilla-dublin-15/4956161": 1793307204,
+  "https://www.myhome.ie/residential/brochure/10-main-road-tallaght-dublin-24/5038851": 1793358074,
   "https://www.myhome.ie/residential/brochure/10-main-street-baldoyle-d13x6n9-baldoyle-dublin-13/4993067": 1793307204,
   "https://www.myhome.ie/residential/brochure/10-marguerite-road-glasnevin-dublin-9/5032805": 1793309729,
   "https://www.myhome.ie/residential/brochure/10-merrion-grove-booterstown-county-dublin/5028568": 1793309177,
@@ -579,6 +580,7 @@
   "https://www.myhome.ie/residential/brochure/145-hazelbury-park-clonee-dublin-15/5029931": 1793307204,
   "https://www.myhome.ie/residential/brochure/146-moylaragh-crescent-balbriggan-county-dublin/5010085": 1793309177,
   "https://www.myhome.ie/residential/brochure/146-oliver-plunkett-road-dun-laoghaire-dublin/4825351": 1793309177,
+  "https://www.myhome.ie/residential/brochure/148-shawbridge-chambers-park-kilcock-co-kildare/5038848": 1793358074,
   "https://www.myhome.ie/residential/brochure/149-effernock-avenue-trim-co-meath/5011458": 1793307205,
   "https://www.myhome.ie/residential/brochure/149-millbrook-johnstown-navan-meath/5035394": 1793307205,
   "https://www.myhome.ie/residential/brochure/14a-monastery-road-enniskerry-co-wicklow/5007761": 1793307204,
@@ -1395,6 +1397,7 @@
   "https://www.myhome.ie/residential/brochure/30-radcliffe-sutton-dublin-13/5027192": 1793309177,
   "https://www.myhome.ie/residential/brochure/30-roebuck-castle-clonskeagh-dublin-14/5022611": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-saint-john-s-wood-castle-avenue-clontarf-dublin-3/5009821": 1793307204,
+  "https://www.myhome.ie/residential/brochure/30-shanowen-crescent-santry-dublin-9/5009701": 1793358074,
   "https://www.myhome.ie/residential/brochure/30-st-martins-park-kimmage-dublin-6w/4975849": 1793307132,
   "https://www.myhome.ie/residential/brochure/30-the-fairways-seabrook-manor-portmarnock-dublin/5017296": 1793309177,
   "https://www.myhome.ie/residential/brochure/30-the-grove-saint-marnock-s-bay-portmarnock-county-dublin/5018751": 1793309177,
@@ -2604,6 +2607,7 @@
   "https://www.myhome.ie/residential/brochure/98-home-farm-road-drumcondra-dublin-9/5028401": 1793307204,
   "https://www.myhome.ie/residential/brochure/98-loreto-avenue-rathfarnham-dublin-14/5029320": 1793309177,
   "https://www.myhome.ie/residential/brochure/98-monread-heights-monread-naas-co-kildare/5018598": 1793307205,
+  "https://www.myhome.ie/residential/brochure/98-stoneleigh-naas-kildare/5038856": 1793358074,
   "https://www.myhome.ie/residential/brochure/99-roselawn-road-castleknock-dublin-15/5014078": 1793309177,
   "https://www.myhome.ie/residential/brochure/99-the-drive-hazelhatch-park-celbridge-kildare/5021234": 1793313139,
   "https://www.myhome.ie/residential/brochure/9a-carrig-villas-killincarrig-greystones-co-wicklow/5032018": 1793307204,
@@ -3340,6 +3344,7 @@
   "https://www.myhome.ie/residential/brochure/olbar-baltrasna-road-ashbourne-co-meath/5011492": 1793307205,
   "https://www.myhome.ie/residential/brochure/old-road-rush-county-dublin/4999424": 1793309177,
   "https://www.myhome.ie/residential/brochure/old-ross-road-tara-navan-co-meath/5001777": 1793307205,
+  "https://www.myhome.ie/residential/brochure/old-school-house-ballymount-dunlavin-kilcullen-co-kildare/5038864": 1793358074,
   "https://www.myhome.ie/residential/brochure/old-station-house-old-canal-harbour-monasterevin-co-kildare/5007714": 1793307205,
   "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-co-kildare-2-bedroom/5005417": 1793309813,
   "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-co-kildare-3-bedroom/5005425": 1793309786,
@@ -9116,7 +9121,7 @@
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 21,
+   "listings": 20,
    "pages": 1
   },
   "myhome-meath": {
