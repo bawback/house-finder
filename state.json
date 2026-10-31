@@ -2112,6 +2112,7 @@
   "https://www.myhome.ie/residential/brochure/53-palmer-court-palmer-road-rush-county-dublin/5011720": 1793309177,
   "https://www.myhome.ie/residential/brochure/53-rosemount-court-booterstown-co-dublin/5029731": 1793309177,
   "https://www.myhome.ie/residential/brochure/53-the-cedar-parkview-stepaside-dublin-18/5037280": 1793309177,
+  "https://www.myhome.ie/residential/brochure/53-the-rise-glasnevin-dublin-9/5024090": 1793457057,
   "https://www.myhome.ie/residential/brochure/53a-marguerite-road-glasnevin-dublin-9/5030021": 1793354469,
   "https://www.myhome.ie/residential/brochure/54-barnwall-court-balbriggan-county-dublin/5023370": 1793309177,
   "https://www.myhome.ie/residential/brochure/54-broadfield-view-kilcullen-road-naas-co-kildare/5030251": 1793307205,
@@ -9315,75 +9316,25 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin-13": {
+  "myhome-dublin": {
    "error": null,
-   "listings": 125,
-   "pages": 8
-  },
-  "myhome-dublin-14": {
-   "error": null,
-   "listings": 183,
-   "pages": 11
-  },
-  "myhome-dublin-15": {
-   "error": null,
-   "listings": 206,
-   "pages": 12
-  },
-  "myhome-dublin-16": {
-   "error": null,
-   "listings": 58,
-   "pages": 12
-  },
-  "myhome-dublin-18": {
-   "error": null,
-   "listings": 170,
-   "pages": 11
-  },
-  "myhome-dublin-3": {
-   "error": null,
-   "listings": 160,
-   "pages": 9
-  },
-  "myhome-dublin-4": {
-   "error": null,
-   "listings": 143,
-   "pages": 9
-  },
-  "myhome-dublin-6": {
-   "error": null,
-   "listings": 155,
-   "pages": 9
-  },
-  "myhome-dublin-6w": {
-   "error": null,
-   "listings": 41,
-   "pages": 6
-  },
-  "myhome-dublin-north-county": {
-   "error": null,
-   "listings": 589,
-   "pages": 35
-  },
-  "myhome-dublin-south-county": {
-   "error": null,
-   "listings": 403,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 482,
-   "pages": 26
+   "listings": 20,
+   "pages": 1
   },
   "myhome-meath": {
    "error": null,
-   "listings": 432,
-   "pages": 24
+   "listings": 20,
+   "pages": 1
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 474,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   }
  },
  "telegram_offset": 593474601
