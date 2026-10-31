@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 8,
- "last_full_sweep": 1793381996,
+ "last_full_sweep": 1793455807,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -754,6 +754,7 @@
   "https://www.myhome.ie/residential/brochure/18-beaverstown-orchard-donabate-county-dublin/5013389": 1793309177,
   "https://www.myhome.ie/residential/brochure/18-beechfield-close-walkinstown-dublin-12/5039064": 1793383269,
   "https://www.myhome.ie/residential/brochure/18-belarmine-drive-stepaside-dublin-18/5030049": 1793307882,
+  "https://www.myhome.ie/residential/brochure/18-broomfield-mews-the-hill-malahide-co-dublin/5003985": 1793455807,
   "https://www.myhome.ie/residential/brochure/18-castleland-park-place-balbriggan-co-dublin/5026091": 1793309177,
   "https://www.myhome.ie/residential/brochure/18-chelmsford-lane-ranelagh-dublin-6/5030445": 1793307090,
   "https://www.myhome.ie/residential/brochure/18-church-park-court-harold-s-cross-dublin-6w/4992729": 1793307101,
@@ -1872,6 +1873,7 @@
   "https://www.myhome.ie/residential/brochure/43-walnut-rise-courtlands-griffith-avenue-drumcondra-dublin-9/5025139": 1793307204,
   "https://www.myhome.ie/residential/brochure/43-watson-road-killiney-co-dublin/4991098": 1793309177,
   "https://www.myhome.ie/residential/brochure/432-olcovar-shankill-co-dublin/5034397": 1793309177,
+  "https://www.myhome.ie/residential/brochure/432-olcovar-shankill-dublin-18/5034397": 1793455807,
   "https://www.myhome.ie/residential/brochure/44-avoca-avenue-blackrock-co-dublin/5036970": 1793309177,
   "https://www.myhome.ie/residential/brochure/44-balnagowan-dartry-dublin-6/5035429": 1793307069,
   "https://www.myhome.ie/residential/brochure/44-bargy-road-east-wall-dublin-3/4986542": 1793307204,
@@ -9313,25 +9315,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 125,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 183,
+   "pages": 11
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 206,
+   "pages": 12
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 58,
+   "pages": 12
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 170,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 160,
+   "pages": 9
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 143,
+   "pages": 9
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 155,
+   "pages": 9
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 41,
+   "pages": 6
+  },
+  "myhome-dublin-north-county": {
+   "error": null,
+   "listings": 589,
+   "pages": 35
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 403,
+   "pages": 25
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 482,
+   "pages": 26
   },
   "myhome-meath": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 432,
+   "pages": 24
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 474,
+   "pages": 25
   }
  },
  "telegram_offset": 593474601
