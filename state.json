@@ -490,6 +490,7 @@
   "https://www.myhome.ie/residential/brochure/13-annaville-park-dundrum-road-churchtown-dublin-14/5035201": 1793307173,
   "https://www.myhome.ie/residential/brochure/13-ballymany-park-newbridge-co-kildare/5030022": 1793307205,
   "https://www.myhome.ie/residential/brochure/13-bective-place-kells-meath/5009476": 1793307205,
+  "https://www.myhome.ie/residential/brochure/13-bellgree-woods-tyrrelstown-dublin-15/5039199": 1793628072,
   "https://www.myhome.ie/residential/brochure/13-boroimhe-hazel-swords-county-dublin/5027572": 1793309177,
   "https://www.myhome.ie/residential/brochure/13-brookvale-downs-rathfarnham-dublin-14/5007565": 1793307204,
   "https://www.myhome.ie/residential/brochure/13-burrow-road-sutton-dublin-13/5027108": 1793307204,
@@ -752,6 +753,7 @@
   "https://www.myhome.ie/residential/brochure/17-the-hoar-rock-skerries-co-dublin/4945799": 1793309177,
   "https://www.myhome.ie/residential/brochure/17-the-rectory-stepaside-dublin-18/5035250": 1793309177,
   "https://www.myhome.ie/residential/brochure/17-the-shore-seamount-rise-apartments-malahide-co-dublin/5027467": 1793309177,
+  "https://www.myhome.ie/residential/brochure/17-the-village-green-ratoath-co-meath/5039205": 1793628072,
   "https://www.myhome.ie/residential/brochure/17-thornleigh-place-swords-dublin/5036128": 1793309177,
   "https://www.myhome.ie/residential/brochure/17-westfield-off-bective-street-kells-meath/5031998": 1793307205,
   "https://www.myhome.ie/residential/brochure/172-rathmines-road-lower-rathmines-dublin-6/5037547": 1793307052,
@@ -8472,6 +8474,30 @@
    "source": "myhome",
    "url": "https://www.myhome.ie/residential/brochure/no-6-priory-court-saint-raphael-s-manor-celbridge-kildare/5024977",
    "viewings": []
+  },
+  "ced5de50d7": {
+   "_sent_at": 1793628072,
+   "address": "17 The Village Green, Ratoath, Co. Meath",
+   "agent_email": "katherine@sfg.ie",
+   "agent_name": "Sherry FitzGerald Geraghty",
+   "agent_phone": "01 8350577",
+   "bathrooms": 3,
+   "bedrooms": 2,
+   "ber": "C1",
+   "description": "Sherry FitzGerald Geraghty are delighted to offer 17 The Village Green to the market, a spacious, bright 2-bedroom mid-terraced home in a cul-de-sac location, not overlooked front or rear, parking at front of property and well-kept grounds.\n\nThe property is located on the outskirts of the village, walking distance of local schools, village centre, church, theatre etc and has easy access to the M3 and M2 Motorways, the park and ride station at Clonee/Dunboyne, the N3 and M50 Interchange. Ashbourne is a short drive where branded supermarkets are on offer as is Avoca, Fairyhouse Racecourse and Tattersalls Country House and Bloodstock Sales.\n\nNo 17 represents an excellent home for those downsizing who can access the excellent bus service that is on offer and ease of living and will suit those starting out on their journey for a first home. \n\nThis home is pristine, very well cared for and we are sure this little gem will turn heads and won't stay on the market for long!\n\nTo book a viewing and make offers please visit MySherryFitz.ie. Entrance Hall - \nBright and spacious, hardwood front door with glass panels allowing excellent natural light, laminate flooring.\n\nGuest WC - \nWith wc., whb, tiled floor.\n\nKitchen/Dining - \nLocated to the front of the property, built in wall and floor units, built in oven, hob and extractor fan, plumbed for appliances, partly tiled walls and tiled flooring.Double doors with glass panels to\n\nLiving Room - \nA spacious room with feature fireplace (gas fire connection), laminate flooring, sliding and single door to rear garden.\n\nAiring Cupboard - \nHot-press with insulated tank and dual immersion.\n\nBedroom 1 - \nA generous double room with built in wardrobes, carpet.\n\nEn-Suite - \nWith three-piece suite, window for natural light and ventilation, shavers light, partly tiled walls.\n\nBedroom 2 - \nA double room with built in wardrobes, carpet.\n\nBathroom - \nWith three-piece suite, power shower, feature circular window, partly tiled walls.\n\nIncluded in Sale - \nFloor coverings. built in wardrobes, built in oven, hob and extractor fan included in sale. Cul-de-sac location Bright and fresh interior with spacious layout 2 double bedrooms Brick fronted facade Ample Parking Well-kept grounds Private rear gardens not overlooked, West facing Easy access M2, M2, M50 Interchange, Dublin Airport etc Excellent bus service to the Capital Walking distance schools, bus stop, village centre etc Mains services, GFCH",
+   "details_fetched": true,
+   "floor_area_m2": 80.0,
+   "image": "https://photos-a.propertyimages.ie/media/5/0/2/5039205/8a918b53-c325-47c8-8a33-72d080c8f81b_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 350000,
+   "property_type": "terraced",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/17-the-village-green-ratoath-co-meath/5039205",
+   "viewings": [
+    "To book a viewing and make offers please visit MySherryFitz"
+   ]
   },
   "ceeeb42041": {
    "_sent_at": 1793313122,
