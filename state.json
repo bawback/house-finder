@@ -2222,6 +2222,7 @@
   "https://www.myhome.ie/residential/brochure/52-glenville-avenue-clonsilla-dublin-15/5024799": 1793307204,
   "https://www.myhome.ie/residential/brochure/52-harbour-view-crofton-road-dun-laoghaire-co-dublin/5036082": 1793309177,
   "https://www.myhome.ie/residential/brochure/52-manorfields-road-clonee-dublin-15/5037369": 1793307204,
+  "https://www.myhome.ie/residential/brochure/52-newtown-crescent-abbey-view-dublin-road-trim-co-meath/5039549": 1793728898,
   "https://www.myhome.ie/residential/brochure/52-ormond-crescent-swords-county-dublin/5036552": 1793309177,
   "https://www.myhome.ie/residential/brochure/52-railway-avenue-inchicore-dublin-8/5009154": 1793383269,
   "https://www.myhome.ie/residential/brochure/52-roseland-avenue-cualanor-dun-laoghaire-co-dublin/5028854": 1793309177,
@@ -2327,6 +2328,7 @@
   "https://www.myhome.ie/residential/brochure/590-riverforest-leixlip-co-kildare/5036354": 1793309126,
   "https://www.myhome.ie/residential/brochure/6-ailesbury-wood-ailesbury-road-ballsbridge-dublin-4/5036093": 1793306972,
   "https://www.myhome.ie/residential/brochure/6-alden-park-sutton-dublin-13/5031537": 1793307204,
+  "https://www.myhome.ie/residential/brochure/6-ballynakelly-rise-newcastle-county-dublin/5039555": 1793728898,
   "https://www.myhome.ie/residential/brochure/6-beechwood-park-tinahely-county-wicklow/5034102": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-belard-manor-glenealy-wicklow-co-wicklow/5006994": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-birch-grove-kill-avenue-dun-laoghaire-co-dublin/5028782": 1793309177,
@@ -2592,6 +2594,7 @@
   "https://www.myhome.ie/residential/brochure/73-ballyroan-road-templeogue-dublin-16/5031303": 1793307135,
   "https://www.myhome.ie/residential/brochure/73-beach-road-sandymount-dublin-4/5031042": 1793306983,
   "https://www.myhome.ie/residential/brochure/73-larchfield-road-goatstown-dublin-14/4528153": 1793307204,
+  "https://www.myhome.ie/residential/brochure/73-loughminane-green-kildare-town-kildare/5039526": 1793728898,
   "https://www.myhome.ie/residential/brochure/73-ludford-park-ballinteer-dublin-16/4988029": 1793309167,
   "https://www.myhome.ie/residential/brochure/73-mount-eagle-view-leopardstown-dublin-18/5021887": 1793307204,
   "https://www.myhome.ie/residential/brochure/73-pembroke-lane-ballsbridge-dublin-4/5027515": 1793719862,
@@ -2610,6 +2613,7 @@
   "https://www.myhome.ie/residential/brochure/76-shanganagh-vale-cabinteely-dublin-18/5032589": 1793307204,
   "https://www.myhome.ie/residential/brochure/76-woodlawn-park-churchtown-dublin-14/5032670": 1793307177,
   "https://www.myhome.ie/residential/brochure/77-carrig-orchard-killincarrig-greystones-wicklow/4979745": 1793307204,
+  "https://www.myhome.ie/residential/brochure/77-donnycarney-road-dublin-9-donnycarney/5039556": 1793728898,
   "https://www.myhome.ie/residential/brochure/77-inglewood-rd-plus-77a-inglewood-rd-clonsilla-dublin-15/4785685": 1793307204,
   "https://www.myhome.ie/residential/brochure/77-leeson-street-upper-dublin-4/5027311": 1793307007,
   "https://www.myhome.ie/residential/brochure/77-whately-place-upper-kilmacud-road-stillorgan-dublin/5035132": 1793309177,
@@ -2668,6 +2672,7 @@
   "https://www.myhome.ie/residential/brochure/8-lea-crescent-sandymount-dublin-4/5031579": 1793306948,
   "https://www.myhome.ie/residential/brochure/8-mariners-cove-howth-county-dublin/3246970": 1793307204,
   "https://www.myhome.ie/residential/brochure/8-mcauley-avenue-artane-dublin-5/5039111": 1793451666,
+  "https://www.myhome.ie/residential/brochure/8-meadowbank-rathgar-dublin-6/5039179": 1793728898,
   "https://www.myhome.ie/residential/brochure/8-mill-gate-millerstown-kilcock-county-meath/5038216": 1793307205,
   "https://www.myhome.ie/residential/brochure/8-miller-s-wood-herbert-road-bray-co-wicklow/5026523": 1793307204,
   "https://www.myhome.ie/residential/brochure/8-mountain-view-road-ranelagh-dublin-6/5035566": 1793307069,
@@ -9206,6 +9211,30 @@
    "url": "https://www.myhome.ie/residential/brochure/71-bayside-walk-sutton-dublin-13/5036426",
    "viewings": [
     "Viewing is highly recommended"
+   ]
+  },
+  "e7caaffb97": {
+   "_sent_at": 1793728898,
+   "address": "8 Meadowbank , Rathgar, Dublin 6",
+   "agent_email": "Rory@hermanwhite.ie",
+   "agent_name": "Herman White Estates",
+   "agent_phone": "01 496 6019 / 0402 45101",
+   "bathrooms": 3,
+   "bedrooms": 2,
+   "ber": "C1",
+   "description": "This is a well maintained two - bedroomed corner townhouse. This is a most sought after development in an excellent location. the property consists of an Entry Hall, Living Room, Kitchen/breakfast bar , Utility, Shower room , 2 Bedrooms both fitted with en suites.\r\n\r\nSituated a minutes walk away from Rathgar and Terenure containing a wide range of shops, restaurants, cafes, . It also contains excellent bus routes, Bushy park is in walking distance as well as many primary and secondary schools. Accommodation : Downstairs \r\n\r\nHall: 5.8 x 1.8 - Understairs storage \r\nShower Room: 1.7 x 1.4 - partly tiled, shower and wc \r\nLivingroom: 5.1 x 3.4 - Fireplace \r\nKitchen: 2.9 x 2.9 - Built in Units, plumbed for dishwasher\r\nBreakfastroom\r\nUpstairs: \r\n\r\nBedroom 1: 5.7 x 2.9 - Built in Wardrobe \r\nEn Suite: 2.5 x 1.3 \r\n\r\nBedroom 2: 4.8 x 2.6 Built in wardrobe \r\nEn suite: 1.7 x 2.3 \r\n\r\nOutside:\r\n\r\nFront garden, with off street parking \r\nRear private garden with side entrance Storage shed with Gas Fired Boiler Excellent Location \r\nPrivate rear garden \r\nWalking distance to Rathgar and Terenure \r\nClose to lots of Amenities \r\nWalking distance to Bushy park \r\nGFCH\r\n88 sq. m",
+   "details_fetched": true,
+   "floor_area_m2": 88.0,
+   "image": "https://photos-a.propertyimages.ie/media/9/7/1/5039179/ec2cfe9a-8f45-4962-8b97-4fe5136ee269_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 675000,
+   "property_type": "terraced",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/8-meadowbank-rathgar-dublin-6/5039179",
+   "viewings": [
+    "Open viewing Sat Nov 7, 10am - 10am"
    ]
   },
   "ea1f18c94c": {
