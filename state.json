@@ -9615,75 +9615,25 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin-13": {
+  "myhome-dublin": {
    "error": null,
-   "listings": 123,
-   "pages": 8
-  },
-  "myhome-dublin-14": {
-   "error": null,
-   "listings": 176,
-   "pages": 10
-  },
-  "myhome-dublin-15": {
-   "error": null,
-   "listings": 207,
-   "pages": 12
-  },
-  "myhome-dublin-16": {
-   "error": null,
-   "listings": 61,
-   "pages": 12
-  },
-  "myhome-dublin-18": {
-   "error": null,
-   "listings": 169,
-   "pages": 11
-  },
-  "myhome-dublin-3": {
-   "error": null,
-   "listings": 160,
-   "pages": 9
-  },
-  "myhome-dublin-4": {
-   "error": null,
-   "listings": 145,
-   "pages": 9
-  },
-  "myhome-dublin-6": {
-   "error": null,
-   "listings": 158,
-   "pages": 9
-  },
-  "myhome-dublin-6w": {
-   "error": null,
-   "listings": 40,
-   "pages": 6
-  },
-  "myhome-dublin-north-county": {
-   "error": null,
-   "listings": 580,
-   "pages": 34
-  },
-  "myhome-dublin-south-county": {
-   "error": null,
-   "listings": 400,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 470,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   },
   "myhome-meath": {
    "error": null,
-   "listings": 428,
-   "pages": 23
+   "listings": 20,
+   "pages": 1
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 473,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   }
  },
  "telegram_offset": 593474601
