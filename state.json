@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 8,
- "last_full_sweep": 1793972397,
+ "last_full_sweep": 1794046199,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -1591,6 +1591,7 @@
   "https://www.myhome.ie/residential/brochure/3-mount-eustace-drive-tyrrelstown-dublin-15/5015190": 1793307204,
   "https://www.myhome.ie/residential/brochure/3-mountgorry-malahide-road-swords-co-dublin/4919832": 1793309177,
   "https://www.myhome.ie/residential/brochure/3-muileann-court-kinsealy-county-dublin/5036495": 1793309177,
+  "https://www.myhome.ie/residential/brochure/3-new-grange-road-blackrock-co-dublin/5025392": 1794046199,
   "https://www.myhome.ie/residential/brochure/3-oak-hall-the-hill-malahide-dublin/5024506": 1793311308,
   "https://www.myhome.ie/residential/brochure/3-orchard-grove-longwood-co-meath/5036615": 1793307205,
   "https://www.myhome.ie/residential/brochure/3-parkside-green-balgriffin-dublin-13/5035960": 1793307204,
@@ -2575,6 +2576,7 @@
   "https://www.myhome.ie/residential/brochure/6-the-meadows-meadow-close-blackrock-co-dublin/5032585": 1793309177,
   "https://www.myhome.ie/residential/brochure/6-the-old-coastguard-station-sutton-strand-sutton-dublin-13/4994512": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-the-park-whitefield-hall-bettystown-meath/5038904": 1793700067,
+  "https://www.myhome.ie/residential/brochure/6-the-park-whitefield-hall-plus-attic-conversion-bettystown-meath/5038904": 1794046199,
   "https://www.myhome.ie/residential/brochure/6-the-willows-ballinahinch-wood-ashford-co-wicklow/5030661": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-verschoyle-drive-citywest-dublin-24/5037155": 1793709058,
   "https://www.myhome.ie/residential/brochure/6-warwick-terrace-ranelagh-dublin-6/5007961": 1793381996,
@@ -3003,6 +3005,7 @@
   "https://www.myhome.ie/residential/brochure/9-bayside-park-sutton-dublin-13/5010424": 1793309177,
   "https://www.myhome.ie/residential/brochure/9-beechfield-heights-castaheany-clonee-dublin/5027080": 1793307204,
   "https://www.myhome.ie/residential/brochure/9-bellgree-square-tyrrelstown-dublin-15/5039196": 1793626259,
+  "https://www.myhome.ie/residential/brochure/9-blackberry-hill-carrickmines-dublin-18/5008429": 1794046199,
   "https://www.myhome.ie/residential/brochure/9-bremore-pastures-park-balbriggan-county-dublin/5040176": 1793986260,
   "https://www.myhome.ie/residential/brochure/9-brownstown-kilcloon-co-meath-kilcloon-meath/5019724": 1793307205,
   "https://www.myhome.ie/residential/brochure/9-castlesize-grove-sallins-kildare/5028952": 1793307205,
@@ -10309,25 +10312,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 124,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 176,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 212,
+   "pages": 12
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 61,
+   "pages": 12
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 174,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 151,
+   "pages": 9
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 137,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 163,
+   "pages": 10
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 35,
+   "pages": 6
+  },
+  "myhome-dublin-north-county": {
+   "error": null,
+   "listings": 566,
+   "pages": 34
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 395,
+   "pages": 25
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 449,
+   "pages": 24
   },
   "myhome-meath": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 413,
+   "pages": 23
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 475,
+   "pages": 25
   }
  },
  "telegram_offset": 593474601
