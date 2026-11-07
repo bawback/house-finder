@@ -1434,6 +1434,7 @@
   "https://www.myhome.ie/residential/brochure/27-pomeroy-park-rathangan-co-kildare/5029589": 1793307204,
   "https://www.myhome.ie/residential/brochure/27-saint-mary-s-road-north-east-wall-dublin-3/5016998": 1793307204,
   "https://www.myhome.ie/residential/brochure/27-stonebridge-close-shankill-dublin-18/5024448": 1793308980,
+  "https://www.myhome.ie/residential/brochure/27-the-close-orlynn-park-lusk-dublin/5040207": 1794047456,
   "https://www.myhome.ie/residential/brochure/27-the-court-high-park-drumcondra-dublin-9/5016807": 1793307204,
   "https://www.myhome.ie/residential/brochure/27-the-downings-prosperous-co-kildare/5032488": 1793307204,
   "https://www.myhome.ie/residential/brochure/27-the-grove-hunters-run-clonee-dublin-15/5029326": 1793307204,
@@ -10312,75 +10313,25 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin-13": {
+  "myhome-dublin": {
    "error": null,
-   "listings": 124,
-   "pages": 8
-  },
-  "myhome-dublin-14": {
-   "error": null,
-   "listings": 176,
-   "pages": 10
-  },
-  "myhome-dublin-15": {
-   "error": null,
-   "listings": 212,
-   "pages": 12
-  },
-  "myhome-dublin-16": {
-   "error": null,
-   "listings": 61,
-   "pages": 12
-  },
-  "myhome-dublin-18": {
-   "error": null,
-   "listings": 174,
-   "pages": 11
-  },
-  "myhome-dublin-3": {
-   "error": null,
-   "listings": 151,
-   "pages": 9
-  },
-  "myhome-dublin-4": {
-   "error": null,
-   "listings": 137,
-   "pages": 8
-  },
-  "myhome-dublin-6": {
-   "error": null,
-   "listings": 163,
-   "pages": 10
-  },
-  "myhome-dublin-6w": {
-   "error": null,
-   "listings": 35,
-   "pages": 6
-  },
-  "myhome-dublin-north-county": {
-   "error": null,
-   "listings": 566,
-   "pages": 34
-  },
-  "myhome-dublin-south-county": {
-   "error": null,
-   "listings": 395,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 449,
-   "pages": 24
+   "listings": 20,
+   "pages": 1
   },
   "myhome-meath": {
    "error": null,
-   "listings": 413,
-   "pages": 23
+   "listings": 20,
+   "pages": 1
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 475,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   }
  },
  "telegram_offset": 593474601
