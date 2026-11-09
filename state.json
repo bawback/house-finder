@@ -3653,6 +3653,7 @@
   "https://www.myhome.ie/residential/brochure/hampden-hill-donabate-dublin/5003373": 1793309177,
   "https://www.myhome.ie/residential/brochure/hampden-hill-donabate-dublin/5003379": 1793309177,
   "https://www.myhome.ie/residential/brochure/hanalei-newtown-enniskerry-co-wicklow/4966907": 1793307204,
+  "https://www.myhome.ie/residential/brochure/harbour-gate-one-bed-top-floor-apartment-with-exceptionally-large-terrace-no-48-harbour-gate-naas-co/4925510": 1794187860,
   "https://www.myhome.ie/residential/brochure/harpur-lane-leixlip-kildare/4894856": 1793309775,
   "https://www.myhome.ie/residential/brochure/harristown-brannockstown-kilcullen-kildare/4997197": 1793307204,
   "https://www.myhome.ie/residential/brochure/harristown-brannockstown-naas-kildare/4983922": 1793307204,
@@ -10326,7 +10327,7 @@
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 20,
+   "listings": 21,
    "pages": 1
   },
   "myhome-meath": {
