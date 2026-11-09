@@ -313,6 +313,7 @@
   "https://www.myhome.ie/residential/brochure/10-the-oaks-clontarf-road-dublin-3-dublin/5032721": 1793307892,
   "https://www.myhome.ie/residential/brochure/10-ticknock-park-sandyford-dublin-18/4996533": 1793307204,
   "https://www.myhome.ie/residential/brochure/10-woodbrook-court-old-bray-road-shankill-co-dublin/5036117": 1793307775,
+  "https://www.myhome.ie/residential/brochure/100-boot-road-full-pp-for-second-dwelling-clondalkin-dublin-22/5039749": 1794249060,
   "https://www.myhome.ie/residential/brochure/100-foxlodge-manor-ratoath-co-meath/5025182": 1793307838,
   "https://www.myhome.ie/residential/brochure/100-rath-lodge-ashbourne-meath/5028673": 1793307205,
   "https://www.myhome.ie/residential/brochure/100-sonesta-malahide-county-dublin/4986140": 1793309177,
@@ -1464,6 +1465,7 @@
   "https://www.myhome.ie/residential/brochure/27-woodbine-avenue-booterstown-co-dublin/5028255": 1793309177,
   "https://www.myhome.ie/residential/brochure/27-woodvale-avenue-clonsilla-dublin-15/4917104": 1793307204,
   "https://www.myhome.ie/residential/brochure/274-merrion-road-ballsbridge-dublin-4/5007779": 1793307235,
+  "https://www.myhome.ie/residential/brochure/274-merrion-road-ballsbridge-dublin-4/5040449": 1794249060,
   "https://www.myhome.ie/residential/brochure/276-charlesland-wood-greystones-co-wicklow/5038903": 1793365281,
   "https://www.myhome.ie/residential/brochure/28-ashbrook-clontarf-dublin-3/5016911": 1793313153,
   "https://www.myhome.ie/residential/brochure/28-belarmine-vale-stepaside-dublin-18/5023224": 1793309177,
@@ -3805,6 +3807,7 @@
   "https://www.myhome.ie/residential/brochure/killeen-dunsany-meath/5027744": 1793307205,
   "https://www.myhome.ie/residential/brochure/killeen-dunshaughlin-county-meath/5040448": 1794247272,
   "https://www.myhome.ie/residential/brochure/killyganard-cross-athy-county-kildare/5032390": 1793307204,
+  "https://www.myhome.ie/residential/brochure/kilmainham-congregational-church-62-inchicore-road-kilmainham-dublin-8/5028599": 1794249060,
   "https://www.myhome.ie/residential/brochure/kilmainham-kells-co-meath/5021788": 1793307205,
   "https://www.myhome.ie/residential/brochure/kilmartin-hollystown-dublin-15/5009471": 1793307204,
   "https://www.myhome.ie/residential/brochure/kilmore-14-willow-grove-foxrock-dublin-18/5003442": 1793307204,
@@ -5458,6 +5461,28 @@
    "viewings": [
     "Early viewing is highly recommended"
    ]
+  },
+  "38bdab57a1": {
+   "_sent_at": 1794249060,
+   "address": "274 Merrion Road, Ballsbridge, Dublin 4",
+   "agent_email": "harry.angel@savills",
+   "agent_name": "Savills - Dublin",
+   "agent_phone": "+353 (1) 618 1300",
+   "bathrooms": 2,
+   "bedrooms": 2,
+   "ber": "A1",
+   "description": "A striking detached new-build residence offering contemporary living in one of Dublin's most sought-after coastal settings.\n\nA striking new-build residence (completed 2026) offering contemporary living in one of Dublin's most sought-after coastal settings.\n\nThis impressive two-bedroom home has been thoughtfully designed to maximise both space and natural light, featuring an innovative inverted layout with the main living accommodation positioned on the upper floor. The well- proportioned open-plan living/dining area enjoys an abundance of light and provides a superb setting for modern living, with a seamless flow ideal for both everyday life and entertaining.\n\nThe two generous double bedrooms are located on the ground floor complemented by a beautifully finished shower room.\n\nConstructed earlier this year, 274 Merrion Road boasts an A-rated Building Energy Rating (BER), ensuring exceptional energy efficiency, lower running costs, and year-round comfort. The property showcases high-quality finishes and careful attention to detail throughout.\n\nThe location is second to none. Ideally positioned on Merrion Road, the property benefits from excellent connectivity, with Dublin Bus routes on your doorstep and DART services within easy reach, providing swift access to the city centre and beyond. The stunning coastline is just moments away, with Sandymount Strand and Merrion Beach offering scenic walks, recreational opportunities, and a tranquil escape from urban life.\n\nResidents will also enjoy close proximity to a host of local amenities including cafés, restaurants, shops, and good schools, making this an ideal home for a wide range of buyers.\n\n274 Merrion Road represents a rare opportunity to acquire a turnkey home combining modern design, energy efficiency, and an exceptional coastal location.\n\nParking space available for rent. New-build, two generous bedrooms Innovative upside-down layout with living space upstairs Bright and spacious open-plan living accommodation High-quality finishes throughout A-rated BER for optimal energy efficiency Excellent transport links including bus routes and DART Walking distance to Merrion Strand and Sandymount Strand Prime Dublin 4 location with an abundance of nearby amenities",
+   "details_fetched": true,
+   "floor_area_m2": 81.0,
+   "image": "https://photos-a.propertyimages.ie/media/9/4/4/5040449/ed8b782e-c1c8-4cda-a846-eb864f67a2e1_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 695000,
+   "property_type": "detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/274-merrion-road-ballsbridge-dublin-4/5040449",
+   "viewings": []
   },
   "39a30c7e30": {
    "_sent_at": 1793894475,
