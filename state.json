@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 8,
- "last_full_sweep": 1794193785,
+ "last_full_sweep": 1794267572,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -203,6 +203,7 @@
   "https://www.myhome.ie/residential/brochure/1-lakelands-grove-stillorgan-co-dublin/5025385": 1793309177,
   "https://www.myhome.ie/residential/brochure/1-langford-park-trim-meath/4935838": 1793307205,
   "https://www.myhome.ie/residential/brochure/1-larkfield-gardens-harold-s-cross-dublin-6w/5029564": 1793307097,
+  "https://www.myhome.ie/residential/brochure/1-leinster-lawn-clonskeagh-dublin-14-co-dublin/4938850": 1794267572,
   "https://www.myhome.ie/residential/brochure/1-leo-avenue-phibsboro-dublin-7/5005579": 1793894474,
   "https://www.myhome.ie/residential/brochure/1-lissadel-park-malahide-co-dublin-malahide-county-dublin/5028680": 1793309827,
   "https://www.myhome.ie/residential/brochure/1-littlewood-belarmine-avenue-stepaside-dublin-18/5038370": 1793309177,
@@ -1219,6 +1220,7 @@
   "https://www.myhome.ie/residential/brochure/22-jameson-s-orchard-seamount-road-malahide-co-dublin/5037259": 1793309177,
   "https://www.myhome.ie/residential/brochure/22-luttrellstown-place-castleknock-dublin-15/5008417": 1793309288,
   "https://www.myhome.ie/residential/brochure/22-main-street-shillelagh-wicklow/5037408": 1793307204,
+  "https://www.myhome.ie/residential/brochure/22-newtown-court-maynooth-naas-co-kildare/5015355": 1794267573,
   "https://www.myhome.ie/residential/brochure/22-oakleigh-celbridge-county-kildare/5036883": 1793307204,
   "https://www.myhome.ie/residential/brochure/22-park-drive-grove-castleknock-dublin-15-d15k103/5026672": 1793308949,
   "https://www.myhome.ie/residential/brochure/22-sandyford-hall-place-sandyford-dubin-18/5027857": 1793307204,
@@ -2128,6 +2130,7 @@
   "https://www.myhome.ie/residential/brochure/42-cedar-square-ridgewood-swords-county-dublin/5035637": 1793309177,
   "https://www.myhome.ie/residential/brochure/42-cherry-hill-court-kells-meath/5037741": 1793307205,
   "https://www.myhome.ie/residential/brochure/42-colthurst-crescent-lucan-co-dublin/5037237": 1793629863,
+  "https://www.myhome.ie/residential/brochure/42-crannog-lagore-road-dunshaughlin-meath/4995538": 1794267573,
   "https://www.myhome.ie/residential/brochure/42-crotanstown-grange-green-road-curragh-kildare-r56-fk26/5030431": 1793307204,
   "https://www.myhome.ie/residential/brochure/42-de-lacy-court-trim-co-meath/5037717": 1793307205,
   "https://www.myhome.ie/residential/brochure/42-doris-street-ringsend-dublin-4/5032882": 1793306979,
@@ -8368,6 +8371,28 @@
     "Notice to all parties viewing this brochure"
    ]
   },
+  "a69602bbc2": {
+   "_sent_at": 1794267573,
+   "address": "22 Newtown Court, Maynooth, Naas, Co. Kildare",
+   "agent_email": "info@lreilly.ie",
+   "agent_name": "Liam Reilly Auctioneers",
+   "agent_phone": "01 628 7548",
+   "bathrooms": 3,
+   "bedrooms": 4,
+   "ber": "B3",
+   "description": "LIAM REILLY AUCTIONEERS are delighted to bring No. 22 Newtown Court, Maynooth, Co. Kildare to the open market. No. 22 is an exceptional property, which has been extensively refurbished and modernised to a particularly high standard with the highest quality fixtures and fittings to include solid hardwood floors, and Canadia flooring, along with new carpet on the stairs, newly fitted windows and composite front door, solid Killeshandra internal doors, newly fitted kitchen with beautifully tiled floor, newly fitted guest w.c., ensuite and bathroom, tiled floor to ceiling and newly fitted built-in wardrobes. \n\nThere is bespoke wood panelling in the hall, stairs and landing, which adds to the grandeur of this elegant property and the adjoining internal walls have been soundproofed. \n\nThe rear is paved and West facing, a block-built office / garden room also compliments this space. The office / garden room is also elegantly finished with solid wood flooring, electricity and heating. \n\nThe house looks onto a large green area. \n\nAccommodation briefly comprises: \nHallway Guest W.C. \nLiving Room (4.9 x 3.5m) \nKitchen (5.6 x 339m) \nUpstairs: \nMaster Bedroom (3.7 x 3.0m) \nEnsuite Bedroom 2 (3.5 x 2.5m) \nBedroom 3 (3.0 x 2.4m) \nBathroom Bedroom 4 (2.7 x 2.4m) \n\nThe property enjoys oil-fired central heating and is perfectly situated adjacent to the parade of shops at Newtown S.C and a skip to the bustling Maynooth village with its array of shops, cafes, restaurants, bars and an abundance of sporting amenities. With an excellent transport infrastructure, including Dublin Bus, Bus Eireann, Commuter & Inter City Train links and with easy access to the N4 you will be in Dublin City Centre by car in 25 minutes. - Parking\n- En Suite\n- Garden\n- Patio\n- Alarm",
+   "details_fetched": true,
+   "floor_area_m2": 100.0,
+   "image": "https://photos-a.propertyimages.ie/media/5/5/3/5015355/dd81b5f5-0c09-4c60-80e0-aa53fc942695_l.jpeg",
+   "new_build": false,
+   "parking": 1,
+   "price": 575000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/22-newtown-court-maynooth-naas-co-kildare/5015355",
+   "viewings": []
+  },
   "a6a6f7e8cf": {
    "_sent_at": 1793309209,
    "address": "36 Woodstown Drive, Knocklyon, Dublin 16",
@@ -10441,25 +10466,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 124,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 176,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 209,
+   "pages": 12
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 62,
+   "pages": 12
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 170,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 149,
+   "pages": 9
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 135,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 161,
+   "pages": 10
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 31,
+   "pages": 6
+  },
+  "myhome-dublin-north-county": {
+   "error": null,
+   "listings": 568,
+   "pages": 34
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 392,
+   "pages": 25
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 21,
-   "pages": 1
+   "listings": 449,
+   "pages": 24
   },
   "myhome-meath": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 390,
+   "pages": 21
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 467,
+   "pages": 25
   }
  },
  "telegram_offset": 593474601
