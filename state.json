@@ -1244,6 +1244,7 @@
   "https://www.myhome.ie/residential/brochure/2205-highfield-estate-newbridge-co-kildare/5017717": 1793307205,
   "https://www.myhome.ie/residential/brochure/221-clontarf-road-clontarf-dublin-3/4937262": 1793308949,
   "https://www.myhome.ie/residential/brochure/224-le-fanu-road-ballyfermot-dublin-10/5011649": 1793624470,
+  "https://www.myhome.ie/residential/brochure/226-sundrive-road-crumlin-dublin-12/5040331": 1794313858,
   "https://www.myhome.ie/residential/brochure/22a-bramble-glade-ballinahinch-ashford-co-wicklow/5037702": 1793307204,
   "https://www.myhome.ie/residential/brochure/22a-glentworth-park-ard-na-greine-dublin-13/4988333": 1793307204,
   "https://www.myhome.ie/residential/brochure/23-anna-villa-ranelagh-dublin-6/5039373": 1793707267,
@@ -2358,6 +2359,7 @@
   "https://www.myhome.ie/residential/brochure/5-great-western-avenue-phibsborough-dublin-7/5027309": 1793813460,
   "https://www.myhome.ie/residential/brochure/5-greggs-hill-arklow-wicklow/5004453": 1793307204,
   "https://www.myhome.ie/residential/brochure/5-hacketstown-cottages-rush-road-skerries-co-dublin/5006475": 1793309177,
+  "https://www.myhome.ie/residential/brochure/5-harpur-park-view-harpur-lane-leixlip-kildare/5017516": 1794313859,
   "https://www.myhome.ie/residential/brochure/5-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/5029919": 1793309177,
   "https://www.myhome.ie/residential/brochure/5-kilcarn-heights-yellow-walls-lane-lismullen-navan-meath/5036659": 1793307205,
   "https://www.myhome.ie/residential/brochure/5-kilworth-road-drimnagh-dublin-12/5038929": 1793368875,
@@ -6833,6 +6835,30 @@
    "source": "myhome",
    "url": "https://www.myhome.ie/residential/brochure/9-the-green-moyglare-hall-maynooth-co-kildare/5030774",
    "viewings": []
+  },
+  "6bb268e4bf": {
+   "_sent_at": 1794313859,
+   "address": "5 Harpur Park View, Harpur Lane, Leixlip, Kildare",
+   "agent_email": "info@coonan.com",
+   "agent_name": "Coonan New Homes",
+   "agent_phone": "+35316286128 ",
+   "bathrooms": 3,
+   "bedrooms": 4,
+   "ber": "A2",
+   "description": "Final 4 bedroom semi detached available. Viewing by appointment.\r\n\r\nHarpur Lane is the ideal choice for first-time buyers, growing families and commuters who want to put down roots in an attractive area with great amenities and convenient transport links. Like every Cairn development, Harpur Lane is a thoughtfully designed and well-laid-out development with green space for all to be enjoyed. The development is also close to the vast Castletown House estate, 120 acres of rolling parklands by the banks of the River Liffey. This gives the development a great sense of luxurious space, perfect for children and adults to explore and enjoy.\r\n\r\nLeixlip is an historic village known for having great amenities for everyone in the family. An abundance of schools and crèches are located in the immediate area, giving an enviable amount of choice for every age group. For sports enthusiasts, there are well-established athletics, GAA, soccer, rugby and basketball clubs within walking distance, while water sports on the River Liffey and Leixlip Reservoir will please even the biggest dare devils in the family. Or simply enjoy the parklands in the neighbouring Castletown Estate - it's all on your doorstep.\r\n\r\nFor commuters, the village is close to the N4/M4, which leads on to the M50, opening up the country's network of main roads. Commuters can access Dublin City Centre in less than 30 minutes, or choose between regular Dublin Bus services and train connections from Leixlip Louisa Bridge train station.\r\n\r\nContact joint Selling Agents Hooke & MacDonald on 01 631 8402 and Coonan Property 01 628 6128",
+   "details_fetched": true,
+   "floor_area_m2": 134.0,
+   "image": "https://photos-a.propertyimages.ie/media/6/1/5/5017516/6c2bbb0a-bb79-4f03-b09b-f77971a29d75_l.jpg",
+   "new_build": true,
+   "parking": 1,
+   "price": 653000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/5-harpur-park-view-harpur-lane-leixlip-kildare/5017516",
+   "viewings": [
+    "Viewing by appointment"
+   ]
   },
   "6d39a8c5cf": {
    "_sent_at": 1793311352,
