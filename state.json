@@ -4521,6 +4521,7 @@
   "https://www.myhome.ie/residential/brochure/tara-44-foster-avenue-mount-merrion-county-dublin/5038070": 1793309177,
   "https://www.myhome.ie/residential/brochure/tara-cottage-trafalgar-road-greystones-co-wicklow/5011014": 1793309177,
   "https://www.myhome.ie/residential/brochure/tara-house-redcross-co-wicklow/5018562": 1793307204,
+  "https://www.myhome.ie/residential/brochure/teach-bray-60-cherrywood-park-dublin-22-dublin-22/5041117": 1794564065,
   "https://www.myhome.ie/residential/brochure/tearmann-castlekieran-carnaross-co-meath/5021277": 1793307205,
   "https://www.myhome.ie/residential/brochure/teevinore-la-touche-road-greystones-co-wicklow/5033102": 1793307204,
   "https://www.myhome.ie/residential/brochure/tenamay-kilbride-road-kilbride-wicklow/4854083": 1793307204,
@@ -11011,75 +11012,25 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin-13": {
+  "myhome-dublin": {
    "error": null,
-   "listings": 133,
-   "pages": 8
-  },
-  "myhome-dublin-14": {
-   "error": null,
-   "listings": 173,
-   "pages": 10
-  },
-  "myhome-dublin-15": {
-   "error": null,
-   "listings": 202,
-   "pages": 12
-  },
-  "myhome-dublin-16": {
-   "error": null,
-   "listings": 64,
-   "pages": 12
-  },
-  "myhome-dublin-18": {
-   "error": null,
-   "listings": 171,
-   "pages": 11
-  },
-  "myhome-dublin-3": {
-   "error": null,
-   "listings": 143,
-   "pages": 9
-  },
-  "myhome-dublin-4": {
-   "error": null,
-   "listings": 131,
-   "pages": 8
-  },
-  "myhome-dublin-6": {
-   "error": null,
-   "listings": 159,
-   "pages": 9
-  },
-  "myhome-dublin-6w": {
-   "error": null,
-   "listings": 32,
-   "pages": 6
-  },
-  "myhome-dublin-north-county": {
-   "error": null,
-   "listings": 559,
-   "pages": 33
-  },
-  "myhome-dublin-south-county": {
-   "error": null,
-   "listings": 387,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 442,
-   "pages": 24
+   "listings": 21,
+   "pages": 1
   },
   "myhome-meath": {
    "error": null,
-   "listings": 393,
-   "pages": 22
+   "listings": 20,
+   "pages": 1
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 462,
-   "pages": 25
+   "listings": 20,
+   "pages": 1
   }
  },
  "telegram_offset": 593474601
