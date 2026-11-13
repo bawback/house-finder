@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 10,
- "last_full_sweep": 1794488997,
+ "last_full_sweep": 1794562770,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -692,6 +692,7 @@
   "https://www.myhome.ie/residential/brochure/14-morristown-crescent-the-paddocks-newbridge-co-kildare/5031934": 1793307204,
   "https://www.myhome.ie/residential/brochure/14-mount-eustace-rise-tyrrelstown-dublin-15-d15-p0k8/5029066": 1793307204,
   "https://www.myhome.ie/residential/brochure/14-newhaven-bay-balbriggan-dublin/5031611": 1793309177,
+  "https://www.myhome.ie/residential/brochure/14-nutley-square-donnybrook-dublin-4/5041107": 1794562770,
   "https://www.myhome.ie/residential/brochure/14-old-meadow-grove-avenue-blackrock-co-dublin/5005015": 1793309177,
   "https://www.myhome.ie/residential/brochure/14-oldbridge-court-lucan-county-dublin/5039761": 1793817061,
   "https://www.myhome.ie/residential/brochure/14-oxford-road-ranelagh-dublin-6/5022948": 1793307048,
@@ -836,6 +837,7 @@
   "https://www.myhome.ie/residential/brochure/16-newpark-newtownpark-avenue-blackrock-co-dublin/5039235": 1793635270,
   "https://www.myhome.ie/residential/brochure/16-o-neachtain-road-drumcondra-dublin-9/5021055": 1793307204,
   "https://www.myhome.ie/residential/brochure/16-parklands-square-maynooth-co-kildare-naas/5041045": 1794501061,
+  "https://www.myhome.ie/residential/brochure/16-rathfarnham-park-rathfarnham-dublin-14/5014882": 1794562770,
   "https://www.myhome.ie/residential/brochure/16-ridgewood-green-swords-county-dublin/4997151": 1793309177,
   "https://www.myhome.ie/residential/brochure/16-sallynoggin-villas-glenageary-county-dublin/5031160": 1793309177,
   "https://www.myhome.ie/residential/brochure/16-sharavogue-glenageary-county-dublin/5037699": 1793309177,
@@ -2773,6 +2775,7 @@
   "https://www.myhome.ie/residential/brochure/6-rathcairn-athboy-co-meath/4654028": 1793307205,
   "https://www.myhome.ie/residential/brochure/6-ridgewood-square-ridgewood-swords-co-dublin/5029782": 1793309177,
   "https://www.myhome.ie/residential/brochure/6-rockview-terrace-arklow-wicklow/4962472": 1793307204,
+  "https://www.myhome.ie/residential/brochure/6-rockville-court-carrickmines-dublin-18/4967352": 1794562774,
   "https://www.myhome.ie/residential/brochure/6-rossberry-park-lucan-co-dublin-dublin-county-dublin/5040195": 1793993457,
   "https://www.myhome.ie/residential/brochure/6-rossmore-avenue-templeogue-dublin-6w/5032172": 1793307135,
   "https://www.myhome.ie/residential/brochure/6-saddlers-avenue-mulhuddart-dublin-15/5028554": 1793307204,
@@ -3400,6 +3403,7 @@
   "https://www.myhome.ie/residential/brochure/apartment-1-main-house-simmonscourt-castle-ballsbridge-dublin/5040277": 1794223875,
   "https://www.myhome.ie/residential/brochure/apartment-10-thornfield-block-c-donnybrook-dublin-4/5039285": 1793642477,
   "https://www.myhome.ie/residential/brochure/apartment-104-block-d-castle-hall-swords-central-swords-county-dublin/4953371": 1793309177,
+  "https://www.myhome.ie/residential/brochure/apartment-105-the-casino-dublin-road-malahide-county-dublin/5041105": 1794562774,
   "https://www.myhome.ie/residential/brochure/apartment-108-the-casino-dublin-road-malahide-county-dublin/5021121": 1793309177,
   "https://www.myhome.ie/residential/brochure/apartment-11-trinity-square-townsend-street-south-city-centre-dublin-2/5001375": 1793813460,
   "https://www.myhome.ie/residential/brochure/apartment-113-block-f-cedar-square-ridgewood-swords-county-dublin/5038805": 1793309177,
@@ -3603,6 +3607,7 @@
   "https://www.myhome.ie/residential/brochure/avondale-109-lower-kilmacud-road-kilmacud-dublin-14/5030063": 1793307173,
   "https://www.myhome.ie/residential/brochure/avondale-castlejordan-co-meath/5037927": 1793307205,
   "https://www.myhome.ie/residential/brochure/avondale-drumbaragh-kells-meath/5018456": 1793307205,
+  "https://www.myhome.ie/residential/brochure/avondale-lower-kilmacud-road-109-4bed-kilmacud-dublin-14/5039625": 1794562770,
   "https://www.myhome.ie/residential/brochure/avondale-lower-kilmacud-road-109-4bed-mount-merrion-county-dublin/5039625": 1793808073,
   "https://www.myhome.ie/residential/brochure/avondale-seafield-road-killiney-co-dublin/5025492": 1793309177,
   "https://www.myhome.ie/residential/brochure/aylmer-lodge-duncreevan-kilcock-co-kildare/5040551": 1794319271,
@@ -4404,6 +4409,7 @@
   "https://www.myhome.ie/residential/brochure/salem-18-ferrybank-arklow-wicklow/4991563": 1793307204,
   "https://www.myhome.ie/residential/brochure/sallins-road-naas-co-kildare/5040729": 1794396662,
   "https://www.myhome.ie/residential/brochure/san-feliu-ardeevin-road-dalkey-county-dublin/5014712": 1793309177,
+  "https://www.myhome.ie/residential/brochure/sans-soucis-44-donnybrook-manor-donnybrook-dublin-4/5039168": 1794562770,
   "https://www.myhome.ie/residential/brochure/sans-soucis-44-donnybrook-manor-dublin-4-co-dublin/5039168": 1793622661,
   "https://www.myhome.ie/residential/brochure/sea-breeze-23-st-laurences-park-wicklow-town-co-wicklow/5021313": 1793307204,
   "https://www.myhome.ie/residential/brochure/sea-road-arklow-wicklow/5032927": 1793307204,
@@ -4499,6 +4505,7 @@
   "https://www.myhome.ie/residential/brochure/sunnybank-cottage-inchaquire-ballitore-kilcullen-kildare/5038584": 1793876473,
   "https://www.myhome.ie/residential/brochure/sunnyhill-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030221": 1793307205,
   "https://www.myhome.ie/residential/brochure/sunnyside-175-upper-rathmines-road-rathmines-dublin-6/5038717": 1793307045,
+  "https://www.myhome.ie/residential/brochure/survey-at-38-priory-drive-38-priory-drive-stillorgan-co-dublin/5010769": 1794562774,
   "https://www.myhome.ie/residential/brochure/suttonfield-ballybetagh-road-kilternan-dublin-18/4652536": 1793309177,
   "https://www.myhome.ie/residential/brochure/swans-nest-1a-spittal-hill-lissenhall-swords-co-dublin/4941861": 1793309177,
   "https://www.myhome.ie/residential/brochure/swift-mews-4b-stillorgan-road-donnybrook-dublin-4/5003467": 1793307024,
@@ -4729,6 +4736,7 @@
   "https://www.myhome.ie/residential/brochure/viewmount-knockadosan-rathdrum-co-wicklow/5036661": 1793307204,
   "https://www.myhome.ie/residential/brochure/villa-barton-1-churchfield-the-k-club-straffan-kildare/4803588": 1793307205,
   "https://www.myhome.ie/residential/brochure/villino-hillside-dalkey-county-dublin/4997927": 1793309177,
+  "https://www.myhome.ie/residential/brochure/vista-montana-firhouse-road-dublin-16-templeogue-co-dublin/5008542": 1794562774,
   "https://www.myhome.ie/residential/brochure/ward-farm-spricklestown-the-ward-co-dublin/5005374": 1793307205,
   "https://www.myhome.ie/residential/brochure/wardstown-athboy-meath/5038563": 1793307205,
   "https://www.myhome.ie/residential/brochure/waterloo-collection-waterloo-road-ballsbridge-dublin-4/4986514": 1793307260,
@@ -5898,6 +5906,30 @@
    "url": "https://www.myhome.ie/residential/brochure/9-rosemount-estate-dundrum-dublin-14/5026137",
    "viewings": [
     "Early viewing is highly recommended"
+   ]
+  },
+  "3ce27d84a6": {
+   "_sent_at": 1794562774,
+   "address": "6 Rockville Court, Carrickmines, Dublin 18",
+   "agent_email": "sales@lynam.ie",
+   "agent_name": "Lynam Auctioneers & Estate Agents",
+   "agent_phone": "01 296 5374",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "A2",
+   "description": "Introducing No 6 Rockville Court. This A rated, 3 bedroom, turn key home offers contemporary and comfortable family living in a highly sought after location. \r\n\r\nNestled in the peaceful, landscaped grounds of Rockville Court, No 6 extends to approximately \r\n115.7sq m and is beautifully presented throughout. Accommodation comprises a welcoming entrance hall with timber flooring leading to a most useful guest WC and into the open plan kitchen, dining and living area. The modern kitchen boasts sleek cabinetry, a separate kitchen island as well as its own utility room, ideal for additional storage or use as a pantry. \r\n\r\nThe living and dining area is filled with natural light and has elegant touches throughout, including the wall mounted built-in fireplace. Double doors open to a well kept, south west facing, private rear garden. \r\n\r\nOn the first floor, there are 3 well appointed bedrooms. The master bedroom boasts built in wardrobes and a separate, modern en suite bathroom. The second and third double bedrooms also have built in wardrobes so there is an abundance of storage in this property. Accommodation is completed by a family bathroom with a bath. \r\n\r\nRockville Court itself boasts well maintained and beautifully landscaped communal areas \r\nRockville is located within walking distance of Carrickmines Retail Park and its fantastic array of shops and cafes. This property is also well serviced by public transport with the No 63, 63a and 44 bus routes all within an easy walking distance as well as Ballyogan Luas station on the Glenamuck Road. Entrance hall: c. 2.61m x 4.39m \r\n\r\nWC: c. 1.46m x 1.47m\r\n\r\nKitchen: c. 4.28m x 4.17m max\r\n\r\nUtility: 1.83m x 1.40m\r\n\r\nLiving/Dining room: c. 6.99m x 3.78m\r\n\r\nLanding: c. 1.21m x 4.86m \r\n\r\nBedroom 1: c. 3.87m x 3.35m\r\n\r\nEn suite: c. 1.69m x 2.43m \r\n\r\nBedroom 2: c. 3.03m x 4.41m\r\n\r\nBedroom 3: c. 3.23m x 3.76m max \r\n\r\nBathroom: c. 2.37m x 2.33m\r\n\r\nDisclaimer: Whilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements of doors, windows, rooms and any other item are approximate and no responsibility is taken for any error, omission, or misstatement. This plan is for illustrative purposes only and should only be used as such by any prospective purchaser. 3 bedroom, A rated family home\r\nAir to water heating system\r\n2 car parking spaces\r\nSouth west facing garden\r\nModern open plan living spaces\r\nUtility room\r\nService charge €1,018 - includes bins \r\nStrong transport links",
+   "details_fetched": true,
+   "floor_area_m2": 115.7,
+   "image": "https://photos-a.propertyimages.ie/media/2/5/3/4967352/d2291c32-445f-4e9f-9899-9952959d20f1_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 699000,
+   "property_type": "terraced",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/6-rockville-court-carrickmines-dublin-18/4967352",
+   "viewings": [
+    "Open viewing Wed Nov 18, 12.30pm - 1pm"
    ]
   },
   "3d51eb9b36": {
@@ -8711,6 +8743,31 @@
     "Open viewing Sun Nov 8, 10am - 12pm"
    ]
   },
+  "a2f39cfee2": {
+   "_sent_at": 1794562774,
+   "address": "Vista Montana, Firhouse Road, Dublin 16, Templeogue, Co. Dublin",
+   "agent_email": "ray@hwp.ie",
+   "agent_name": "HWP Residential",
+   "agent_phone": "01 466 4993",
+   "bathrooms": 3,
+   "bedrooms": 4,
+   "ber": "A2",
+   "description": "For Illustration purposes, the photos shown are from the full fitted showhouse.\n\nVista Montana - New Homes Designed for Modern Living\n\nHWP Estate Agents are proud to present No. 8 Vista Montana, an exclusive boutique development of just 10 thoughtfully designed homes, where space, comfort, energy efficiency, and everyday practicality come together seamlessly.\n\nNestled within a quiet, leafy enclave just off Firhouse Road, Vista Montana offers a rare blend of tranquility and convenience. Residents will enjoy immediate access to an excellent range of local amenities, including schools, shops, and well-established transport linksall within easy reach.\n\nThese impressive 4-bedroom, 3-bathroom, three-storey homes have been carefully designed with modern living in mind. Each property features bright, spacious interiors, with living rooms designed to maximise natural light, creating warm and inviting spaces throughout. Generous accommodation is complemented by private rear gardens, ideal for relaxing, entertaining, and family life.\n\nInternally, the homes are finished to a superb standard, with designer kitchens by Sweeney, complemented by elegant quartz worktops. Bedrooms are generously proportioned and include fitted wardrobes, with selected homes offering the added luxury of walk-in wardrobe options.\n\nEvery home benefits from two designated car parking spaces, with the overall layout of the development thoughtfully planned to support convenient day-to-day living.\n\nEach home at Vista Montana is covered by a 10-year structural defects insurance policy provided through ICW Europe.\nThis provides peace of mind to homeowners, ensuring that the property has been independently inspected during construction and is protected for the future.\n\nThe development boasts impressive A2/A3 BER energy ratings, supported by air-to-water heat pump systems, multi-zone heating controls, and high levels of insulation. Together, these features ensure enhanced comfort, reduced running costs, and a more sustainable way of living.\n\nWith bright open-plan living spaces, quality finishes, and contemporary layouts throughout, Vista Montana offers more than just a new home - it presents a lifestyle defined by comfort, efficiency, and modern design in a beautifully crafted setting.\n\nEarly Viewing is a Must Exclusive new homes development\nBER rating: A2/A3\nTwo designated car parking spaces per house\nModern layouts designed for family living\nBright, spacious interiors\nEnergy-efficient construction\nHigh-quality finish throughout\nIdeal for first-time buyers, families, and movers\nA-rated energy efficient homes (A2 / A3)\nAir-to-water heat pump system\nMulti-zone heating controls\nHigh levels of insulation",
+   "details_fetched": true,
+   "floor_area_m2": 161.0,
+   "image": "https://photos-a.propertyimages.ie/media/2/4/5/5008542/064ad512-86bd-4931-8310-45649fda2a05_l.jpg",
+   "new_build": true,
+   "parking": 1,
+   "price": 649000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/vista-montana-firhouse-road-dublin-16-templeogue-co-dublin/5008542",
+   "viewings": [
+    "Early Viewing is a Must Exclusive new homes development",
+    "Early Viewing is a Must Features Exclusive new homes development"
+   ]
+  },
   "a357c56a3e": {
    "_sent_at": 1793307866,
    "address": "17 Straffan Green Straffan Wood Maynooth Co Kildare",
@@ -10954,25 +11011,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 133,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 173,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 202,
+   "pages": 12
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 64,
+   "pages": 12
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 171,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 143,
+   "pages": 9
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 131,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 159,
+   "pages": 9
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 32,
+   "pages": 6
+  },
+  "myhome-dublin-north-county": {
+   "error": null,
+   "listings": 559,
+   "pages": 33
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 387,
+   "pages": 25
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 21,
-   "pages": 1
+   "listings": 442,
+   "pages": 24
   },
   "myhome-meath": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 393,
+   "pages": 22
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 462,
+   "pages": 25
   }
  },
  "telegram_offset": 593474601
