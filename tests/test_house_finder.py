@@ -245,3 +245,11 @@ def test_old_saved_prefs_get_new_settings(tmp_path):
     del old["avoid_areas"]
     s = State(tmp_path / "s.json", {"prefs": old})
     assert "Tallaght" in s.prefs["avoid_areas"]
+
+
+def test_no_new_chat_once_paired(state, monkeypatch):
+    monkeypatch.delenv("ALLOW_NEW_CHAT", raising=False)
+    state.data["chats"] = [42]
+    tg = FakeTelegram([{"update_id": 1, "message": {"chat": {"id": 7}, "text": "/start secret"}}])
+    process_updates(tg, state, "secret")
+    assert state.data["chats"] == [42]

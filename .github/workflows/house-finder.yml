@@ -45,6 +45,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           PAIR_CODE: ${{ secrets.PAIR_CODE }}
+          ALLOW_NEW_CHAT: ${{ secrets.ALLOW_NEW_CHAT }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python -m house_finder --state data/state.json

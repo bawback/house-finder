@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import logging
+import os
 from typing import Callable
 
 from .messages import HELP, prefs_summary, viewing_request_text
@@ -157,8 +158,11 @@ def process_updates(tg: Telegram, state: State, pair_code: str, send_email: Emai
         if not text.startswith("/") or chat_id is None:
             continue
         if chat_id not in state.data["chats"]:
-            # Only chats that know the pairing code may use the bot.
-            if text.split()[0].split("@")[0] == "/start" and pair_code and text.split()[1:2] == [pair_code]:
+            # Only chats that know the pairing code may use the bot, and only while no chat is
+            # paired yet (or ALLOW_NEW_CHAT is set), so a leaked code cannot add a stranger.
+            open_to_new = not state.data["chats"] or os.environ.get("ALLOW_NEW_CHAT") == "1"
+            if (open_to_new and text.split()[0].split("@")[0] == "/start" and pair_code
+                    and text.split()[1:2] == [pair_code]):
                 state.data["chats"].append(chat_id)
                 tg.send(chat_id, "✅ این گفتگو وصل شد. آگهی‌های مناسب اینجا فرستاده می‌شوند.\n\n" + HELP)
             else:
