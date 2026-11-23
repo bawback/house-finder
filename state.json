@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 71,
+ "last_email_uid": 72,
  "last_full_sweep": 1795390627,
  "paused": false,
  "pending": {},
@@ -142,6 +142,7 @@
  },
  "seen": {
   "https://www.daft.ie/for-sale/1-carrig-view-ballinaclash-co-wicklow/6725989": 1795390652,
+  "https://www.daft.ie/for-sale/10-gartan-court-estuary-road-swords-co-dublin/6717685": 1795451471,
   "https://www.daft.ie/for-sale/12-oldbridge-green-lucan-co-dublin/6724614": 1795390627,
   "https://www.daft.ie/for-sale/120-grange-road-baldoyle-dublin-13/6701678": 1795390630,
   "https://www.daft.ie/for-sale/125-saint-eithne-road-cabra-dublin-7-co-dublin/6726072": 1795390643,
@@ -357,6 +358,7 @@
   "https://www.myhome.ie/residential/brochure/10-fairyhouse-lodge-fairyhouse-road-ratoath-co-meath/5031328": 1793307205,
   "https://www.myhome.ie/residential/brochure/10-findlater-street-north-circular-road-dublin-7/5019078": 1793626259,
   "https://www.myhome.ie/residential/brochure/10-fitzpatrick-cottages-harold-s-cross-dublin-6w/5007363": 1793307118,
+  "https://www.myhome.ie/residential/brochure/10-gartan-court-estuary-road-swords-co-dublin/5042514": 1795451471,
   "https://www.myhome.ie/residential/brochure/10-glenbourne-view-leopardstown-valley-leopardstown-dublin-18/5036947": 1793307790,
   "https://www.myhome.ie/residential/brochure/10-glencairn-oaks-the-gallops-leopardstown-dublin-18/5025475": 1793307520,
   "https://www.myhome.ie/residential/brochure/10-glengarriff-crescent-phibsborough-dublin-7/5025544": 1793309729,
@@ -1633,6 +1635,7 @@
   "https://www.myhome.ie/residential/brochure/25-nutley-road-ballsbridge-dublin-4/5028395": 1793306959,
   "https://www.myhome.ie/residential/brochure/25-old-court-lodge-firhouse-dublin-24/5040781": 1794403857,
   "https://www.myhome.ie/residential/brochure/25-parklands-place-maynooth-co-kildare/5042238": 1795390704,
+  "https://www.myhome.ie/residential/brochure/25-pine-road-ringsend-dublin-4/5042509": 1795451471,
   "https://www.myhome.ie/residential/brochure/25-primrose-street-phibsborough-dublin-7/5040287": 1794223875,
   "https://www.myhome.ie/residential/brochure/25-redwood-hollystown-dublin-15/4993216": 1793307204,
   "https://www.myhome.ie/residential/brochure/25-rockview-simons-ridge-sandyford-dublin-18/5035602": 1794328259,
@@ -2630,6 +2633,7 @@
   "https://www.myhome.ie/residential/brochure/45-sika-woods-enniskerry-co-wicklow/4997997": 1793307204,
   "https://www.myhome.ie/residential/brochure/45-standhouse-lawns-newbridge-co-kildare/5027532": 1793307205,
   "https://www.myhome.ie/residential/brochure/45-stillorgan-gate-stillorgan-co-dublin/5032324": 1793309177,
+  "https://www.myhome.ie/residential/brochure/45-tallow-hall-belgard-square-tallaght-dublin-24/5042506": 1795451471,
   "https://www.myhome.ie/residential/brochure/45-the-arches-castlefarm-naas-co-kildare/5039689": 1793806264,
   "https://www.myhome.ie/residential/brochure/45-the-commons-duleek-duleek-co-meath-duleek-meath/5040031": 1793970072,
   "https://www.myhome.ie/residential/brochure/45-the-courtyard-clonsilla-dublin-15/5001142": 1793307204,
@@ -3735,6 +3739,7 @@
   "https://www.myhome.ie/residential/brochure/98-loreto-avenue-rathfarnham-dublin-14/5029320": 1793309177,
   "https://www.myhome.ie/residential/brochure/98-monread-heights-monread-naas-co-kildare/5018598": 1793307205,
   "https://www.myhome.ie/residential/brochure/98-stoneleigh-naas-kildare/5038856": 1793358074,
+  "https://www.myhome.ie/residential/brochure/98-the-berkeley-pembroke-square-ballsbridge-dublin-4/5032814": 1795451471,
   "https://www.myhome.ie/residential/brochure/99-roselawn-road-castleknock-dublin-15/5014078": 1793309177,
   "https://www.myhome.ie/residential/brochure/99-the-drive-hazelhatch-park-celbridge-kildare/5021234": 1793313139,
   "https://www.myhome.ie/residential/brochure/992-abbeylands-castledermot-co-kildare/5040542": 1794315676,
