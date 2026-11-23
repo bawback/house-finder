@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 72,
+ "last_email_uid": 73,
  "last_full_sweep": 1795390627,
  "paused": false,
  "pending": {},
@@ -194,6 +194,7 @@
   "https://www.daft.ie/for-sale/71-diswellstown-way-castleknock-dublin-15/6728773": 1795446080,
   "https://www.daft.ie/for-sale/77-rossmore-avenue-newtownmountkennedy-co-wicklow/6727032": 1795390652,
   "https://www.daft.ie/for-sale/9-myrtle-house-myrtle-drive-clarehall-dublin-13/6728749": 1795444266,
+  "https://www.daft.ie/for-sale/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/6729098": 1795455076,
   "https://www.daft.ie/for-sale/no-86-church-hill-dunlavin-co-wicklow/6725413": 1795390630,
   "https://www.daft.ie/for-sale/no-88-burgage-manor-blessington-co-wicklow/6726907": 1795390652,
   "https://www.daft.ie/for-sale/sacre-coeur-89-cill-cais-old-bawn-road-dublin-24-co-dublin/6723946": 1795390627,
@@ -694,6 +695,7 @@
   "https://www.myhome.ie/residential/brochure/13-esker-lea-kilcullen-kildare/5001670": 1793307205,
   "https://www.myhome.ie/residential/brochure/13-farmleigh-close-castleknock-dublin-15/5025223": 1793307204,
   "https://www.myhome.ie/residential/brochure/13-father-mccullen-park-kells-co-meath/5038630": 1793307205,
+  "https://www.myhome.ie/residential/brochure/13-forge-lane-lusk-county-dublin/5041080": 1795455072,
   "https://www.myhome.ie/residential/brochure/13-glendhu-park-navan-road-dublin-7/5040799": 1794407471,
   "https://www.myhome.ie/residential/brochure/13-glenheron-park-greystones-wicklow/5005516": 1793307779,
   "https://www.myhome.ie/residential/brochure/13-grange-park-baldoyle-dublin-13/5024250": 1793307204,
@@ -1295,6 +1297,7 @@
   "https://www.myhome.ie/residential/brochure/2-ludford-road-plus-site-ballinteer-dublin-16/5040170": 1794488997,
   "https://www.myhome.ie/residential/brochure/2-mariners-cove-mariners-point-wicklow-town-co-wicklow/5018488": 1793307204,
   "https://www.myhome.ie/residential/brochure/2-marley-lawn-rathfarnham-dublin-16/5024366": 1793309178,
+  "https://www.myhome.ie/residential/brochure/2-marsham-court-kilmacud-blackrock-co-dublin/5042531": 1795455076,
   "https://www.myhome.ie/residential/brochure/2-mount-eagle-lawn-leopardstown-dublin-18/5042383": 1795429890,
   "https://www.myhome.ie/residential/brochure/2-northumberland-avenue-dun-laoghaire-co-dublin/4985080": 1793309177,
   "https://www.myhome.ie/residential/brochure/2-ocean-crest-arklow-co-wicklow/5010624": 1793307204,
@@ -1321,6 +1324,7 @@
   "https://www.myhome.ie/residential/brochure/2-the-grove-saint-catherine-s-estate-rush-dublin/5027198": 1793309177,
   "https://www.myhome.ie/residential/brochure/2-the-hazels-avourwen-drogheda-co-meath/5037611": 1793307205,
   "https://www.myhome.ie/residential/brochure/2-the-heath-laytown-meath/5037792": 1793307205,
+  "https://www.myhome.ie/residential/brochure/2-the-innings-observatory-lane-rathmines-dublin-6/5042524": 1795455076,
   "https://www.myhome.ie/residential/brochure/2-the-mall-athlumney-abbey-navan-meath/5031806": 1793307205,
   "https://www.myhome.ie/residential/brochure/2-the-mews-kensington-lodge-rochestown-avenue-dun-laoghaire/5030250": 1793313143,
   "https://www.myhome.ie/residential/brochure/2-the-ogham-granitefield-manor-dun-laoghaire-co-dublin/5034154": 1793309177,
@@ -2052,6 +2056,7 @@
   "https://www.myhome.ie/residential/brochure/31-turvey-park-donabate-county-dublin/5042076": 1795390676,
   "https://www.myhome.ie/residential/brochure/31-walkinstown-green-walkinstown-dublin-12/5029376": 1793899860,
   "https://www.myhome.ie/residential/brochure/31-woodpark-rathdrum-co-wicklow/5035124": 1793307204,
+  "https://www.myhome.ie/residential/brochure/310-the-elm-trimbelston-goatstown-road-dublin-14/4987997": 1795455072,
   "https://www.myhome.ie/residential/brochure/319-citywest-plaza-citywest-dublin-24-co-dublin/5040288": 1794223875,
   "https://www.myhome.ie/residential/brochure/31a-glenageary-lodge-glenageary-co-dublin/5017151": 1793309177,
   "https://www.myhome.ie/residential/brochure/32-anne-devlin-avenue-rathfarnham-dublin-14/5016780": 1793307204,
@@ -2628,6 +2633,7 @@
   "https://www.myhome.ie/residential/brochure/45-jameson-s-orchard-45-jamesons-orchard-seamount-road-malahide-co-dublin/5040704": 1794393062,
   "https://www.myhome.ie/residential/brochure/45-jkl-street-edenderry-offaly/5032245": 1793307204,
   "https://www.myhome.ie/residential/brochure/45-liffey-lawns-clane-co-kildare/5013656": 1793307205,
+  "https://www.myhome.ie/residential/brochure/45-main-street-belmayne-dublin-13/5042529": 1795455076,
   "https://www.myhome.ie/residential/brochure/45-saint-declan-s-road-marino-dublin-3/4998791": 1793307204,
   "https://www.myhome.ie/residential/brochure/45-seabury-glen-malahide-co-dublin/5019205": 1793309177,
   "https://www.myhome.ie/residential/brochure/45-shelmalier-road-dublin-3-east-wall-dublin-3/5041982": 1795390665,
@@ -3724,6 +3730,7 @@
   "https://www.myhome.ie/residential/brochure/96-whitechurch-way-rathfarnham-dublin-16/5009614": 1793898591,
   "https://www.myhome.ie/residential/brochure/97-ardmore-park-bray-co-wicklow/5038344": 1793309177,
   "https://www.myhome.ie/residential/brochure/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/5023439": 1793311373,
+  "https://www.myhome.ie/residential/brochure/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/5042534": 1795455076,
   "https://www.myhome.ie/residential/brochure/97-dromard-road-drimnagh-dublin-12/5035976": 1793633468,
   "https://www.myhome.ie/residential/brochure/97-kimmage-road-west-kimmage-dublin-12/4981325": 1793307152,
   "https://www.myhome.ie/residential/brochure/97-park-avenue-swords-county-dublin/5036571": 1793309177,
@@ -6072,6 +6079,31 @@
     "Early viewing is highly recommended"
    ]
   },
+  "294be7ec90": {
+   "_sent_at": 1795455076,
+   "address": "97 Beech Grove Cottages, Bray Road, Cabinteely, Dublin 18",
+   "agent_email": "lauren.farrell@raycooke.ie",
+   "agent_name": "Ray Cooke Auctioneers",
+   "agent_phone": "01 403 0720",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "C1",
+   "description": "RAY COOKE AUCTIONEERS are delighted to present 97 Beech Grove Cottages, Bray Road, Cabinteely, Dublin 18 to the market a charming three-bedroom, three-bathroom bungalow occupying a superb position in one of South Dublin's most desirable and well-connected locations. Ideally situated just moments from Cabinteely Village, residents are spoiled for choice with an excellent selection of cafés, restaurants, local shops and everyday amenities all within easy reach. The property also benefits from close proximity to Cabinteely Park, Kilbogget Park, Killiney Beach and Dun Laoghaire, offering an abundance of recreational amenities for families and outdoor enthusiasts alike. A host of highly regarded primary and secondary schools are nearby, while excellent public transport links, the N11, M50, LUAS at Cherrywood and nearby DART services ensure effortless connectivity to Dublin City Centre and beyond.\n\nBright and well-proportioned internal living accommodation spans to c. 104 sqm, and comprises of entrance hallway, spacious lounge, kitchen, dining area, three generous bedrooms including two ensuites, and a main family bathroom. The bungalow layout offers excellent flexibility and is perfectly suited to a wide range of purchasers.\n\nNo. 97 is presented as a clean blank canvas and is in need of modernisation throughout, offering the successful purchaser an outstanding opportunity to renovate, extend, and create a truly exceptional family home tailored to their own tastes and requirements, subject to the necessary planning permissions. Properties with this level of potential in such a prime location rarely come to the market.\n\nWhether you're a growing family looking to create your forever home or a discerning purchaser seeking a property with endless possibilities, No. 97 represents a fantastic opportunity in an unrivalled location. Early viewing is highly recommended contact\n\nAdditional Features; c. 104 sqm BER C 3 Bed / 3 Bath Terraced bungalow Parking to the front Oil fired heating Sunny rear garden In need of modernisation Bright and airy Well-proportioned layout throughout Bus stop directly outside Close to Cabinteely Park & Killiney Beach Wide range of local amenities within walking distance Highly sought after location Ideal for first time buyers, downsizers, and investors Viewing highly advised! Measurements;\n\nHallway: 1.66m X 6.79m.\n\nLiving Room: 4.20m X 4.94m.\n\nKitchen: 4.31m X 6.83m.\n\nBedroom 1: 3.46m X 3.63m.\n\nBedroom 2: 3.68m X 3.11m.\n\nBedroom 3: 3.72m X 3.58m.\n\nBathroom: 1.55m X 3.15m.\n\nEn-suite: 2.22m X 0.95m.\n\nEn-suite: 2.22m X 1.05m.\n\nDirections;\nEircode: D18 PP82",
+   "details_fetched": true,
+   "floor_area_m2": 104.0,
+   "image": "https://photos-a.propertyimages.ie/media/4/3/5/5042534/67af2298-218c-4b67-b13b-9e40264a185c_l.jpg",
+   "new_build": false,
+   "parking": null,
+   "price": 525000,
+   "property_type": "detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/5042534",
+   "viewings": [
+    "Early viewing is highly recommended contact",
+    "104 sqm BER C 3 Bed / 3 Bath Terraced bungalow Parking to the front Oil fired heating Sunny rear garden In need of modernisation Bright and airy Well-proportioned layout throughout Bus stop directly o"
+   ]
+  },
   "299790cd4a": {
    "_sent_at": 1793307775,
    "address": "10 Woodbrook Court Old Bray Road Shankill Co Dublin",
@@ -6441,6 +6473,28 @@
    "viewings": [
     "Early viewing is highly recommended"
    ]
+  },
+  "3c766d7735": {
+   "_sent_at": 1795455076,
+   "address": "97 Beech Grove Cottages Bray Road Cabinteely Dublin 18",
+   "agent_email": null,
+   "agent_name": null,
+   "agent_phone": null,
+   "bathrooms": null,
+   "bedrooms": null,
+   "ber": null,
+   "description": "",
+   "details_fetched": false,
+   "floor_area_m2": null,
+   "image": null,
+   "new_build": false,
+   "parking": null,
+   "price": null,
+   "property_type": null,
+   "sale_agreed": false,
+   "source": "daft",
+   "url": "https://www.daft.ie/for-sale/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/6729098",
+   "viewings": []
   },
   "3ce27d84a6": {
    "_sent_at": 1794562774,
