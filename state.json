@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 69,
+ "last_email_uid": 70,
  "last_full_sweep": 1795390627,
  "paused": false,
  "pending": {},
@@ -189,6 +189,7 @@
   "https://www.daft.ie/for-sale/60-the-oaks-ridgewood-swords-co-dublin/6727527": 1795390652,
   "https://www.daft.ie/for-sale/68-season-park-newtownmountkennedy-co-wicklow/6724254": 1795390627,
   "https://www.daft.ie/for-sale/7-ashton-drive-ashton-broc-swords-co-dublin/6725616": 1795390649,
+  "https://www.daft.ie/for-sale/71-diswellstown-way-castleknock-dublin-15/6728773": 1795446080,
   "https://www.daft.ie/for-sale/77-rossmore-avenue-newtownmountkennedy-co-wicklow/6727032": 1795390652,
   "https://www.daft.ie/for-sale/9-myrtle-house-myrtle-drive-clarehall-dublin-13/6728749": 1795444266,
   "https://www.daft.ie/for-sale/no-86-church-hill-dunlavin-co-wicklow/6725413": 1795390630,
@@ -739,6 +740,7 @@
   "https://www.myhome.ie/residential/brochure/132-the-cherry-trimbleston-goatstown-dublin-14/5039534": 1794484870,
   "https://www.myhome.ie/residential/brochure/133-carysfort-park-blackrock-co-dublin/5037091": 1793309177,
   "https://www.myhome.ie/residential/brochure/134-clanranold-road-donnycarney-dublin-5/4979564": 1793307204,
+  "https://www.myhome.ie/residential/brochure/134-coolamber-park-knocklyon-dublin-16/5042455": 1795446079,
   "https://www.myhome.ie/residential/brochure/134-glasmore-park-swords-co-dublin/5029849": 1793309177,
   "https://www.myhome.ie/residential/brochure/134-palmerstown-woods-clondalkin-dublin-22/5039835": 1793881862,
   "https://www.myhome.ie/residential/brochure/135-athlumney-castle-navan-meath/5037079": 1793307205,
@@ -2198,6 +2200,7 @@
   "https://www.myhome.ie/residential/brochure/36-dublin-street-balbriggan-dublin/5032092": 1793309177,
   "https://www.myhome.ie/residential/brochure/36-dunbur-glen-wicklow-town-wicklow/5028271": 1793307204,
   "https://www.myhome.ie/residential/brochure/36-fairways-lawns-bettystown-meath/4992780": 1793307205,
+  "https://www.myhome.ie/residential/brochure/36-glenties-park-finglas-dublin-11/5042466": 1795446079,
   "https://www.myhome.ie/residential/brochure/36-grace-park-meadows-drumcondra-dublin/5009956": 1793307204,
   "https://www.myhome.ie/residential/brochure/36-inbhir-ide-malahide-dublin/5007670": 1793309177,
   "https://www.myhome.ie/residential/brochure/36-jack-s-hole-beach-resort-brittas-bay-wicklow/5022001": 1793307204,
@@ -3319,6 +3322,7 @@
   "https://www.myhome.ie/residential/brochure/70-block-5a-the-casino-dublin-road-malahide-county-dublin/5022608": 1793309177,
   "https://www.myhome.ie/residential/brochure/70-donnybrook-manor-donnybrook-dublin-4/5038477": 1793306938,
   "https://www.myhome.ie/residential/brochure/70-fernhill-arklow-wicklow/4997276": 1793307204,
+  "https://www.myhome.ie/residential/brochure/70-finglas-park-finglas-east-dublin-11/5042470": 1795446076,
   "https://www.myhome.ie/residential/brochure/70-grangemore-drive-donaghmede-dublin-13/5026566": 1793307204,
   "https://www.myhome.ie/residential/brochure/70-leinster-avenue-north-strand-dublin-3/5032860": 1794848475,
   "https://www.myhome.ie/residential/brochure/70-millers-avenue-miller-s-glen-swords-co-dublin/5022882": 1793309177,
@@ -3332,6 +3336,7 @@
   "https://www.myhome.ie/residential/brochure/71-churchtown-road-upper-churchtown-dublin-14/5028115": 1793307204,
   "https://www.myhome.ie/residential/brochure/71-connaught-street-phibsborough-dublin-7/5024414": 1794843062,
   "https://www.myhome.ie/residential/brochure/71-diswellstown-way-castleknock-dublin-15/5025923": 1793309223,
+  "https://www.myhome.ie/residential/brochure/71-diswellstown-way-castleknock-dublin-15/5042465": 1795446079,
   "https://www.myhome.ie/residential/brochure/71-eden-villas-glasthule-county-dublin/5017092": 1793309177,
   "https://www.myhome.ie/residential/brochure/71-gleann-na-r-valley-ave-druid-valley-cherrywood-dublin-18/5040573": 1794322880,
   "https://www.myhome.ie/residential/brochure/71-harbour-view-dun-laoghaire-co-dublin/5042378": 1795429890,
@@ -7036,6 +7041,28 @@
    "viewings": [
     "Open viewing Sat Oct 31, 10am - 10.30am"
    ]
+  },
+  "4fc8477f7f": {
+   "_sent_at": 1795446079,
+   "address": "71 Diswellstown Way , Castleknock, Dublin 15",
+   "agent_email": "reception@brockdelappe.ie",
+   "agent_name": "Brock DeLappe Estate Agents",
+   "agent_phone": "01 633 4446",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "A3",
+   "description": "Exceptional three bedroom semi-detached double fronted home with a large garden in a much sought after location.\r\n\r\nThis superb property features a front garden with a cobblelock driveway for two car spaces leading to an attractive partial brick façade. The entrance hall has laminate floors and a guest w.c. with a tiled floor and partially tiled walls. The laminate floors from the hallway continue to the right hand side where there is a light filled dual aspect living room with double doors leading to an amazing east facing garden & patio area. To the left of the hallway is a spacious open plan kitchen & dining area with three windows and a mix of laminate & tiled floors. The fully integrated L shaped kitchen designed by Nolans Kitchens has a gas hob and plenty of counter & cupboard space. Just off the kitchen is a clever utility room with a tiled floor, built in storage and wall mounted shelving. The utility also enjoys access to the garden which is the perfect place to relax & entertain and has side access to the front of the property. The downstairs accommodation is completed by an understairs storage room with shelving. Upstairs consists of three west facing bedrooms and the family bathroom. All three bedrooms enjoy laminate floors and sophisticated fitted wardrobes while the master bedroom incorporates a stylish ensuite with a tiled floor, towel radiator and wall mounted storage.  The generous sized bathroom has a separate bath & shower, a towel radiator, built-in storage and high spec sanitary ware. The hotpress is located on the landing which also provides access to a large convertible floored attic space with a Stira. There is also a window on the landing overlooking the back garden. This beautiful A rated home also benefits from Rational triple glazed windows, solar thermal panels and a mechanical ventilation system.\r\n\r\nDiswellstown Way is ideally located in Hamilton Park with plenty of schools, sports clubs, parks and playgrounds nearby. Castleknock & Blanchardstown villages are both a five minute drive away and have lots of shops, cafes, bars & restaurants. Blanchardstown Shopping Centre is also closeby as is the Phoenix Park. Coolmine Train Station is a just a short walk from Diswellstown making the city centre easily accessible. The 37 bus stops just outside the estate. Year of construction 2017\r\nSemi-detached\r\nDouble fronted\r\nCobblelock drive for 2 cars\r\nEast facing garden\r\nOpen plan kitchen & dining area\r\nDual aspect living room\r\nFitted wardrobes\r\nHigh spec sanitary ware\r\nConvertible attic",
+   "details_fetched": true,
+   "floor_area_m2": 109.0,
+   "image": "https://photos-a.propertyimages.ie/media/5/6/4/5042465/1c92df87-619a-4550-9446-b9e8cbd86cc6_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 593000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/71-diswellstown-way-castleknock-dublin-15/5042465",
+   "viewings": []
   },
   "50a0a4e9d6": {
    "_sent_at": 1793309761,
@@ -11307,6 +11334,28 @@
    "viewings": [
     "A rated energy performance BER Details BER: A Viewing Details Viewing by appointment Show more"
    ]
+  },
+  "e25aafef41": {
+   "_sent_at": 1795446080,
+   "address": "71 Diswellstown Way Castleknock Dublin 15",
+   "agent_email": null,
+   "agent_name": null,
+   "agent_phone": null,
+   "bathrooms": null,
+   "bedrooms": null,
+   "ber": null,
+   "description": "",
+   "details_fetched": false,
+   "floor_area_m2": null,
+   "image": null,
+   "new_build": false,
+   "parking": null,
+   "price": null,
+   "property_type": null,
+   "sale_agreed": false,
+   "source": "daft",
+   "url": "https://www.daft.ie/for-sale/71-diswellstown-way-castleknock-dublin-15/6728773",
+   "viewings": []
   },
   "e291dfd121": {
    "_sent_at": 1793307257,
