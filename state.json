@@ -1087,6 +1087,7 @@
   "https://www.myhome.ie/residential/brochure/18-beechfield-close-walkinstown-dublin-12/5039064": 1793383269,
   "https://www.myhome.ie/residential/brochure/18-beechfield-place-with-attic-conversion-clonee-dublin-15/5042443": 1795440668,
   "https://www.myhome.ie/residential/brochure/18-belarmine-drive-stepaside-dublin-18/5030049": 1793307882,
+  "https://www.myhome.ie/residential/brochure/18-belmont-lawn-blackrock-county-dublin/5042576": 1795519951,
   "https://www.myhome.ie/residential/brochure/18-brookdale-avenue-swords-co-dublin/5041295": 1794591057,
   "https://www.myhome.ie/residential/brochure/18-broomfield-mews-the-hill-malahide-co-dublin/5003985": 1793455807,
   "https://www.myhome.ie/residential/brochure/18-carlisle-avenue-donnybrook-dublin-4/5031517": 1793677205,
@@ -3603,6 +3604,7 @@
   "https://www.myhome.ie/residential/brochure/86-millbrook-johnstown-navan-co-meath/4987096": 1793307205,
   "https://www.myhome.ie/residential/brochure/86-palmerstown-drive-palmerstown-dublin-20/5041001": 1794495682,
   "https://www.myhome.ie/residential/brochure/86-the-elms-mount-merrion-avenue-blackrock-co-dublin/5009079": 1793368875,
+  "https://www.myhome.ie/residential/brochure/86-the-malthouse-south-city-centre-dublin-8/5042139": 1795519951,
   "https://www.myhome.ie/residential/brochure/86-the-pavilion-marine-road-dun-laoghaire-co-dublin/4991678": 1793309177,
   "https://www.myhome.ie/residential/brochure/86-wesbury-stillorgan-co-dublin/5010574": 1793309177,
   "https://www.myhome.ie/residential/brochure/87-amiens-street-dublin-1/5041204": 1794580259,
@@ -3793,6 +3795,7 @@
   "https://www.myhome.ie/residential/brochure/annore-house-coolfore-ashbourne-co-meath/5026515": 1793307205,
   "https://www.myhome.ie/residential/brochure/apartment-1-62-main-street-clongriffin-dublin-13-co-dublin/5040117": 1793982659,
   "https://www.myhome.ie/residential/brochure/apartment-1-blackwater-house-spencer-dock-dublin-1/5039136": 1793615457,
+  "https://www.myhome.ie/residential/brochure/apartment-1-gilford-pines-sandymount-dublin-4/4995352": 1795519951,
   "https://www.myhome.ie/residential/brochure/apartment-1-gledswood-mews-83-bird-avenue-dublin-14-dublin/5038897": 1793365280,
   "https://www.myhome.ie/residential/brochure/apartment-1-main-house-simmonscourt-castle-ballsbridge-dublin/5040277": 1794223875,
   "https://www.myhome.ie/residential/brochure/apartment-10-palace-gardens-exchange-court-south-city-centre-dublin-2/4951926": 1794848475,
@@ -4111,6 +4114,7 @@
   "https://www.myhome.ie/residential/brochure/beresford-green-donabate-county-dublin/5028677": 1793309177,
   "https://www.myhome.ie/residential/brochure/bergheim-baily-howth-county-dublin/4991664": 1793307204,
   "https://www.myhome.ie/residential/brochure/berhill-killiney-road-dalkey-co-dublin/5028381": 1793309177,
+  "https://www.myhome.ie/residential/brochure/berwick-pines-foxrock-dublin-18/5004455": 1795519951,
   "https://www.myhome.ie/residential/brochure/berwick-pines-foxrock-dublin-18/5004458": 1793523666,
   "https://www.myhome.ie/residential/brochure/birchdale-house-greenane-rathdrum-wicklow/4911749": 1793307204,
   "https://www.myhome.ie/residential/brochure/birchwood-house-monastery-road-enniskerry-co-wicklow/5030609": 1793307204,
@@ -12232,9 +12236,9 @@
    "pages": 1
   },
   "myhome-kildare": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "HTTP 503",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-meath": {
    "error": null,
