@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 74,
+ "last_email_uid": 75,
  "last_full_sweep": 1795464586,
  "paused": false,
  "pending": {},
@@ -169,6 +169,7 @@
   "https://www.daft.ie/for-sale/26-the-drive-semple-woods-donabate-co-dublin/6726032": 1795390652,
   "https://www.daft.ie/for-sale/29-annfield-drive-castleknock-dublin-15/6725468": 1795390740,
   "https://www.daft.ie/for-sale/3-watson-avenue-killiney-co-dublin/6726052": 1795390750,
+  "https://www.daft.ie/for-sale/30-broadfield-meadows-rathcoole-co-dublin/6729545": 1795521675,
   "https://www.daft.ie/for-sale/30-the-grange-kill-othe-grange-blackrock-co-dublin/6682975": 1795390747,
   "https://www.daft.ie/for-sale/32-castleview-drive-swords-swords-co-dublin/6729193": 1795516261,
   "https://www.daft.ie/for-sale/32-malahide-road-clontarf-dublin-3/6726669": 1795390759,
@@ -320,6 +321,7 @@
   "https://www.myhome.ie/residential/brochure/1-stocking-wood-green-stocking-avenue-rathfarnham-dublin/5026918": 1793307282,
   "https://www.myhome.ie/residential/brochure/1-sugarloaf-drive-kilmacanogue-wicklow/5034371": 1793307756,
   "https://www.myhome.ie/residential/brochure/1-the-close-hunters-run-clonee-dublin-15/5038131": 1793307204,
+  "https://www.myhome.ie/residential/brochure/1-the-place-dunboyne-castle-dunboyne-meath/5042581": 1795521679,
   "https://www.myhome.ie/residential/brochure/1-the-view-robswall-malahide-county-dublin/5041534": 1795390676,
   "https://www.myhome.ie/residential/brochure/1-townspark-trim-road-athboy-county-meath/5013515": 1793307205,
   "https://www.myhome.ie/residential/brochure/1-tudor-road-ranelagh-dublin-6/5028331": 1793307045,
@@ -528,6 +530,7 @@
   "https://www.myhome.ie/residential/brochure/11-whitethorn-athgarvan-newbridge-co-kildare/5036863": 1793307204,
   "https://www.myhome.ie/residential/brochure/11-whitethorn-newbridge-athgarvan-co-kildare/5036863": 1795390693,
   "https://www.myhome.ie/residential/brochure/11-woodlawn-park-dun-laoghaire-co-dublin/5037749": 1793309177,
+  "https://www.myhome.ie/residential/brochure/110-captains-avenue-kimmage-dublin-12/5042592": 1795521675,
   "https://www.myhome.ie/residential/brochure/110-castlecurragh-vale-mulhuddart-dublin-15/5040171": 1793986260,
   "https://www.myhome.ie/residential/brochure/110-mckee-avenue-finglas-dublin-11/5038993": 1793376075,
   "https://www.myhome.ie/residential/brochure/110-pace-road-littlepace-clonee-dublin-15/5023387": 1793824790,
@@ -1288,6 +1291,7 @@
   "https://www.myhome.ie/residential/brochure/2-glenmalure-pines-rathdrum-wicklow/4963472": 1793307204,
   "https://www.myhome.ie/residential/brochure/2-grangemore-rise-donaghmede-dublin13/5041668": 1795390665,
   "https://www.myhome.ie/residential/brochure/2-harbour-road-skerries-county-dublin/4836216": 1793309177,
+  "https://www.myhome.ie/residential/brochure/2-hayfield-maynooth-county-kildare/5042593": 1795521679,
   "https://www.myhome.ie/residential/brochure/2-hillside-clonalvy-garristown-co-meath/5026932": 1793307205,
   "https://www.myhome.ie/residential/brochure/2-hollywood-mews-goatstown-dublin-14/5026471": 1793308915,
   "https://www.myhome.ie/residential/brochure/2-holmpatrick-terrace-skerries-co-dublin/4999949": 1793309177,
@@ -2005,6 +2009,7 @@
   "https://www.myhome.ie/residential/brochure/30-bremore-pastures-crescent-balbriggan-dublin/4998431": 1793309177,
   "https://www.myhome.ie/residential/brochure/30-brews-hill-navan-navan-co-meath-navan-meath/4985008": 1793307205,
   "https://www.myhome.ie/residential/brochure/30-brighton-avenue-rathgar-dublin-6/5040585": 1794324661,
+  "https://www.myhome.ie/residential/brochure/30-broadfield-meadows-rathcoole-co-dublin/5042599": 1795521675,
   "https://www.myhome.ie/residential/brochure/30-cairn-hill-westminster-road-foxrock-dublin-18/5035533": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-castlemoyne-balgriffin-dublin-13/5038645": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-churchlands-delgany-co-wicklow/5017066": 1793309295,
@@ -3472,6 +3477,7 @@
   "https://www.myhome.ie/residential/brochure/8-brownstown-manor-brownstown-curragh-co-kildare/5030242": 1793307205,
   "https://www.myhome.ie/residential/brochure/8-calverstown-gate-kilcullen-co-kildare/5028974": 1793307205,
   "https://www.myhome.ie/residential/brochure/8-castle-mews-castle-street-dalkey-co-dublin/5028897": 1793309177,
+  "https://www.myhome.ie/residential/brochure/8-castletown-grove-castletown-celbridge-county-kildare/5042594": 1795521675,
   "https://www.myhome.ie/residential/brochure/8-castleview-avenue-swords-co-dublin/5041633": 1795390676,
   "https://www.myhome.ie/residential/brochure/8-cedarhurst-green-castleknock-dublin-15/4976046": 1793313163,
   "https://www.myhome.ie/residential/brochure/8-clonrosse-drive-ard-na-greine-ayrfield-dublin-13/5041255": 1794585666,
@@ -5903,6 +5909,30 @@
    "url": "https://www.myhome.ie/residential/brochure/65-wingfield-stepaside-dublin-18/4954940",
    "viewings": [
     "Viewing is highly recommended to fully appreciate the exceptional quality, space and flexibility this fine home has to offer"
+   ]
+  },
+  "1caf32c7ea": {
+   "_sent_at": 1795521679,
+   "address": "1 The Place, Dunboyne Castle, Dunboyne, Meath",
+   "agent_email": "nogorman@branaganestates.com",
+   "agent_name": "Branagan Estates",
+   "agent_phone": "01 820 2580",
+   "bathrooms": 4,
+   "bedrooms": 3,
+   "ber": "B2",
+   "description": "Branagan Estates are pleased to offer this 3 bedroom 3 storey end of terrace house ideally located in Dunboyne Castle which extends to circa 155sqm/1,668 sqft of living space and comes to the market in excellent condition. Ideally located in Dunboyne village with all local amenities on your doorstep including schools, shops, restaurants, pubs, sports clubs, supermarkets, bus routes and train station. Accommodation includes two living rooms, kitchen/dining room, guest wc, 3 bedrooms, two en-suites and a main bathroom. The rear garden is maintenance free with a patio area and a wooden chalet, which would suit a variety of uses. There is ample off-street parking outside the property. All major road networks and the Blanchardstown Shopping Centre are just a short drive away, and Dublin Airport is also easily accessible via the N3 and M50. Early viewing of this property is Strongly Advised. Lobby:\t\t\t1.96m x 1.14m\tWith a wooden floor\r\n\r\nFamily Room:\t\t4.90m x 4.02m\tA spacious room with a wooden floor \r\n\r\nHallway: \t\t3.39m x 1.85m \tWith a wooden floor \r\n\r\nGuest WC:\t\t1.83m x 1.41m\tWith wc, whb and tiled floor \r\n\r\nKitchen/Dining Room:\t4.90m x 4.01m \tA modern kitchen with ample wall and floor units, integrated appliances, tiled floor and sliding patio door to the rear garden\r\n\r\nLiving Room:\t\t4.90m x 4.00m\tSpacious with a feature fireplace with gas fire, carpet floor \r\n\r\nLanding: \t\t6.05m x 1.28m\tWith carpet floor and storage closet \r\n\r\nBedroom: \t\t3.52m x 3.06m \t A double bedroom with feature bay window, built-in wardrobes and carpet flooring \r\n\r\nEnsuite: \t\t2.84m x 1.03m\tFully tiled with shower, wc and whb \r\n\r\nLanding: \t\tWith carpet floor, storage closet and stira access to attic for storage (floored & light) \r\n\r\nBedroom: \t\t4.90m x 4.08m \tA double bedroom with feature bay window, built-in wardrobes and carpet flooring \r\n\r\nEnsuite:\t\t2.77m x 1.07m\tFully tiled with shower, wc and whb\r\n\r\nBedroom: \t\t4.09m x 3.00m \tA double bedroom with built-in wardrobes and carpet flooring\r\n\r\nBathroom:   \t\t2.75m x 1.75m\tFully tiled with a bath/shower, whb and wc   \r\n\r\nGarden: \t\tMaintenance free with patio area, mature shrubs and outdoor lights \r\n\r\nWooden Chalet: \tWith electricity – Room 1 - 3.31m x 3.30m, Room 2 – 3.31m x 1.74m \t \r\n\r\n\r\n\r\nNotice: Please note that we have not tested any apparatus, fixtures, fittings or services. Interested parties must undertake their own investigation into the working order of these or indeed any items.  All measurements are approximate and photographs provided for guidance only. Whilst every effort is taken to ensure the accuracy of this information, Branagan Estates shall not be held liable for any inaccuracies or omissions. Interested parties must satisfy themselves by carrying out their own independent due diligence, inspections or otherwise as to the correctness of any and all of the information, statements, descriptions, quantity or measurements contained in any such sales particulars, webpage, brochure, email, letter, report or hand out issued by or on behalf of Branagan Estates or the vendor. No person in the employment of Branagan Estates has any authority to make or give representation or warranty whatsoever in relation to this property. Qualifies for green rate mortgage - B2 energy rating \r\nGas Fired Central Heating \r\nHeating controls \r\nAlarmed \r\nSpacious property of 155 sqm/1,668 sqft\r\nStira access to attic for storage (floored & light) \r\nOff street parking \r\nRear garden with patio area \r\nWooden chalet with two rooms – suit a variety of uses \r\nShort walk to local schools, shops, bus and Dunboyne train station \r\nShort drive to Blanchardstown Shopping Centre",
+   "details_fetched": true,
+   "floor_area_m2": 155.0,
+   "image": "https://photos-a.propertyimages.ie/media/1/8/5/5042581/022a28c4-6eea-4b75-b656-4ecc0a83d291_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 470000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/1-the-place-dunboyne-castle-dunboyne-meath/5042581",
+   "viewings": [
+    "Early viewing of this property is Strongly Advised"
    ]
   },
   "1e5ff31e43": {
@@ -9343,28 +9373,6 @@
     "• Extra Large Garden BER Details BER: B Viewing Details Please call the office on 018462752 to make an appointment to view"
    ]
   },
-  "98b8529ce9": {
-   "_sent_at": 1793220257,
-   "address": "25 Abbots Grove Avenue, Knocklyon, Dublin 16, Knocklyon, Dublin 16",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 3,
-   "bedrooms": 3,
-   "ber": "A2",
-   "description": "25 Abbots Grove Avenue, Knocklyon, Dublin 16, 3 Bed, asking price €545,000, brought to market by Sherry FitzGerald Templeogue, Residential - 5038549 (rated A2)",
-   "details_fetched": true,
-   "floor_area_m2": 106.0,
-   "image": "https://photos-a.propertyimages.ie/media/9/4/5/5038549/26e8a6a9-aebb-4839-ac0b-1052c271ce35_x.jpg",
-   "new_build": false,
-   "parking": 2,
-   "price": 545000,
-   "property_type": "terraced",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/25-abbots-grove-avenue-knocklyon-dublin-16/5038549",
-   "viewings": []
-  },
   "990897a2df": {
    "_sent_at": 1793309800,
    "address": "Barrow, (Site B) Killiney Road, Dalkey, County Dublin",
@@ -10462,6 +10470,28 @@
     "ie All Properties Houses For Sale Apartments For Sale Available to View Recently Added Properties Overseas Holiday Homes Properties For Auction Upcoming Auctions Auction BER Assessors Property Conveya",
     "112745211 Viewing Details All descriptions, dimensions, references to condition and necessary permission for use and occupation, and other details are given in good faith and are believed to be correc"
    ]
+  },
+  "bcbc7a793c": {
+   "_sent_at": 1795521679,
+   "address": "2 Hayfield, Maynooth, County Kildare",
+   "agent_email": "info@coonan.com",
+   "agent_name": "Coonan Property (Maynooth)",
+   "agent_phone": "01 628 6128 ",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "A2",
+   "description": "•Coonan Property present this superb three-bedroom, A2-rated home extending to approx. 115 sq.m, situated within the highly sought-after Hayfield development\n•Spacious accommodation comprising entrance hallway, guest w.c., living room, kitchen/dining room, utility area, three bedrooms (master ensuite) and family bathroom\n•Exceptionally spacious living room featuring a bespoke entertainment unit with built-in Dimplex fire and French doors opening onto the rear garden\n•Beautifully upgraded bathrooms, including a stylish wet room shower area with oversized monsoon shower head in the main bathroom\n•Private rear garden featuring a patio area, raised planting beds, block wall surround, steel shed and gated side access\n•Two designated parking spaces to the front of the property\n•Generous attic space accessed via Stira ladder, offering excellent potential for conversion, subject to the necessary permissions\n•Within easy reach of Maynooth University, excellent schools, shops, cafés, restaurants and a host of local amenities\n•Excellent transport links with Maynooth Train Station approx. 10 minute walk, regular bus services to Dublin directly across the road and convenient access to the M4 motorway\n\n\nGuide Price\n525,000\n\nType of Transaction\nPrivate Treaty\n\nAccommodation:\nFront & Parking\nRed brick façade with plastered finish to side and rear, PVC fascias and soffits and external lighting. 2 designated parking spaces.\n\nEntrance Hallway 6.20m x 1.82m\nTiled floor, bespoke understairs storage with pull-out drawers and a separate understairs cloakroom.\n\nLiving Room 5.40m x 4.67m\nGenerously proportioned reception room and a real feature of the house, with a large bespoke entertainment unit and built-in Dimplex electric fire. Downlights, window to the rear and double French doors opening onto the back garden.\n\nKitchen/Dining 3.00m x 5.10m\nTiled floor, fitted floor and wall shaker-style units, brick-effect tiled splashback, stainless steel sink, double oven, electric hob and extractor fan. Complete with integrated dishwasher, freestanding fridge freezer and a dining area.\n\nUtility Area\nPlumbed utility area off the hallway with additional storage, leading through to the guest w.c.\n\nGuest W.C. 1.51m x 1.61m\nFully tiled floor and walls, w.c., w.h.b. with built-in vanity unit, fitted mirror and shaving light. Window with frosted glass.\n\nLanding 2.10m x 4.30m\nCarpeted stairs and landing, hotpress with upgraded increased capacity hot water cylinder, and access via a folding Stira ladder to the attic.\n\nMaster Bedroom 4.30m x 4.52m\nLaminate wood floor, built-in wardrobes with drawers and an integrated TV cabinet. Front-facing window with Roman and roller blinds, and hanging pendant light with shade.\n\nEnsuite \nFully tiled, w.c., w.h.b. with built-in vanity unit beneath and a wall-mounted vanity unit above. Shower cubicle with monsoon shower head and integrated toiletries cabinet, and window with frosted glass.\n\nBedroom 2 2.36m x 4.78m\nCarpeted with fitted wardrobes, hanging pendant light and a rear-facing window.\n\nBedroom 3 3.50m x 2.25m\nRear-facing room with carpet flooring, fitted wardrobes and a hanging pendant light with shade.\n\nMain Bathroom 2.50m x 1.67m\nFully tiled, w.c., w.h.b. with built-in vanity unit and illuminated fitted mirror with touch controls and demister. Walk-in wet room shower area with oversized monsoon shower head and glass shower screen, vertical heated towel rail and window with frosted glass.\n\nAttic\nLarge attic space accessed via a folding Stira ladder from the landing, with excellent potential for conversion (subject to planning permission).\n\nGarden approx. 11.50m x 6.21m\nPrivate rear garden with a good degree of seclusion, featuring a patio area with a paved walkway leading to a steel garden shed, and raised flower beds. Enclosed by plastered block walls, with outside tap, external sockets and lighting, and a side entrance with gate and cobblelock pathway.\n\nAdditional Information:\nGross internal floor area approx. 115 sq.m/1,238 sq.ft\nBuilt in 2017\nMechanical heat recovery ventilation\nSolar PV panels \nSolar thermal Panels for Hot water\nLarge 300L hot water cylinder \nUpgraded bathrooms throughout\nBuilt in storage under stairs\n\nItems Included in sale:\nDouble oven, electric hob, extractor fan, complete with integrated dishwasher, freestanding fridge freezer, lights fitting and blinds. \n\nServices\nMains water\nMains sewage \nGas fire central heating \n\nBER \nA2\n\nViewing\nBy appointment only.\n\nEircode: W23 DK22 \n\nContact Information\nSales Person \nMick Wright \n016288400 Notice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.",
+   "details_fetched": true,
+   "floor_area_m2": 115.01,
+   "image": "https://photos-a.propertyimages.ie/media/3/9/5/5042593/b040b864-20ff-41b0-9609-2eeee2532240_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 525000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/2-hayfield-maynooth-county-kildare/5042593",
+   "viewings": []
   },
   "be5ac2acc3": {
    "_sent_at": 1793309844,
@@ -12236,9 +12266,9 @@
    "pages": 1
   },
   "myhome-kildare": {
-   "error": "HTTP 503",
-   "listings": 0,
-   "pages": 0
+   "error": null,
+   "listings": 21,
+   "pages": 1
   },
   "myhome-meath": {
    "error": null,
