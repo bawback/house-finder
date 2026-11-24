@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 75,
+ "last_email_uid": 76,
  "last_full_sweep": 1795464586,
  "paused": false,
  "pending": {},
@@ -143,6 +143,7 @@
  "seen": {
   "https://www.daft.ie/for-sale/1-carrig-view-ballinaclash-co-wicklow/6725989": 1795390652,
   "https://www.daft.ie/for-sale/10-gartan-court-estuary-road-swords-co-dublin/6717685": 1795451471,
+  "https://www.daft.ie/for-sale/105-the-dale-belgard-heights-kingswood-dublin-24/6729581": 1795523460,
   "https://www.daft.ie/for-sale/12-oldbridge-green-lucan-co-dublin/6724614": 1795390627,
   "https://www.daft.ie/for-sale/120-grange-road-baldoyle-dublin-13/6701678": 1795390630,
   "https://www.daft.ie/for-sale/125-saint-eithne-road-cabra-dublin-7-co-dublin/6726072": 1795390643,
@@ -698,6 +699,7 @@
   "https://www.myhome.ie/residential/brochure/13-dowdingstown-wood-naas-two-mile-house-co-kildare/5024668": 1793307204,
   "https://www.myhome.ie/residential/brochure/13-drumnigh-manor-portmarnock-co-dublin/5026813": 1793313091,
   "https://www.myhome.ie/residential/brochure/13-drumnigh-oaks-portmarnock-county-dublin/5027762": 1793309177,
+  "https://www.myhome.ie/residential/brochure/13-dun-na-riogh-green-naas-co-kildare/5042609": 1795523460,
   "https://www.myhome.ie/residential/brochure/13-esker-lea-kilcullen-kildare/5001670": 1793307205,
   "https://www.myhome.ie/residential/brochure/13-farmleigh-close-castleknock-dublin-15/5025223": 1793307204,
   "https://www.myhome.ie/residential/brochure/13-father-mccullen-park-kells-co-meath/5038630": 1793307205,
@@ -708,6 +710,7 @@
   "https://www.myhome.ie/residential/brochure/13-hardiman-road-drumcondra-dublin-9/5000154": 1793307204,
   "https://www.myhome.ie/residential/brochure/13-hawthorn-walk-bird-avenue-clonskeagh-dublin-14/5039755": 1793815272,
   "https://www.myhome.ie/residential/brochure/13-highfield-lawns-swords-county-dublin/4986489": 1793309177,
+  "https://www.myhome.ie/residential/brochure/13-lyreen-close-mariavilla-maynooth-co-kildare/5042611": 1795523460,
   "https://www.myhome.ie/residential/brochure/13-ministers-road-lusk-co-dublin/5036919": 1793309177,
   "https://www.myhome.ie/residential/brochure/13-moat-lane-knocksedan-demesne-swords-county-dublin/5030329": 1793309177,
   "https://www.myhome.ie/residential/brochure/13-mount-pleasant-avenue-upper-ranelagh-dublin-6/5007748": 1793307101,
@@ -2069,6 +2072,7 @@
   "https://www.myhome.ie/residential/brochure/31-the-drive-woodbrook-glen-bray-co-wicklow/5041337": 1794663056,
   "https://www.myhome.ie/residential/brochure/31-the-grove-hunters-run-clonee-dublin-15/5025553": 1793307204,
   "https://www.myhome.ie/residential/brochure/31-the-maples-plus-large-kitchen-extension-bettystown-meath/5034380": 1793307205,
+  "https://www.myhome.ie/residential/brochure/31-the-ogham-granitefield-manor-rochestown-avenue-dun-laoghaire-county-dublin/5042601": 1795523460,
   "https://www.myhome.ie/residential/brochure/31-the-woodlands-castletown-celbridge-kildare/5025977": 1793309024,
   "https://www.myhome.ie/residential/brochure/31-tubberclaire-meadows-old-road-athlumney-navan-co-meath/5028185": 1793307205,
   "https://www.myhome.ie/residential/brochure/31-turvey-park-donabate-county-dublin/5042076": 1795390676,
