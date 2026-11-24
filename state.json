@@ -2,8 +2,8 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 79,
- "last_full_sweep": 1795464586,
+ "last_email_uid": 80,
+ "last_full_sweep": 1795538363,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -178,6 +178,7 @@
   "https://www.daft.ie/for-sale/32-mill-court-drive-dublin-22-grange-castle-dublin-22/6728675": 1795447864,
   "https://www.daft.ie/for-sale/339-collinswood-collins-avenue-beaumont-dublin-9/6724387": 1795390627,
   "https://www.daft.ie/for-sale/35-westhaven-huntstown-blanchardstown-co-dublin/6726682": 1795390649,
+  "https://www.daft.ie/for-sale/38-shelmalier-road-east-wall-dublin-3-co-dublin/6729957": 1795538363,
   "https://www.daft.ie/for-sale/4-patrick-court-patrick-street-dun-laoghaire-co-dublin/6725942": 1795390753,
   "https://www.daft.ie/for-sale/41-barons-hall-rise-balbriggan-co-dublin/6720503": 1795390627,
   "https://www.daft.ie/for-sale/41-brookdale-way-swords-co-dublin/6725602": 1795390633,
@@ -820,6 +821,7 @@
   "https://www.myhome.ie/residential/brochure/14-oldbridge-court-lucan-county-dublin/5039761": 1793817061,
   "https://www.myhome.ie/residential/brochure/14-oxford-road-ranelagh-dublin-6/5022948": 1793307048,
   "https://www.myhome.ie/residential/brochure/14-park-terrace-south-clongriffin-dublin-13-dublin/5042052": 1795390665,
+  "https://www.myhome.ie/residential/brochure/14-park-terrace-south-clongriffin-dublin-13/5042052": 1795538363,
   "https://www.myhome.ie/residential/brochure/14-parkside-mews-balgriffin-dublin-13/5040800": 1794407471,
   "https://www.myhome.ie/residential/brochure/14-rathdown-park-greystones-co-wicklow/5029548": 1793307878,
   "https://www.myhome.ie/residential/brochure/14-riverwood-place-castleknock-dublin-15/5025028": 1793307802,
@@ -1321,6 +1323,7 @@
   "https://www.myhome.ie/residential/brochure/2-mariners-cove-mariners-point-wicklow-town-co-wicklow/5018488": 1793307204,
   "https://www.myhome.ie/residential/brochure/2-marley-lawn-rathfarnham-dublin-16/5024366": 1793309178,
   "https://www.myhome.ie/residential/brochure/2-marsham-court-kilmacud-blackrock-co-dublin/5042531": 1795455076,
+  "https://www.myhome.ie/residential/brochure/2-marsham-court-stillorgan-co-dublin/5042531": 1795538363,
   "https://www.myhome.ie/residential/brochure/2-mount-eagle-lawn-leopardstown-dublin-18/5042383": 1795429890,
   "https://www.myhome.ie/residential/brochure/2-northumberland-avenue-dun-laoghaire-co-dublin/4985080": 1793309177,
   "https://www.myhome.ie/residential/brochure/2-oakleigh-drive-longwood-co-meath/5042649": 1795532536,
@@ -2333,6 +2336,7 @@
   "https://www.myhome.ie/residential/brochure/38-saint-anne-s-kimmage-dublin-12/5031696": 1793307135,
   "https://www.myhome.ie/residential/brochure/38-saint-patrick-s-cottages-rathfarnham-dublin-14/5037024": 1793309051,
   "https://www.myhome.ie/residential/brochure/38-shelmalier-road-east-wall-dublin-3/4997079": 1793307204,
+  "https://www.myhome.ie/residential/brochure/38-shelmalier-road-east-wall-dublin-3/5042699": 1795538363,
   "https://www.myhome.ie/residential/brochure/38-st-mary-s-lane-ballsbridge-dublin-4/5042142": 1795390655,
   "https://www.myhome.ie/residential/brochure/38-st-teresas-road-crumlin-dublin-12/5026382": 1793790074,
   "https://www.myhome.ie/residential/brochure/38-stapolin-avenue-the-coast-baldoyle-dublin-13/5019879": 1793307204,
@@ -2720,6 +2724,7 @@
   "https://www.myhome.ie/residential/brochure/47-churchfields-dundrum-dublin-14/4741942": 1793307204,
   "https://www.myhome.ie/residential/brochure/47-elm-drive-athlumney-wood-navan-meath-co-meath/4992184": 1793307205,
   "https://www.myhome.ie/residential/brochure/47-ferrybank-arklow-co-wicklow/4928841": 1793307204,
+  "https://www.myhome.ie/residential/brochure/47-glencairn-drive-the-gallops-leopardstown-dublin-18/5042697": 1795538363,
   "https://www.myhome.ie/residential/brochure/47-hampton-cove-balbriggan-county-dublin/5039461": 1793718072,
   "https://www.myhome.ie/residential/brochure/47-hayworth-terrace-ongar-dublin-15/5025197": 1793307204,
   "https://www.myhome.ie/residential/brochure/47-holywell-kilmacud-road-upper-kilmacud-dublin-14/5035964": 1793313132,
@@ -2818,6 +2823,7 @@
   "https://www.myhome.ie/residential/brochure/5-harpur-park-view-harpur-lane-leixlip-kildare/5017516": 1794313859,
   "https://www.myhome.ie/residential/brochure/5-huxley-crescent-dublin-8/5032477": 1794330072,
   "https://www.myhome.ie/residential/brochure/5-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/5029919": 1793309177,
+  "https://www.myhome.ie/residential/brochure/5-irvine-cottages-irvine-terrace-east-wall-dublin-3/4984636": 1795538363,
   "https://www.myhome.ie/residential/brochure/5-kilcarn-heights-yellow-walls-lane-lismullen-navan-meath/5036659": 1793307205,
   "https://www.myhome.ie/residential/brochure/5-kilworth-road-drimnagh-dublin-12/5038929": 1793368875,
   "https://www.myhome.ie/residential/brochure/5-kilworth-road-drimnagh-dublin-12/5038967": 1793374260,
@@ -3179,6 +3185,7 @@
   "https://www.myhome.ie/residential/brochure/60-thomas-hand-street-skerries-dublin/5040024": 1793968257,
   "https://www.myhome.ie/residential/brochure/600-woodview-cottages-rathfarnham-dublin-14/5002652": 1793309139,
   "https://www.myhome.ie/residential/brochure/601-river-forest-leixlip-county-kildare/5018518": 1793309139,
+  "https://www.myhome.ie/residential/brochure/601-river-forest-leixlip-county-kildare/5042692": 1795538363,
   "https://www.myhome.ie/residential/brochure/60a-lacken-view-naas-kildare/5006306": 1793307205,
   "https://www.myhome.ie/residential/brochure/61-barton-road-east-churchtown-upper-dublin-14/5018890": 1793307204,
   "https://www.myhome.ie/residential/brochure/61-canterbrook-trim-road-navan-co-meath/5038387": 1793307205,
@@ -3345,6 +3352,7 @@
   "https://www.myhome.ie/residential/brochure/7-grange-oaks-avenue-kilternan-dublin-18/5027930": 1793307204,
   "https://www.myhome.ie/residential/brochure/7-granville-park-blackrock-co-dublin/5037350": 1793309177,
   "https://www.myhome.ie/residential/brochure/7-grove-village-apartments-79-80-grove-road-rathmines-dublin-6/5039074": 1793383269,
+  "https://www.myhome.ie/residential/brochure/7-harpur-park-view-harpur-lane-leixlip-kildare/5017516": 1795538363,
   "https://www.myhome.ie/residential/brochure/7-imaal-road-cabra-dublin-7/5040384": 1794240077,
   "https://www.myhome.ie/residential/brochure/7-kerrymount-close-foxrock-dublin-18/5030759": 1793307204,
   "https://www.myhome.ie/residential/brochure/7-lambay-court-malahide-dublin/5037854": 1793309177,
@@ -3446,6 +3454,7 @@
   "https://www.myhome.ie/residential/brochure/73-sundrive-road-kimmage-dublin-12/5034460": 1793307135,
   "https://www.myhome.ie/residential/brochure/73-the-pines-arklow-wicklow/5038975": 1793376075,
   "https://www.myhome.ie/residential/brochure/74-applewood-heights-greystones-wicklow/4950506": 1793307204,
+  "https://www.myhome.ie/residential/brochure/74-bawnogue-park-the-bawnogues-kilcock-kildare/5042679": 1795538363,
   "https://www.myhome.ie/residential/brochure/74-ivy-court-beaumont-woods-beaumont-dublin-9/5031174": 1793793668,
   "https://www.myhome.ie/residential/brochure/74-lohunda-downs-clonsilla-dublin-15/5016808": 1793307204,
   "https://www.myhome.ie/residential/brochure/74-shrewsbury-park-ballsbridge-dublin-4/5026867": 1793306959,
@@ -3628,6 +3637,7 @@
   "https://www.myhome.ie/residential/brochure/84-meadow-vale-deansgrange-blackrock-county-dublin/5031776": 1793309177,
   "https://www.myhome.ie/residential/brochure/85-ardara-avenue-donaghmede-dublin-13/5040603": 1794402073,
   "https://www.myhome.ie/residential/brochure/85-cedarbrook-walk-cherry-orchard-dublin-10/5019483": 1793970072,
+  "https://www.myhome.ie/residential/brochure/85-cherry-garth-swords-county-dublin/5028080": 1795538363,
   "https://www.myhome.ie/residential/brochure/85-howth-road-clontarf-dublin-3/4994034": 1793307204,
   "https://www.myhome.ie/residential/brochure/85-rathdrum-road-crumlin-dublin-12/5039618": 1794501061,
   "https://www.myhome.ie/residential/brochure/85-saint-brendan-s-crescent-greenhills-dublin-12/5035523": 1793966471,
@@ -12292,25 +12302,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 135,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 173,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 189,
+   "pages": 11
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 62,
+   "pages": 11
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 169,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 134,
+   "pages": 8
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 124,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 137,
+   "pages": 8
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 27,
+   "pages": 5
+  },
+  "myhome-dublin-north-county": {
+   "error": null,
+   "listings": 548,
+   "pages": 33
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 368,
+   "pages": 24
   },
   "myhome-kildare": {
    "error": null,
-   "listings": 21,
-   "pages": 1
+   "listings": 415,
+   "pages": 23
   },
   "myhome-meath": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 375,
+   "pages": 21
   },
   "myhome-wicklow": {
    "error": null,
-   "listings": 21,
-   "pages": 1
+   "listings": 450,
+   "pages": 24
   }
  },
  "telegram_offset": 593474601
