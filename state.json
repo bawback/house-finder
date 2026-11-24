@@ -309,6 +309,7 @@
   "https://www.myhome.ie/residential/brochure/1-ravenswood-view-clonsilla-dublin-15/5037054": 1793307204,
   "https://www.myhome.ie/residential/brochure/1-red-arches-avenue-the-coast-baldoyle-dublin-13/5037651": 1793307204,
   "https://www.myhome.ie/residential/brochure/1-redford-park-greystones-co-wicklow/5026901": 1793307500,
+  "https://www.myhome.ie/residential/brochure/1-ridge-hall-ballybrack-county-dublin/5042729": 1795541463,
   "https://www.myhome.ie/residential/brochure/1-rosehaven-castleknock-dublin-15/5039635": 1793795462,
   "https://www.myhome.ie/residential/brochure/1-russell-avenue-east-east-wall-dublin-3/5027182": 1793307204,
   "https://www.myhome.ie/residential/brochure/1-sandford-avenue-donnybrook-dublin-4/4966851": 1793307003,
@@ -1180,6 +1181,7 @@
   "https://www.myhome.ie/residential/brochure/19-belarmine-vale-stepaside-dublin-18/5038101": 1793307204,
   "https://www.myhome.ie/residential/brochure/19-belvedere-square-mountjoy-square-dublin-1/4987605": 1793791861,
   "https://www.myhome.ie/residential/brochure/19-blackwater-heights-kells-meath/5018611": 1793751009,
+  "https://www.myhome.ie/residential/brochure/19-cedar-square-grove-avenue-blackrock-co-dublin/5042720": 1795541463,
   "https://www.myhome.ie/residential/brochure/19-cornelscourt-hill-road-foxrock-dublin-18/5029755": 1793307204,
   "https://www.myhome.ie/residential/brochure/19-diswellstown-court-hamilton-park-castleknock-dublin-15/5014367": 1793307752,
   "https://www.myhome.ie/residential/brochure/19-drynam-court-swords-dublin/5030410": 1793309177,
@@ -2313,6 +2315,7 @@
   "https://www.myhome.ie/residential/brochure/37-st-enda-s-drive-rathfarnham-dublin-14/5037347": 1793307201,
   "https://www.myhome.ie/residential/brochure/37-standhouse-lawns-newbridge-co-kildare/5037640": 1793307204,
   "https://www.myhome.ie/residential/brochure/37-stannaway-road-kimmage-dublin-12/5019667": 1793307152,
+  "https://www.myhome.ie/residential/brochure/37-the-avenue-woodpark-ballinteer-dublin-16/5038705": 1795541463,
   "https://www.myhome.ie/residential/brochure/37-the-commons-duleek-meath/5035048": 1793307205,
   "https://www.myhome.ie/residential/brochure/37-the-court-ledwill-park-kilcock-co-kildare/5039908": 1793896286,
   "https://www.myhome.ie/residential/brochure/37-the-hall-curragh-grange-newbridge-co-kildare/5039584": 1793786492,
@@ -3128,6 +3131,7 @@
   "https://www.myhome.ie/residential/brochure/6-holywell-sea-road-kilcoole-co-wicklow/5038431": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-inbhear-mews-arklow-co-wicklow/4973652": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-inbhear-mews-old-chapel-ground-arklow-co-wicklow/4940597": 1793307204,
+  "https://www.myhome.ie/residential/brochure/6-linden-park-linden-demesne-maynooth-kildare/5042725": 1795541463,
   "https://www.myhome.ie/residential/brochure/6-longwood-wynnsward-park-clonskeagh-clonskeagh-dublin/5032850": 1793824790,
   "https://www.myhome.ie/residential/brochure/6-marlton-park-marlton-road-wicklow-town-co-wicklow/5036463": 1793307204,
   "https://www.myhome.ie/residential/brochure/6-martello-court-portmarnock-county-dublin/5036881": 1793309177,
@@ -3915,6 +3919,7 @@
   "https://www.myhome.ie/residential/brochure/apartment-30-1-jervis-street-dublin-1/5041384": 1794828662,
   "https://www.myhome.ie/residential/brochure/apartment-30-70-leonard-s-court-south-circular-road-dublin-8/5039784": 1793874662,
   "https://www.myhome.ie/residential/brochure/apartment-30-millstream-the-links-portmarnock-dublin/5030437": 1793309177,
+  "https://www.myhome.ie/residential/brochure/apartment-305-the-beech-ballinteer-dublin-16/5042718": 1795541463,
   "https://www.myhome.ie/residential/brochure/apartment-307-the-cubes-1-stillorgan-stillorgan-dublin/5032849": 1793309177,
   "https://www.myhome.ie/residential/brochure/apartment-31-pembroke-court-75-pembroke-road-ballsbridge-dublin-4/5039137": 1793631676,
   "https://www.myhome.ie/residential/brochure/apartment-31-the-elms-mount-merrion-avenue-dublin/5041232": 1795390676,
@@ -7867,30 +7872,6 @@
     "12 kWh/m2/yr Viewing Details Attended by Phil Thompson Negotiator Phil Thompson Show more"
    ]
   },
-  "6983016693": {
-   "_sent_at": 1793307205,
-   "address": "Waterloo Collection Waterloo Road Ballsbridge Dublin 4",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 4,
-   "bedrooms": 3,
-   "ber": null,
-   "description": "Waterloo Collection Waterloo Road, Ballsbridge, Dublin 4, 3 Bed, asking price POA, brought to market by Reverie Developments, Residential - 4986826 (rated Exempt)",
-   "details_fetched": true,
-   "floor_area_m2": 186.0,
-   "image": "https://photos-a.propertyimages.ie/media/6/2/8/4986826/a3cd156b-93aa-4793-ae80-29d5648028eb_x.jpg",
-   "new_build": true,
-   "parking": 1,
-   "price": 80000,
-   "property_type": "detached",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/waterloo-collection-waterloo-road-ballsbridge-dublin-4/4986826",
-   "viewings": [
-    "13 ft living room ceilings BER Details BER: Exempt Viewing Details Viewing by appointment Show more"
-   ]
-  },
   "69e0837186": {
    "_sent_at": 1793311401,
    "address": "Plot B, Site @ Rear, 26 Cluny Grove, Killiney, Co. Dublin",
@@ -11259,6 +11240,28 @@
    "viewings": [
     "5 square meters with option to increase to 110 square meters building into attic BER Details BER: A Viewing Details By appointment"
    ]
+  },
+  "d91df16227": {
+   "_sent_at": 1795541463,
+   "address": "6 Linden Park, Linden Demesne, Maynooth, Kildare",
+   "agent_email": "info@allianceauctioneers.ie",
+   "agent_name": "Alliance Auctioneers",
+   "agent_phone": "01 803 0750 / 046 924 0008",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": "A2",
+   "description": "Hugh Morris Alliance Auctioneers are delighted to present 6 Linden Park, Linden Demesne, Maynooth to the market. This wonderful 3-bedroom end of terrace family home is located within the much sought-after development of Linden Demesne. This home offers a superb design through-out along with meticulousness attention to detail. The home extends to a very spacious size of approx. 116.5 sqm / 1,254 sq. ft.\r\n\r\nFrom the moment you step into the home, there is a bright and welcoming feeling with ample amount of natural light that flows in. The accommodation comprises of Hallway, Living room, Kitchen/dining area with patio doors out to the rear garden, Guest w.c. and Utility with storage. On the first floor is the landing, Master bedroom with en-suite and walk in wardrobes, Two additional bedrooms and family bathroom. The rear garden has been beautifully landscaped and offers rear gate access. To the front of the home, there is cobble locking which provides two parking spaces. Along the side of the house there is grass, mature shrubbery and hedging to the front.\r\n\r\nThe development was built by Cairn Homes in 2023, with an A rated home this will offer the new owner’s comfort, high standard of build and energy efficient. \r\n\r\nLinden Demesne is perfectly situated adjacent to the stunning Carton Avenue, just a few minutes stroll from the centre of the vibrant university town of Maynooth. With a host of amenities within the local area such as Schools, University, Shops, Restaurants and much more. Are you a big golf fan, then close by is the wonderful Carton House Hotel and Golf Resort with superb grounds and facilities. If travelling to and from the area, there is excellent transport links to Dublin via car, bus or train. The home is also within a short drive to gaining access to the M3 giving access to Dublin, Navan or Cavan. Maynooth railway station serves Maynooth, connecting commuters to Dublin city centre and regional destinations. Wonderful A Rated Three Bed Family Home\r\nSuperb Design and Detail through-out\r\ncontemporary designed kitchen \r\nLandscaped rear garden with gate access\r\nCobblelocked front with two parking spaces\r\nSide gate access",
+   "details_fetched": true,
+   "floor_area_m2": 116.5,
+   "image": "https://photos-a.propertyimages.ie/media/5/2/7/5042725/ce2b2f20-27db-4aa6-b2a8-b438a4e3301c_l.jpg",
+   "new_build": false,
+   "parking": 2,
+   "price": 585000,
+   "property_type": "end-of-terrace",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/6-linden-park-linden-demesne-maynooth-kildare/5042725",
+   "viewings": []
   },
   "db38390939": {
    "_sent_at": 1794220257,
