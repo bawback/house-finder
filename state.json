@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 84,
+ "last_email_uid": 85,
  "last_full_sweep": 1795611994,
  "paused": false,
  "pending": {},
@@ -147,6 +147,7 @@
   "https://www.daft.ie/for-sale/12-oldbridge-green-lucan-co-dublin/6724614": 1795390627,
   "https://www.daft.ie/for-sale/120-grange-road-baldoyle-dublin-13/6701678": 1795390630,
   "https://www.daft.ie/for-sale/125-saint-eithne-road-cabra-dublin-7-co-dublin/6726072": 1795390643,
+  "https://www.daft.ie/for-sale/13-mount-eagle-lawn-leopardstown-dublin-18/6730824": 1795618874,
   "https://www.daft.ie/for-sale/13-woodstown-heights-knocklyon-dublin-16-co-dublin/6727771": 1795390762,
   "https://www.daft.ie/for-sale/131-beech-park-lucan-lucan-co-dublin/6726119": 1795390652,
   "https://www.daft.ie/for-sale/135-the-links-donabate-donabate-co-dublin/6728631": 1795438875,
@@ -852,6 +853,7 @@
   "https://www.myhome.ie/residential/brochure/14-the-chantries-balbriggan-co-dublin/5026447": 1793309177,
   "https://www.myhome.ie/residential/brochure/14-the-court-seatown-park-swords-county-dublin/5041881": 1795390676,
   "https://www.myhome.ie/residential/brochure/14-the-crescent-millbrook-lawns-dublin-24/5039990": 1793962870,
+  "https://www.myhome.ie/residential/brochure/14-the-forge-railway-street-north-city-centre-dublin-1/5042856": 1795618874,
   "https://www.myhome.ie/residential/brochure/14-the-grange-ballyboughal-county-dublin/5002158": 1793309177,
   "https://www.myhome.ie/residential/brochure/14-the-grove-curragh-grange-newbridge-co-kildare/5031233": 1793307205,
   "https://www.myhome.ie/residential/brochure/14-the-maple-donaghmede-dublin-13/5041643": 1795390665,
@@ -5142,6 +5144,8 @@
   "https://www.myhome.ie/residential/brochure/the-bramble-bennetstown-dunboyne-meath/5023190": 1793307205,
   "https://www.myhome.ie/residential/brochure/the-bridge-house-baltinglass-wicklow/5031028": 1793307204,
   "https://www.myhome.ie/residential/brochure/the-bungalow-25a-centre-road-rathdrum-wicklow/5041800": 1795390676,
+  "https://www.myhome.ie/residential/brochure/the-bungalow-connaught-street-athboy-co-meath/5042858": 1795618874,
+  "https://www.myhome.ie/residential/brochure/the-bungalow-connaught-street-athboy-co-meath/5042864": 1795618874,
   "https://www.myhome.ie/residential/brochure/the-bungalow-curryhills-prosperous-co-kildare/5030953": 1793307205,
   "https://www.myhome.ie/residential/brochure/the-buttercup-yourell-s-meadows-south-malahide-county-dublin/4994250": 1793309177,
   "https://www.myhome.ie/residential/brochure/the-campbell-mariner-s-point-wicklow-town-wicklow/4971061": 1793307204,
@@ -9364,28 +9368,6 @@
    "url": "https://www.myhome.ie/residential/brochure/276-charlesland-wood-greystones-co-wicklow/5038903",
    "viewings": []
   },
-  "9832195286": {
-   "_sent_at": 1793307242,
-   "address": "23 Rushbrook Avenue Templeogue Dublin 6W",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 2,
-   "bedrooms": 3,
-   "ber": "B2",
-   "description": "23 Rushbrook Avenue, Templeogue,   Dublin 6W, 3 Bed, asking price €675,000, brought to market by Mullery O Gara Estate Agents, Residential - 4786049 (rated B2)",
-   "details_fetched": true,
-   "floor_area_m2": 113.0,
-   "image": "https://photos-a.propertyimages.ie/media/9/4/0/4786049/dae695e8-7668-40c8-8d4b-2255078cf3cb_x.jpg",
-   "new_build": false,
-   "parking": 1,
-   "price": 675000,
-   "property_type": "semi-detached",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/23-rushbrook-avenue-templeogue-dublin-6w/4786049",
-   "viewings": []
-  },
   "985f756868": {
    "_sent_at": 1793309789,
    "address": "38 Blackberry Rise, Portmarnock,   County Dublin",
@@ -10691,6 +10673,28 @@
    "viewings": [
     "Located in a quiet Cul de Sac BER Details BER: A2 Viewing Details Please call the office on 018462752 to make an appointment view"
    ]
+  },
+  "c288a3d7dc": {
+   "_sent_at": 1795618874,
+   "address": "13 Mount Eagle Lawn Leopardstown Dublin 18",
+   "agent_email": null,
+   "agent_name": null,
+   "agent_phone": null,
+   "bathrooms": null,
+   "bedrooms": null,
+   "ber": null,
+   "description": "",
+   "details_fetched": false,
+   "floor_area_m2": null,
+   "image": null,
+   "new_build": false,
+   "parking": null,
+   "price": null,
+   "property_type": null,
+   "sale_agreed": false,
+   "source": "daft",
+   "url": "https://www.daft.ie/for-sale/13-mount-eagle-lawn-leopardstown-dublin-18/6730824",
+   "viewings": []
   },
   "c33ebe8819": {
    "_sent_at": 1793307874,
