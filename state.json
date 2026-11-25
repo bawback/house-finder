@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 83,
- "last_full_sweep": 1795538363,
+ "last_full_sweep": 1795611994,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -860,6 +860,7 @@
   "https://www.myhome.ie/residential/brochure/140-grattan-lodge-hole-in-the-wall-road-donaghmede-dublin-13/5027296": 1793307204,
   "https://www.myhome.ie/residential/brochure/141-ardlea-road-artane-dublin-5/5029360": 1793899860,
   "https://www.myhome.ie/residential/brochure/141-barton-road-east-churchtown-dublin-14/4995862": 1795390655,
+  "https://www.myhome.ie/residential/brochure/141-barton-road-east-dundrum-dublin-14/4995862": 1795611994,
   "https://www.myhome.ie/residential/brochure/142-carlton-court-swords-county-dublin/5032704": 1793309177,
   "https://www.myhome.ie/residential/brochure/142-landen-road-ballyfermot-dublin-10/5039135": 1793615457,
   "https://www.myhome.ie/residential/brochure/142-rath-lodge-ashbourne-co-meath/5040665": 1794331862,
@@ -12344,25 +12345,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 133,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 171,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 188,
+   "pages": 11
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 62,
+   "pages": 11
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 170,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 132,
+   "pages": 8
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 121,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 138,
+   "pages": 8
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 27,
+   "pages": 5
+  },
+  "myhome-dublin-north-county": {
+   "error": "HTTP 403",
+   "listings": 502,
+   "pages": 29
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 368,
+   "pages": 24
   },
   "myhome-kildare": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-meath": {
-   "error": null,
-   "listings": 20,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-wicklow": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   }
  },
  "telegram_offset": 593474601
