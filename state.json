@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 86,
+ "last_email_uid": 88,
  "last_full_sweep": 1795611994,
  "paused": false,
  "pending": {},
@@ -163,6 +163,7 @@
   "https://www.daft.ie/for-sale/19-millrace-park-saggart-co-dublin/6727500": 1795390652,
   "https://www.daft.ie/for-sale/19-mount-argus-green-harolds-cross-dublin-6w/6699233": 1795390627,
   "https://www.daft.ie/for-sale/19-sessile-oaks-wicklow-town-co-wicklow/6720547": 1795390652,
+  "https://www.daft.ie/for-sale/2-chapelton-hollystown-dublin-15/6731031": 1795626075,
   "https://www.daft.ie/for-sale/2-churchwell-close-belmayne-dublin-13/6727672": 1795390652,
   "https://www.daft.ie/for-sale/2-gazelle-terrace-tyrrelstown-dublin-15/6724134": 1795390627,
   "https://www.daft.ie/for-sale/2-oghill-redcross-co-wicklow/6723742": 1795390627,
@@ -207,6 +208,7 @@
   "https://www.daft.ie/for-sale/77-rossmore-avenue-newtownmountkennedy-co-wicklow/6727032": 1795390652,
   "https://www.daft.ie/for-sale/9-myrtle-house-myrtle-drive-clarehall-dublin-13/6728749": 1795444266,
   "https://www.daft.ie/for-sale/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/6729098": 1795455076,
+  "https://www.daft.ie/for-sale/ballykillavane-glenealy-co-wicklow/6729971": 1795626075,
   "https://www.daft.ie/for-sale/fiddlers-cottage-fiddlers-lane-ballinabarney-redcross-co-wicklow/6674109": 1795532536,
   "https://www.daft.ie/for-sale/no-86-church-hill-dunlavin-co-wicklow/6725413": 1795390630,
   "https://www.daft.ie/for-sale/no-88-burgage-manor-blessington-co-wicklow/6726907": 1795390652,
@@ -318,6 +320,7 @@
   "https://www.myhome.ie/residential/brochure/1-redford-park-greystones-co-wicklow/5026901": 1793307500,
   "https://www.myhome.ie/residential/brochure/1-ridge-hall-ballybrack-county-dublin/5042729": 1795541463,
   "https://www.myhome.ie/residential/brochure/1-rosehaven-castleknock-dublin-15/5039635": 1793795462,
+  "https://www.myhome.ie/residential/brochure/1-rowan-close-castletown-celbridge-county-kildare/5042924": 1795626079,
   "https://www.myhome.ie/residential/brochure/1-russell-avenue-east-east-wall-dublin-3/5027182": 1793307204,
   "https://www.myhome.ie/residential/brochure/1-sandford-avenue-donnybrook-dublin-4/4966851": 1793307003,
   "https://www.myhome.ie/residential/brochure/1-seapoint-manor-4-seapoint-avenue-blackrock-co-dublin-blackrock-county-dublin/5038252": 1793309177,
@@ -1303,6 +1306,7 @@
   "https://www.myhome.ie/residential/brochure/2-castlevillage-grove-celbridge-county-kildare/5042026": 1795390683,
   "https://www.myhome.ie/residential/brochure/2-chapel-avenue-irishtown-dublin-4/4992156": 1793307014,
   "https://www.myhome.ie/residential/brochure/2-chapel-farm-close-plus-attic-conversion-lusk-county-dublin/5025590": 1793309177,
+  "https://www.myhome.ie/residential/brochure/2-chapelton-hollystown-dublin-15/5042536": 1795626075,
   "https://www.myhome.ie/residential/brochure/2-chestnut-grove-johnstown-wood-johnstown-meath/5037045": 1793307205,
   "https://www.myhome.ie/residential/brochure/2-church-building-main-street-arklow-co-wicklow/4530985": 1793307204,
   "https://www.myhome.ie/residential/brochure/2-churchgate-clonsilla-dublin-15/5002813": 1793307204,
@@ -1712,6 +1716,7 @@
   "https://www.myhome.ie/residential/brochure/25-tandy-s-place-adamstown-lucan-co-dublin/5022804": 1793629863,
   "https://www.myhome.ie/residential/brochure/25-the-cairn-rush-co-dublin/5035521": 1793309177,
   "https://www.myhome.ie/residential/brochure/25-the-close-curragh-grange-newbridge-co-kildare/5042915": 1795624404,
+  "https://www.myhome.ie/residential/brochure/25-the-close-curragh-grange-newbridge-kildare/5042915": 1795626079,
   "https://www.myhome.ie/residential/brochure/25-the-drive-melrose-park-swords-co-dublin/5042058": 1795390676,
   "https://www.myhome.ie/residential/brochure/25-the-green-castle-farm-naas-co-kildare/5041779": 1795390683,
   "https://www.myhome.ie/residential/brochure/25-the-pines-arklow-wicklow/5016954": 1793307204,
@@ -1765,6 +1770,7 @@
   "https://www.myhome.ie/residential/brochure/26-spencer-street-north-north-strand-dublin-3/4991257": 1793307204,
   "https://www.myhome.ie/residential/brochure/26-st-peters-road-walkinstown-greenhills-dublin-12/5038808": 1793320259,
   "https://www.myhome.ie/residential/brochure/26-stonepark-abbey-rathfarnham-dublin-14/5038592": 1793307159,
+  "https://www.myhome.ie/residential/brochure/26-sullivan-street-stoneybatter-dublin-7/5039937": 1795626075,
   "https://www.myhome.ie/residential/brochure/26-sycamore-grove-westminster-park-foxrock-dublin-18/5030892": 1793313094,
   "https://www.myhome.ie/residential/brochure/26-the-cedar-parkview-stepaside-dublin-18/4955606": 1793309177,
   "https://www.myhome.ie/residential/brochure/26-the-close-ledwill-park-kilcock-co-kildare/5030019": 1793307205,
@@ -2046,6 +2052,7 @@
   "https://www.myhome.ie/residential/brochure/3-the-dale-downshire-park-blessington-wicklow/5006770": 1793307204,
   "https://www.myhome.ie/residential/brochure/3-the-drive-glenveigh-navan-meath/5038348": 1793307205,
   "https://www.myhome.ie/residential/brochure/3-the-field-barndarrig-kilbride-wicklow/5028675": 1793307204,
+  "https://www.myhome.ie/residential/brochure/3-the-glade-oldtown-mill-celbridge-county-kildare/5042918": 1795626079,
   "https://www.myhome.ie/residential/brochure/3-the-granary-20-temple-lane-south-temple-bar-dublin-2/5039666": 1793806264,
   "https://www.myhome.ie/residential/brochure/3-the-rise-main-street-blanchardstown-blanchardstown-dublin/5011313": 1793307204,
   "https://www.myhome.ie/residential/brochure/3-tyrrellsbrook-crescent-tyrrellsbrook-edenderry-offaly/5023032": 1793307205,
@@ -4045,6 +4052,7 @@
   "https://www.myhome.ie/residential/brochure/apt-1-silken-park-kingswood-dublin/5039890": 1793894474,
   "https://www.myhome.ie/residential/brochure/apt-1-st-lawrence-quay-harbour-road-howth-dublin-13/4976788": 1793309177,
   "https://www.myhome.ie/residential/brochure/apt-1-the-green-gas-yard-lane-malahide-co-dublin/5006493": 1793309177,
+  "https://www.myhome.ie/residential/brochure/apt-100-corn-mill-distillery-road-drumcondra-dublin-3/5015286": 1795626075,
   "https://www.myhome.ie/residential/brochure/apt-101-college-view-ballymun-road-ballymun-dublin-11/5028400": 1793809864,
   "https://www.myhome.ie/residential/brochure/apt-106-block-1-the-watermill-dublin-5/5034320": 1793631676,
   "https://www.myhome.ie/residential/brochure/apt-110-castle-hall-swords-central-swords-county-dublin/5037945": 1793309177,
@@ -6223,6 +6231,28 @@
     "Call us today to arrange a viewing of this must-see property"
    ]
   },
+  "260e7d2774": {
+   "_sent_at": 1795626079,
+   "address": "3 The Glade, Oldtown Mill, Celbridge, County Kildare",
+   "agent_email": "annah@coonan.com",
+   "agent_name": "Coonan Property (Celbridge)",
+   "agent_phone": "01 628 8400",
+   "bathrooms": 3,
+   "bedrooms": 3,
+   "ber": null,
+   "description": "•Coonan Property offer this well-presented three-bedroom semi-detached home, located within the popular Oldtown Mill development\n•Offering bright, well-proportioned accommodation extending to approx. 103 sq.m and comprising entrance hallway, guest w.c., living room, kitchen, dining room, three bedrooms (master ensuite) and family bathroom\n•Generous west-facing rear garden of approx. 50ft, offers potential to extend subject to necessary p.p\n•Oldtown Mill is a well-established, family-friendly development featuring tree-lined avenues and numerous beautifully maintained green spaces\n•Conveniently located within walking distance of primary and secondary schools, local shops, bus stops, sports clubs and Celbridge Main Street\n•Excellent transport links with easy access to the N4/M4 road network, regular bus services to Dublin and Leixlip Louisa Bridge train station a short drive away\n\nGuide Price\n445,000\n\nType of Transaction\nPrivate Treaty\n\nAccommodation:\nEntrance Driveway\nPrivate driveway with a lawn and mature hedging to the front.\n\nEntrance Hallway 4.94m x 1.78m\nTiled floor, coving and a pendant light fitting, with understairs guest w.c. and stairs to the first floor.\n\nGuest W.C. 0.75m x 1.71m\nLocated under the stairs, with tiled floor, w.c., w.h.b., light fitting and a small window.\n\nLiving Room 5.65m x 3.52m\nCarpeted reception room with coving, wall lights, a pendant light fitting and TV point. A feature fireplace with granite hearth and gas fire insert sits alongside a bay window, with double doors through to the dining room.\nKitchen 6.24m x 2.48m\nTiled floor, fitted with shaker style floor and wall units, a tiled splashback, stainless-steel sink, oven and gas hob. Plumbed for a washing machine, complete with fridge freezer, washing machine and dishwasher, with a door to the rear garden and a door through to the dining room.\n\nDining Room 2.87m x 3.91m\nSeparate dining room with a tiled floor, coving and a pendant light fitting. A sliding door opens to the rear garden, with double doors through to the living room.\n\nLanding 2.92m x 1.72m\nCarpeted stairs lead up to the landing, which has carpet, attic access via a hatch and a hotpress with shelving.\n\nMaster Bedroom 3.63m x 3.56m\nRear-facing bedroom overlooking the back garden, with carpet, fitted wardrobes, roller blinds and a pendant light fitting.\n\nEnsuite 1.92m x 1.58m\nTiled floor, shower cubicle, w.c., w.h.b., light fitting and a window.\n\nBedroom 2 3.13m x 4.38m\nFront-facing bedroom with carpet, fitted wardrobes, a roller blind and a pendant light fitting.\n\nBedroom 3 2.79m x 2.31m\nSingle bedroom with carpet, a fitted wardrobe with shelf, storage beneath the bed, a roller blind and a pendant light fitting.\n\nBathroom 2.31m x 1.86m\nTiled floor, bath with tiled surround, w.c., w.h.b. and a frosted glass window.\n\nRear Garden 14.50m x 7.30m\nWest-facing rear garden with a Barna shed and an outside light, and dashed walls to the side and rear. \n\nAdditional Information\nGross internal floor area approx. 103 sq.m (1,110 sq.ft)\nRecently repainted throughout\nBuilt c. 2000\nWide gated side entrance of approx. 1.5m \nItems Included in Sale\nFridge freezer, oven, gas hob, washing machine and dishwasher. \nServices\nMains water\nGas fire central heating \n\nBER \nTBC\n\nViewing\nBy appointment only.\n\nEircode: W23 PR92\n\nContact Information\nSales Person \nMick Wright\n016288400 Notice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.",
+   "details_fetched": true,
+   "floor_area_m2": 103.12,
+   "image": "https://photos-a.propertyimages.ie/media/8/1/9/5042918/6309fe73-984f-4875-b9e1-4e8c2c9a735d_l.jpg",
+   "new_build": false,
+   "parking": 1,
+   "price": 445000,
+   "property_type": "semi-detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/3-the-glade-oldtown-mill-celbridge-county-kildare/5042918",
+   "viewings": []
+  },
   "272351abcc": {
    "_sent_at": 1793311349,
    "address": "21 Bayside Boulevard South, Sutton, Dublin 13",
@@ -7051,31 +7081,6 @@
    "source": "myhome",
    "url": "https://www.myhome.ie/residential/brochure/15-waterside-rise-malahide-county-dublin/5029533",
    "viewings": []
-  },
-  "4649534211": {
-   "_sent_at": 1793307253,
-   "address": "49 Beech Drive Dundrum Dublin 16",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 2,
-   "bedrooms": 3,
-   "ber": null,
-   "description": "49 Beech Drive, Dundrum, Dublin 16, 3 Bed, asking price €675,000, brought to market by Ray Cooke Auctioneers, Residential - 5038710",
-   "details_fetched": true,
-   "floor_area_m2": 111.0,
-   "image": "https://photos-a.propertyimages.ie/media/0/1/7/5038710/d68a60ce-9ee5-4d0a-ba76-485500f6a0bd_x.jpg",
-   "new_build": false,
-   "parking": 1,
-   "price": 675000,
-   "property_type": "semi-detached",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/49-beech-drive-dundrum-dublin-16/5038710",
-   "viewings": [
-    "Early viewing is highly recommended contact Ray Cooke Auctioneers today to arrange a viewing! c",
-    "111 sqm BER C 3 Bed / 2 Bath Semi detached house Off street parking Sunny rear garden in lawn Not directly overlooked to the rear Oil fired central heating Double glazed windows Fully fitted kitchen P"
-   ]
   },
   "47ad493f77": {
    "_sent_at": 1795620661,
@@ -11358,30 +11363,6 @@
     "Early viewing with Paul Menton and Melanie Brady is advised"
    ]
   },
-  "dc09fda8db": {
-   "_sent_at": 1793307250,
-   "address": "48 Mountdown Road Manor Estate Terenure Dublin 12",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 2,
-   "bedrooms": 3,
-   "ber": null,
-   "description": "48 Mountdown Road, Manor Estate, Terenure, Dublin 12, 3 Bed, asking price €595,000, brought to market by DNG Terenure, Residential - 5036129 (rated D)",
-   "details_fetched": true,
-   "floor_area_m2": 123.0,
-   "image": "https://photos-a.propertyimages.ie/media/9/2/1/5036129/5f875816-b62a-4097-99b6-1e252c88b575_x.jpg",
-   "new_build": false,
-   "parking": 1,
-   "price": 595000,
-   "property_type": "semi-detached",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/48-mountdown-road-manor-estate-terenure-dublin-12/5036129",
-   "viewings": [
-    "Early viewing is highly recommended"
-   ]
-  },
   "dd8577bf43": {
    "_sent_at": 1794341396,
    "address": "6 Castlefield Manor, Knocklyon, Dublin 16",
@@ -11526,6 +11507,28 @@
    "viewings": [
     "Viewing is highly recommended"
    ]
+  },
+  "e03ff83aff": {
+   "_sent_at": 1795626079,
+   "address": "1 Rowan Close, Castletown, Celbridge, County Kildare",
+   "agent_email": "annah@coonan.com",
+   "agent_name": "Coonan Property (Celbridge)",
+   "agent_phone": "01 628 8400",
+   "bathrooms": 2,
+   "bedrooms": 4,
+   "ber": "B1",
+   "description": "•Coonan Property presents this attractive four-bedroom, B-rated detached home, on a generous south facing site within the highly sought-after Castletown development\n•Ideally positioned in a quiet cul-de-sac with private access directly into the historic Castletown House Demesne and Parklands\n•Built in the late 1970s, the property has benefited from numerous upgrades in recent years, including external wall insulation, double-glazed windows, installation of gas-fired central heating with a new A-rated condenser boiler, achieving an impressive B energy rating\n•Accommodation comprises an entrance hallway, guest w.c., living room, kitchen/dining area, four bedrooms and main bathroom\n•Enjoys a private, south-facing rear garden which is not overlooked, complete with a timber shed and retractable awning\n•Generous front garden with lawn and spacious driveway providing off-street parking for four or more cars\n•Superbly located within a short stroll of Celbridge Main Street, with an excellent selection of local amenities including schools, shops, cafés and recreational facilities\n•Excellent transport links with easy access to the N4/M4 road network, regular bus services to Dublin city centre and Hazelhatch train station just a short drive away\n\n\nGuide Price\n545,000\n\nType of Transaction\nPrivate Treaty\n\nAccommodation:\nEntrance Driveway\nGenerous driveway and lawn providing off-street parking for approx. 4 cars.\n\nEntrance Hallway (4.85m x 1.10m) + (1.83m x 2.70m)\nLaminate flooring throughout the L-shaped hallway, with a PVC double glazed front door. Carpeted stairs lead to the first floor.\n\nGuest W.C. 1.53m x 0.80m\nGround floor guest w.c. with laminate flooring, w.c., w.h.b. and extractor fan.\n\nLiving Room 4.65m x 3.67m\nLaminate flooring and coving, with a feature fireplace that has a marble hearth and electric fire insert and double-glazed PVC windows.\n\nKitchen/Dining 3.63m x 5.86m\nTiled floor in the kitchen area and laminate wood flooring in the dining area. Solid fitted kitchen with a range of floor and wall units, tiled splashback, stainless steel sink, cooker and extractor fan, plumbed for washing machine. Coving and downlights, with a PVC double glazed door and a separate sliding door, both opening to the south-facing rear garden.\n\nLanding 1.76m x 2.10m\nCarpeted landing with access to the attic via a folding attic ladder.\n\nMaster Bedroom 3.86m x 3.23m\nFront-facing double bedroom with semi-solid wood flooring, fitted sliding wardrobes and 2 windows.\n\nBedroom 2 3.92m x 2.60m\nSemi-solid wood flooring, fitted sliding wardrobes and a window to the front.\n\nBedroom 3 3.23m x 3.60m\nLaminate wood flooring, fitted sliding wardrobes and a window overlooking the rear garden.\n\nBedroom 4 3.00m x 2.60m\nSingle bedroom with laminate wood flooring, fitted sliding wardrobes and a window overlooking the rear garden.\n\nBathroom 1.67m x 2.35m\nRecently refurbished and fully tiled, featuring a wet room shower area with fitted shower seat, w.c., w.h.b., heated vertical towel rail, extractor fan and frosted glass window.\n\nRear Garden approx. 8.57m x 9.50m\nSouth-facing rear garden that is not overlooked, complete with a timber shed and a retractable folding awning. \n\nAdditional Information:\nGross internal floor area approx. 109 sq.m/1,173 sq.ft\nBuilt c. 1976\nGas-fired central heating with a new A-rated condenser boiler\nOutside tap\nOutside lighting \nGated side access\nReady for immediate occupancy with no onward chain\n\nItems Included in sale:\nCooker, extractor fan, washing machine and light fittings. \n\nServices\nMains water\nGas fire central heating \n\nBER \nB\n\nViewing\nBy appointment only.\n\nEircode: W23 WR99\n\nContact Information\nSales Person \nMick Wright \n016288400 Notice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.",
+   "details_fetched": true,
+   "floor_area_m2": 108.98,
+   "image": "https://photos-a.propertyimages.ie/media/4/2/9/5042924/9e5c8937-b836-47a7-a404-426e8fe9c686_l.jpg",
+   "new_build": false,
+   "parking": 4,
+   "price": 545000,
+   "property_type": "detached",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/1-rowan-close-castletown-celbridge-county-kildare/5042924",
+   "viewings": []
   },
   "e0fb16bd0c": {
    "_sent_at": 1793309824,
