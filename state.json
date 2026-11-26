@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 89,
- "last_full_sweep": 1795611994,
+ "last_full_sweep": 1795685781,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -2199,6 +2199,7 @@
   "https://www.myhome.ie/residential/brochure/33-brookfield-green-kimmage-dublin-12/4961946": 1793307139,
   "https://www.myhome.ie/residential/brochure/33-castleland-court-balbriggan-co-dublin/5039142": 1793617269,
   "https://www.myhome.ie/residential/brochure/33-cill-carban-duleek-meath/5031286": 1793307205,
+  "https://www.myhome.ie/residential/brochure/33-corr-castle-howth-county-dublin/5042814": 1795685781,
   "https://www.myhome.ie/residential/brochure/33-corr-castle-howth-road-dublin-13/5042814": 1795609870,
   "https://www.myhome.ie/residential/brochure/33-dangan-park-kimmage-dublin-12/4904827": 1793307132,
   "https://www.myhome.ie/residential/brochure/33-eden-park-drive-goatstown-dublin-14/4963841": 1793307204,
@@ -3904,6 +3905,7 @@
   "https://www.myhome.ie/residential/brochure/ailesbury-villa-mews-1b-ailesbury-road-ballsbridge-dublin-4/5041507": 1795390655,
   "https://www.myhome.ie/residential/brochure/aisling-24-rathdown-avenue-terenure-dublin-6w/5036104": 1793307045,
   "https://www.myhome.ie/residential/brochure/aisling-galtrim-road-bray-co-wicklow/5038482": 1793307204,
+  "https://www.myhome.ie/residential/brochure/albany-house-126-126a-and-126b-rathgar-road-rathgar-dublin-6/4957701": 1795685781,
   "https://www.myhome.ie/residential/brochure/alcantra-84-balkill-park-howth-county-dublin/5035175": 1793802661,
   "https://www.myhome.ie/residential/brochure/alderwood-hollystown-dublin-15/5039044": 1793379672,
   "https://www.myhome.ie/residential/brochure/alta-villa-broadleas-commons-ballymore-eustace-co-kildare/5040817": 1794412888,
@@ -4880,6 +4882,7 @@
   "https://www.myhome.ie/residential/brochure/no-45-tinnycross-park-ballymore-eustace-kildare/5039537": 1793804475,
   "https://www.myhome.ie/residential/brochure/no-48-harbour-gate-naas-co-kildare-top-floor-apartment-with-exceptionally-large-terraced/5036131": 1793307204,
   "https://www.myhome.ie/residential/brochure/no-6-priory-court-saint-raphael-s-manor-celbridge-kildare/5024977": 1793311397,
+  "https://www.myhome.ie/residential/brochure/no-7-vista-montana-firhouse-road-dublin-16-templeogue-co-dublin/5003204": 1795685781,
   "https://www.myhome.ie/residential/brochure/no-7-woodleigh-way-blessington-wicklow/5041583": 1795390679,
   "https://www.myhome.ie/residential/brochure/no-86-church-hill-dunlavin-wicklow/5041842": 1795390676,
   "https://www.myhome.ie/residential/brochure/no-88-burgage-manor-blessington-wicklow/5042156": 1795390676,
@@ -12401,25 +12404,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 133,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 172,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 185,
+   "pages": 11
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 62,
+   "pages": 11
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 169,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 133,
+   "pages": 8
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 121,
+   "pages": 8
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 140,
+   "pages": 8
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 27,
+   "pages": 5
+  },
+  "myhome-dublin-north-county": {
+   "error": "HTTP 403",
+   "listings": 502,
+   "pages": 29
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 369,
+   "pages": 24
   },
   "myhome-kildare": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-meath": {
-   "error": null,
-   "listings": 20,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-wicklow": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   }
  },
  "telegram_offset": 593474601
