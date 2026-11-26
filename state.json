@@ -889,6 +889,7 @@
   "https://www.myhome.ie/residential/brochure/143-stillorgan-heath-stillorgan-co-dublin/5035942": 1793309177,
   "https://www.myhome.ie/residential/brochure/145-biscayne-malahide-co-dublin/5019360": 1793309177,
   "https://www.myhome.ie/residential/brochure/145-hazelbury-park-clonee-dublin-15/5029931": 1793307204,
+  "https://www.myhome.ie/residential/brochure/145-the-dargan-building-heuston-south-quarter-dublin-8/5042906": 1795687284,
   "https://www.myhome.ie/residential/brochure/146-moylaragh-crescent-balbriggan-county-dublin/5010085": 1793309177,
   "https://www.myhome.ie/residential/brochure/146-oliver-plunkett-road-dun-laoghaire-dublin/4825351": 1793309177,
   "https://www.myhome.ie/residential/brochure/146-templeville-drive-templeogue-dublin-6w/5038233": 1793730660,
@@ -12404,75 +12405,25 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin-13": {
+  "myhome-dublin": {
    "error": null,
-   "listings": 133,
-   "pages": 8
-  },
-  "myhome-dublin-14": {
-   "error": null,
-   "listings": 172,
-   "pages": 10
-  },
-  "myhome-dublin-15": {
-   "error": null,
-   "listings": 185,
-   "pages": 11
-  },
-  "myhome-dublin-16": {
-   "error": null,
-   "listings": 62,
-   "pages": 11
-  },
-  "myhome-dublin-18": {
-   "error": null,
-   "listings": 169,
-   "pages": 11
-  },
-  "myhome-dublin-3": {
-   "error": null,
-   "listings": 133,
-   "pages": 8
-  },
-  "myhome-dublin-4": {
-   "error": null,
-   "listings": 121,
-   "pages": 8
-  },
-  "myhome-dublin-6": {
-   "error": null,
-   "listings": 140,
-   "pages": 8
-  },
-  "myhome-dublin-6w": {
-   "error": null,
-   "listings": 27,
-   "pages": 5
-  },
-  "myhome-dublin-north-county": {
-   "error": "HTTP 403",
-   "listings": 502,
-   "pages": 29
-  },
-  "myhome-dublin-south-county": {
-   "error": null,
-   "listings": 369,
-   "pages": 24
+   "listings": 20,
+   "pages": 1
   },
   "myhome-kildare": {
-   "error": "skipped: site blocked an earlier search this run",
-   "listings": 0,
-   "pages": 0
+   "error": null,
+   "listings": 21,
+   "pages": 1
   },
   "myhome-meath": {
-   "error": "skipped: site blocked an earlier search this run",
-   "listings": 0,
-   "pages": 0
+   "error": null,
+   "listings": 20,
+   "pages": 1
   },
   "myhome-wicklow": {
-   "error": "skipped: site blocked an earlier search this run",
-   "listings": 0,
-   "pages": 0
+   "error": null,
+   "listings": 21,
+   "pages": 1
   }
  },
  "telegram_offset": 593474601
