@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 95,
+ "last_email_uid": 96,
  "last_full_sweep": 1795685781,
  "paused": false,
  "pending": {},
@@ -169,6 +169,7 @@
   "https://www.daft.ie/for-sale/2-chapelton-hollystown-dublin-15/6731031": 1795626075,
   "https://www.daft.ie/for-sale/2-churchwell-close-belmayne-dublin-13/6727672": 1795390652,
   "https://www.daft.ie/for-sale/2-gazelle-terrace-tyrrelstown-dublin-15/6724134": 1795390627,
+  "https://www.daft.ie/for-sale/2-liffey-row-liffey-valley-park-lucan-co-dublin/6717273": 1795728671,
   "https://www.daft.ie/for-sale/2-oghill-redcross-co-wicklow/6723742": 1795390627,
   "https://www.daft.ie/for-sale/2-tower-mews-lusk-village-lusk-co-dublin/6711461": 1795692664,
   "https://www.daft.ie/for-sale/22-bay-meadows-view-dublin-15-hollystown-dublin-15/6731538": 1795696271,
@@ -1377,6 +1378,7 @@
   "https://www.myhome.ie/residential/brochure/2-lambay-court-coast-road-malahide-county-dublin/5029610": 1793309177,
   "https://www.myhome.ie/residential/brochure/2-larkfield-place-clay-farm-dublin-18-dublin/5036901": 1793307204,
   "https://www.myhome.ie/residential/brochure/2-larkfield-place-dublin-18/5036901": 1793381996,
+  "https://www.myhome.ie/residential/brochure/2-liffey-row-liffey-valley-park-lucan-co-dublin/5043105": 1795728671,
   "https://www.myhome.ie/residential/brochure/2-loftus-square-rathfarnham-gate-rathfarnham-dublin-14/5035182": 1793307152,
   "https://www.myhome.ie/residential/brochure/2-lower-cherryfield-avenue-ranelagh-dublin-6/5037620": 1793307052,
   "https://www.myhome.ie/residential/brochure/2-ludford-road-ballinteer-dublin-16/5040170": 1794391267,
@@ -3888,6 +3890,7 @@
   "https://www.myhome.ie/residential/brochure/91-pearse-gardens-sallynoggin-co-dublin/5030627": 1793309177,
   "https://www.myhome.ie/residential/brochure/91-the-crescent-carrickmines-manor-carrickmines-dublin-18/5014893": 1793311335,
   "https://www.myhome.ie/residential/brochure/92-archers-wood-avenue-delgany-co-wicklow/5035410": 1793309796,
+  "https://www.myhome.ie/residential/brochure/92-castle-lawns-balrothery-tallaght-dublin-24/5043088": 1795728671,
   "https://www.myhome.ie/residential/brochure/92-oak-glade-blessington-road-naas-co-kildare/5014926": 1793377863,
   "https://www.myhome.ie/residential/brochure/925-moorefield-crescent-newbridge-co-kildare/5010750": 1793307205,
   "https://www.myhome.ie/residential/brochure/93-ballygossan-park-skerries-co-dublin/5010315": 1793309177,
