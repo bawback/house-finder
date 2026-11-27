@@ -3,7 +3,7 @@
   -4628346768
  ],
  "last_email_uid": 96,
- "last_full_sweep": 1795685781,
+ "last_full_sweep": 1795759592,
  "paused": false,
  "pending": {},
  "prefs": {
@@ -377,6 +377,7 @@
   "https://www.myhome.ie/residential/brochure/10-carlton-court-swords-county-dublin/5036572": 1793309177,
   "https://www.myhome.ie/residential/brochure/10-castle-oaks-malahide-county-dublin/4804145": 1793309177,
   "https://www.myhome.ie/residential/brochure/10-castleknock-lodge-castleknock-dublin-15-county-dublin/4830616": 1793307204,
+  "https://www.myhome.ie/residential/brochure/10-castleknock-lodge-castleknock-dublin-15/4830616": 1795759592,
   "https://www.myhome.ie/residential/brochure/10-cedar-square-ridgewood-swords-dublin/5032319": 1793309177,
   "https://www.myhome.ie/residential/brochure/10-clay-farm-green-dublin-18/5035291": 1793307204,
   "https://www.myhome.ie/residential/brochure/10-coldwell-street-glasthule-county-dublin/5031781": 1793309177,
@@ -1457,6 +1458,7 @@
   "https://www.myhome.ie/residential/brochure/20-hilton-gardens-ballinteer-dublin-16/5027527": 1793307204,
   "https://www.myhome.ie/residential/brochure/20-inbhir-ide-malahide-county-dublin/5037905": 1793309177,
   "https://www.myhome.ie/residential/brochure/20-lakelands-avenue-stillorgan-county-dublin/5035981": 1793309177,
+  "https://www.myhome.ie/residential/brochure/20-lanesville-monkstown-co-dublin/5042704": 1795759592,
   "https://www.myhome.ie/residential/brochure/20-leopardstown-gardens-stillorgan-co-dublin/5027907": 1793309177,
   "https://www.myhome.ie/residential/brochure/20-longmeadow-conyngham-road-islandbridge-dublin-8/5019405": 1793354469,
   "https://www.myhome.ie/residential/brochure/20-mount-drummond-avenue-harold-s-cross-dublin-6/5030633": 1793307090,
@@ -3611,6 +3613,7 @@
   "https://www.myhome.ie/residential/brochure/8-aderrig-walk-adamstown-lucan-co-dublin/5006888": 1793309729,
   "https://www.myhome.ie/residential/brochure/8-admiral-court-baldoyle-dublin-13/5036899": 1793899860,
   "https://www.myhome.ie/residential/brochure/8-albany-road-ranelagh-dublin-6/5031501": 1793307083,
+  "https://www.myhome.ie/residential/brochure/8-annesley-bridge-road-fairview-dublin-3/4828561": 1795759592,
   "https://www.myhome.ie/residential/brochure/8-annsbrook-glenealy-co-wicklow/5039269": 1793638878,
   "https://www.myhome.ie/residential/brochure/8-ardagh-park-road-blackrock-county-dublin/5039619": 1793894474,
   "https://www.myhome.ie/residential/brochure/8-ardevan-grove-monasterevin-kildare/5006190": 1793307205,
@@ -12450,25 +12453,75 @@
    "listings": 0,
    "pages": 0
   },
-  "myhome-dublin": {
+  "myhome-dublin-13": {
    "error": null,
-   "listings": 20,
-   "pages": 1
+   "listings": 134,
+   "pages": 8
+  },
+  "myhome-dublin-14": {
+   "error": null,
+   "listings": 164,
+   "pages": 10
+  },
+  "myhome-dublin-15": {
+   "error": null,
+   "listings": 184,
+   "pages": 11
+  },
+  "myhome-dublin-16": {
+   "error": null,
+   "listings": 59,
+   "pages": 11
+  },
+  "myhome-dublin-18": {
+   "error": null,
+   "listings": 170,
+   "pages": 11
+  },
+  "myhome-dublin-3": {
+   "error": null,
+   "listings": 129,
+   "pages": 8
+  },
+  "myhome-dublin-4": {
+   "error": null,
+   "listings": 118,
+   "pages": 7
+  },
+  "myhome-dublin-6": {
+   "error": null,
+   "listings": 141,
+   "pages": 8
+  },
+  "myhome-dublin-6w": {
+   "error": null,
+   "listings": 27,
+   "pages": 5
+  },
+  "myhome-dublin-north-county": {
+   "error": "HTTP 403",
+   "listings": 502,
+   "pages": 29
+  },
+  "myhome-dublin-south-county": {
+   "error": null,
+   "listings": 365,
+   "pages": 24
   },
   "myhome-kildare": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-meath": {
-   "error": null,
-   "listings": 20,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   },
   "myhome-wicklow": {
-   "error": null,
-   "listings": 21,
-   "pages": 1
+   "error": "skipped: site blocked an earlier search this run",
+   "listings": 0,
+   "pages": 0
   }
  },
  "telegram_offset": 593474601
