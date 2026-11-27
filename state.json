@@ -2123,6 +2123,7 @@
   "https://www.myhome.ie/residential/brochure/30-holywell-avenue-swords-dublin/5040457": 1794258070,
   "https://www.myhome.ie/residential/brochure/30-howth-road-sutton-dublin-13/5004136": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-huntstown-road-huntstown-dublin-15/5040405": 1794243678,
+  "https://www.myhome.ie/residential/brochure/30-lanesborough-terrace-finglas-dublin-11/5043120": 1795775462,
   "https://www.myhome.ie/residential/brochure/30-langton-park-newbridge-co-kildare/5037615": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-main-street-howth-co-dublin/5031606": 1793307204,
   "https://www.myhome.ie/residential/brochure/30-melitta-park-kildare-town-co-kildare/5040579": 1794322880,
@@ -2962,6 +2963,7 @@
   "https://www.myhome.ie/residential/brochure/5-tara-glen-drive-navan-meath/5034637": 1793307205,
   "https://www.myhome.ie/residential/brochure/5-the-close-grey-abbey-view-kildare-town-kildare/5039801": 1793880072,
   "https://www.myhome.ie/residential/brochure/5-the-garrans-portrane-road-donabate-county-dublin/5037007": 1793309177,
+  "https://www.myhome.ie/residential/brochure/5-the-green-beaumont-woods-beaumont-dublin-9/5043050": 1795775462,
   "https://www.myhome.ie/residential/brochure/5-the-mews-station-manor-portmarnock-county-dublin/5021527": 1793309177,
   "https://www.myhome.ie/residential/brochure/5-the-oaks-ballinahinch-woods-ashford-co-wicklow/5026069": 1793307204,
   "https://www.myhome.ie/residential/brochure/5-the-paddock-moyglare-abbey-maynooth-co-kildare/5019414": 1795390693,
@@ -4938,6 +4940,7 @@
   "https://www.myhome.ie/residential/brochure/no-86-church-hill-dunlavin-wicklow/5041842": 1795390676,
   "https://www.myhome.ie/residential/brochure/no-88-burgage-manor-blessington-wicklow/5042156": 1795390676,
   "https://www.myhome.ie/residential/brochure/north-ridge-killacloran-aughrim-wicklow/5039167": 1793723462,
+  "https://www.myhome.ie/residential/brochure/number-9-rosemount-estate-dundrum-dublin-14/5043115": 1795775462,
   "https://www.myhome.ie/residential/brochure/nurney-demesne-kildare-nurney-co-kildare/5022058": 1793307205,
   "https://www.myhome.ie/residential/brochure/nurney-demesne-nurney-co-kildare/5039040": 1793379672,
   "https://www.myhome.ie/residential/brochure/o-growney-street-athboy-meath/5030631": 1793307205,
@@ -10393,6 +10396,30 @@
     "Early viewing is advised to avail of the opportunity to purchase such a wonderful home"
    ]
   },
+  "b258e39c9e": {
+   "_sent_at": 1795775462,
+   "address": "Number 9 - Rosemount Estate, Dundrum,   Dublin 14",
+   "agent_email": "info@lynam.ie",
+   "agent_name": "Lynam Auctioneers & Estate Agents",
+   "agent_phone": "01 296 5374",
+   "bathrooms": 2,
+   "bedrooms": 3,
+   "ber": "C1",
+   "description": "Lynam Auctioneers are delighted to present 9 Rosemount to the market – a beautifully presented three-bedroom, two-bathroom family home, ideally positioned within this mature and family-friendly estate.\r\n\r\nTastefully decorated throughout, this inviting home offers bright, well-proportioned accommodation designed for modern living. A particular feature is the wonderful west-facing rear garden, providing a private and sunny space to relax, entertain and enjoy long summer evenings. The addition of a superb Seomra offers excellent versatility, whether as a home office, gym, playroom or additional living space.\r\n\r\nRosemount is a location that truly offers the best of convenience and community. With every conceivable amenity on your doorstep, day-to-day living could not be easier. Dundrum Village, Dundrum Town Centre and the Luas are all within easy reach, providing excellent shopping, dining and transport options, while a host of schools, parks and recreational facilities are nearby. With so much within walking distance, there is little need to rely on a car.\r\n\r\nThe property would make an excellent home for a first-time buyer looking to take that important step onto the property ladder, offering a wonderful combination of turnkey presentation, generous accommodation, outdoor space and an exceptionally convenient location. Equally, its layout and family-friendly setting make it an appealing choice for those looking to establish a long-term family home.\r\n\r\nThis is a warm and welcoming home, where everything you need is close at hand and where a real sense of community exists. It offers the rare opportunity to enjoy peaceful residential living while being within easy reach of all that Dundrum and South Dublin have to offer.\r\n\r\n9 Rosemount represents an excellent opportunity to acquire a home that is ready to walk into, in one of South Dublin’s most convenient and sought-after locations.\r\n\r\nEarly viewing is highly recommended. Beautifully Presented Three-Bedroom, Two-Bathroom Home\r\nWest-Facing Rear Garden with Superb Seomra\r\nIdeal First-Time Buyer Opportunity\r\nDundrum Luas & Dundrum Town Centre on Your Doorstep\r\nFamily-Friendly Estate with Excellent Local Amenities",
+   "details_fetched": true,
+   "floor_area_m2": 89.0,
+   "image": "https://photos-a.propertyimages.ie/media/5/1/1/5043115/aa67a41a-ea08-4049-9d90-0f799fe22e9a_l.jpg",
+   "new_build": false,
+   "parking": null,
+   "price": 595000,
+   "property_type": "terraced",
+   "sale_agreed": false,
+   "source": "myhome",
+   "url": "https://www.myhome.ie/residential/brochure/number-9-rosemount-estate-dundrum-dublin-14/5043115",
+   "viewings": [
+    "Early viewing is highly recommended"
+   ]
+  },
   "b286c18b90": {
    "_sent_at": 1793307870,
    "address": "1 Cairnbrook Way Cairnbrook Dublin 18",
@@ -11689,30 +11716,6 @@
    "source": "daft",
    "url": "https://www.daft.ie/for-sale/71-diswellstown-way-castleknock-dublin-15/6728773",
    "viewings": []
-  },
-  "e291dfd121": {
-   "_sent_at": 1793307257,
-   "address": "40 Glendoher Drive Rathfarnham Dublin 16",
-   "agent_email": null,
-   "agent_name": null,
-   "agent_phone": null,
-   "bathrooms": 2,
-   "bedrooms": 3,
-   "ber": null,
-   "description": "40 Glendoher Drive, Rathfarnham, Dublin 16, 3 Bed, asking price €695,000, brought to market by DNG Rathfarnham, Residential - 5038009 (rated B)",
-   "details_fetched": true,
-   "floor_area_m2": 155.0,
-   "image": "https://photos-a.propertyimages.ie/media/9/0/0/5038009/3258b4d4-ed92-4bae-80a6-fe91d8b94383_x.jpg",
-   "new_build": false,
-   "parking": 1,
-   "price": 695000,
-   "property_type": "semi-detached",
-   "sale_agreed": false,
-   "source": "myhome",
-   "url": "https://www.myhome.ie/residential/brochure/40-glendoher-drive-rathfarnham-dublin-16/5038009",
-   "viewings": [
-    "ie All Properties Houses For Sale Apartments For Sale Available to View Recently Added Properties Overseas Holiday Homes Properties For Auction Upcoming Auctions Auction BER Assessors Property Conveya"
-   ]
   },
   "e496499d30": {
    "_sent_at": 1795390714,
