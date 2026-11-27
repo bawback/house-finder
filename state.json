@@ -2,7 +2,7 @@
  "chats": [
   -4628346768
  ],
- "last_email_uid": 98,
+ "last_email_uid": 99,
  "last_full_sweep": 1795759592,
  "paused": false,
  "pending": {},
@@ -142,6 +142,7 @@
  },
  "seen": {
   "https://www.daft.ie/for-sale/1-carrig-view-ballinaclash-co-wicklow/6725989": 1795390652,
+  "https://www.daft.ie/for-sale/1-the-mews-balbriggan-street-skerries-co-dublin/6720382": 1795779070,
   "https://www.daft.ie/for-sale/10-gartan-court-estuary-road-swords-co-dublin/6717685": 1795451471,
   "https://www.daft.ie/for-sale/105-the-dale-belgard-heights-kingswood-dublin-24/6729581": 1795523460,
   "https://www.daft.ie/for-sale/12-oldbridge-green-lucan-co-dublin/6724614": 1795390627,
@@ -485,6 +486,7 @@
   "https://www.myhome.ie/residential/brochure/108-heathervue-greystones-co-wicklow/5038032": 1793307562,
   "https://www.myhome.ie/residential/brochure/108-olcovar-dublin-road-shankill/5016935": 1793309177,
   "https://www.myhome.ie/residential/brochure/108-woodlawn-allenwood-co-kildare/5040210": 1794056470,
+  "https://www.myhome.ie/residential/brochure/109-allen-view-heights-newbridge-co-kildare/5043130": 1795779070,
   "https://www.myhome.ie/residential/brochure/109-allen-view-heights-newbridge-kildare/4976274": 1793307205,
   "https://www.myhome.ie/residential/brochure/109-allen-view-heights-newbridge-newbridge-co-kildare/5016844": 1793307205,
   "https://www.myhome.ie/residential/brochure/109-merchants-road-east-wall-dublin-3/5041109": 1794817856,
@@ -2102,6 +2104,7 @@
   "https://www.myhome.ie/residential/brochure/3-waterside-avenue-malahide-county-dublin/5030533": 1793309177,
   "https://www.myhome.ie/residential/brochure/3-watson-avenue-killiney-county-dublin/5040482": 1794308468,
   "https://www.myhome.ie/residential/brochure/3-weston-avenue-lucan-co-dublin/5039877": 1793961055,
+  "https://www.myhome.ie/residential/brochure/3-whitethorn-avenue-naas-co-kildare/5043136": 1795779070,
   "https://www.myhome.ie/residential/brochure/3-woodfield-mews-kilmainham-dublin-10/5037247": 1794245459,
   "https://www.myhome.ie/residential/brochure/30-albany-road-ranelagh-dublin-6/5042490": 1795449672,
   "https://www.myhome.ie/residential/brochure/30-bargy-road-east-wall-dublin-3/5021110": 1793307204,
@@ -4019,6 +4022,7 @@
   "https://www.myhome.ie/residential/brochure/apartment-206-longboat-quay-north-apartments-grand-canal-dk-dublin-2/5032112": 1793376075,
   "https://www.myhome.ie/residential/brochure/apartment-21-block-c-smithfield-market-smithfield-dublin-7/5040978": 1794490257,
   "https://www.myhome.ie/residential/brochure/apartment-21-the-oak-parkview-stepaside-dublin-18/5036617": 1793309177,
+  "https://www.myhome.ie/residential/brochure/apartment-21-the-tannery-48-56-cork-street-dublin-8-dublin/5043118": 1795779070,
   "https://www.myhome.ie/residential/brochure/apartment-22-millbank-square-sallins-co-kildare/5002049": 1793307205,
   "https://www.myhome.ie/residential/brochure/apartment-23-block-b-shanowen-hall-shanowen-road-santry/5041234": 1794583902,
   "https://www.myhome.ie/residential/brochure/apartment-23-woodlands-grove-blackrock-co-dublin-blackrock-dublin/5030304": 1793309177,
